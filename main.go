@@ -4,7 +4,6 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/superuserkalo/manna/byemsg.go"
 	tea "github.com/charmbracelet/bubbletea"
 	//"github.com/charmbracelet/lipgloss"
 	//"github.com/charmbracelet/bubbles/tree/master/help"
@@ -67,7 +66,8 @@ func (m model) Update(msg tea.Msg) (tea.Model, tea.Cmd) {
 
 func (m model) View() string {
 	if m.quitting {
-		return goodbyemessage() + "\n"
+		goodbye := GoodbyeMessage()
+		return goodbye + "\n"
 	}
 
 	// The header

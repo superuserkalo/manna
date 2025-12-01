@@ -2,7 +2,7 @@ package main
 
 import "math/rand/v2"
 
-func goodbyemessage() string {
+func GoodbyeMessage() string {
 	goodbyes := []string{
 		"Grace and peace to you.",
 		"The Lord be with you.",
