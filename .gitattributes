@@ -1,2 +1,2 @@
-#bibles/eng-webu/bible_web_nusj.json filter=lfs diff=lfs merge=lfs -text
-#bibles/eng-kjv/bible_kjv_nusj.json filter=lfs diff=lfs merge=lfs -text
+bibles/eng-webu/bible_web_nusj.json filter=lfs diff=lfs merge=lfs -text
+bibles/eng-kjv/bible_kjv_nusj.json filter=lfs diff=lfs merge=lfs -text

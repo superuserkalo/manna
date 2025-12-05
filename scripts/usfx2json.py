@@ -18,8 +18,8 @@ BIBLE_INFO = {
 }
 
 sources = [
-    ("../bibles/eng-kjv/eng-kjv_usfx.xml", "bible_kjv.json"),
-    ("../bibles/eng-webu/eng-webu_usfx.xml", "bible_web.json"),
+    ("../bibles/eng-kjv/bible_kjv_usfx.xml", "bible_kjv.json"),
+    ("../bibles/eng-webu/bible_webu_usfx.xml", "bible_web.json"),
 ]
 
 for source, file in sources:
