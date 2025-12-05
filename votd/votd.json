@@ -1,0 +1,10222 @@
+[
+  {
+    "id": 1,
+    "book_code": "JHN",
+    "chapter": 3,
+    "verse_start": 16,
+    "verse_end": 16
+  },
+  {
+    "id": 2,
+    "book_code": "JHN",
+    "chapter": 3,
+    "verse_start": 17,
+    "verse_end": 17
+  },
+  {
+    "id": 3,
+    "book_code": "JHN",
+    "chapter": 1,
+    "verse_start": 1,
+    "verse_end": 5
+  },
+  {
+    "id": 4,
+    "book_code": "JHN",
+    "chapter": 1,
+    "verse_start": 12,
+    "verse_end": 12
+  },
+  {
+    "id": 5,
+    "book_code": "JHN",
+    "chapter": 1,
+    "verse_start": 14,
+    "verse_end": 14
+  },
+  {
+    "id": 6,
+    "book_code": "JHN",
+    "chapter": 10,
+    "verse_start": 10,
+    "verse_end": 10
+  },
+  {
+    "id": 7,
+    "book_code": "JHN",
+    "chapter": 11,
+    "verse_start": 25,
+    "verse_end": 26
+  },
+  {
+    "id": 8,
+    "book_code": "JHN",
+    "chapter": 14,
+    "verse_start": 1,
+    "verse_end": 3
+  },
+  {
+    "id": 9,
+    "book_code": "JHN",
+    "chapter": 14,
+    "verse_start": 6,
+    "verse_end": 6
+  },
+  {
+    "id": 10,
+    "book_code": "JHN",
+    "chapter": 14,
+    "verse_start": 27,
+    "verse_end": 27
+  },
+  {
+    "id": 11,
+    "book_code": "JHN",
+    "chapter": 15,
+    "verse_start": 5,
+    "verse_end": 5
+  },
+  {
+    "id": 12,
+    "book_code": "JHN",
+    "chapter": 15,
+    "verse_start": 9,
+    "verse_end": 13
+  },
+  {
+    "id": 13,
+    "book_code": "JHN",
+    "chapter": 16,
+    "verse_start": 33,
+    "verse_end": 33
+  },
+  {
+    "id": 14,
+    "book_code": "JHN",
+    "chapter": 17,
+    "verse_start": 3,
+    "verse_end": 3
+  },
+  {
+    "id": 15,
+    "book_code": "ROM",
+    "chapter": 3,
+    "verse_start": 23,
+    "verse_end": 23
+  },
+  {
+    "id": 16,
+    "book_code": "ROM",
+    "chapter": 5,
+    "verse_start": 1,
+    "verse_end": 1
+  },
+  {
+    "id": 17,
+    "book_code": "ROM",
+    "chapter": 5,
+    "verse_start": 8,
+    "verse_end": 8
+  },
+  {
+    "id": 18,
+    "book_code": "ROM",
+    "chapter": 6,
+    "verse_start": 23,
+    "verse_end": 23
+  },
+  {
+    "id": 19,
+    "book_code": "ROM",
+    "chapter": 8,
+    "verse_start": 1,
+    "verse_end": 1
+  },
+  {
+    "id": 20,
+    "book_code": "ROM",
+    "chapter": 8,
+    "verse_start": 14,
+    "verse_end": 17
+  },
+  {
+    "id": 21,
+    "book_code": "ROM",
+    "chapter": 8,
+    "verse_start": 28,
+    "verse_end": 28
+  },
+  {
+    "id": 22,
+    "book_code": "ROM",
+    "chapter": 8,
+    "verse_start": 31,
+    "verse_end": 32
+  },
+  {
+    "id": 23,
+    "book_code": "ROM",
+    "chapter": 8,
+    "verse_start": 35,
+    "verse_end": 39
+  },
+  {
+    "id": 24,
+    "book_code": "ROM",
+    "chapter": 10,
+    "verse_start": 9,
+    "verse_end": 10
+  },
+  {
+    "id": 25,
+    "book_code": "ROM",
+    "chapter": 12,
+    "verse_start": 1,
+    "verse_end": 2
+  },
+  {
+    "id": 26,
+    "book_code": "2CO",
+    "chapter": 5,
+    "verse_start": 17,
+    "verse_end": 17
+  },
+  {
+    "id": 27,
+    "book_code": "2CO",
+    "chapter": 5,
+    "verse_start": 21,
+    "verse_end": 21
+  },
+  {
+    "id": 28,
+    "book_code": "EPH",
+    "chapter": 1,
+    "verse_start": 3,
+    "verse_end": 3
+  },
+  {
+    "id": 29,
+    "book_code": "EPH",
+    "chapter": 2,
+    "verse_start": 4,
+    "verse_end": 5
+  },
+  {
+    "id": 30,
+    "book_code": "EPH",
+    "chapter": 2,
+    "verse_start": 8,
+    "verse_end": 10
+  },
+  {
+    "id": 31,
+    "book_code": "EPH",
+    "chapter": 3,
+    "verse_start": 16,
+    "verse_end": 19
+  },
+  {
+    "id": 32,
+    "book_code": "PHP",
+    "chapter": 1,
+    "verse_start": 6,
+    "verse_end": 6
+  },
+  {
+    "id": 33,
+    "book_code": "PHP",
+    "chapter": 4,
+    "verse_start": 4,
+    "verse_end": 7
+  },
+  {
+    "id": 34,
+    "book_code": "PHP",
+    "chapter": 4,
+    "verse_start": 8,
+    "verse_end": 9
+  },
+  {
+    "id": 35,
+    "book_code": "COL",
+    "chapter": 1,
+    "verse_start": 13,
+    "verse_end": 14
+  },
+  {
+    "id": 36,
+    "book_code": "COL",
+    "chapter": 1,
+    "verse_start": 15,
+    "verse_end": 20
+  },
+  {
+    "id": 37,
+    "book_code": "COL",
+    "chapter": 3,
+    "verse_start": 1,
+    "verse_end": 3
+  },
+  {
+    "id": 38,
+    "book_code": "COL",
+    "chapter": 3,
+    "verse_start": 12,
+    "verse_end": 17
+  },
+  {
+    "id": 39,
+    "book_code": "1PE",
+    "chapter": 2,
+    "verse_start": 9,
+    "verse_end": 10
+  },
+  {
+    "id": 40,
+    "book_code": "1PE",
+    "chapter": 5,
+    "verse_start": 6,
+    "verse_end": 7
+  },
+  {
+    "id": 41,
+    "book_code": "1JN",
+    "chapter": 1,
+    "verse_start": 9,
+    "verse_end": 9
+  },
+  {
+    "id": 42,
+    "book_code": "1JN",
+    "chapter": 3,
+    "verse_start": 1,
+    "verse_end": 1
+  },
+  {
+    "id": 43,
+    "book_code": "1JN",
+    "chapter": 4,
+    "verse_start": 7,
+    "verse_end": 12
+  },
+  {
+    "id": 44,
+    "book_code": "1JN",
+    "chapter": 4,
+    "verse_start": 18,
+    "verse_end": 19
+  },
+  {
+    "id": 45,
+    "book_code": "GAL",
+    "chapter": 2,
+    "verse_start": 20,
+    "verse_end": 20
+  },
+  {
+    "id": 46,
+    "book_code": "GAL",
+    "chapter": 5,
+    "verse_start": 22,
+    "verse_end": 23
+  },
+  {
+    "id": 47,
+    "book_code": "GAL",
+    "chapter": 6,
+    "verse_start": 9,
+    "verse_end": 9
+  },
+  {
+    "id": 48,
+    "book_code": "TIT",
+    "chapter": 3,
+    "verse_start": 4,
+    "verse_end": 7
+  },
+  {
+    "id": 49,
+    "book_code": "HEB",
+    "chapter": 4,
+    "verse_start": 14,
+    "verse_end": 16
+  },
+  {
+    "id": 50,
+    "book_code": "HEB",
+    "chapter": 10,
+    "verse_start": 19,
+    "verse_end": 23
+  },
+  {
+    "id": 51,
+    "book_code": "MAT",
+    "chapter": 5,
+    "verse_start": 3,
+    "verse_end": 10
+  },
+  {
+    "id": 52,
+    "book_code": "MAT",
+    "chapter": 5,
+    "verse_start": 13,
+    "verse_end": 16
+  },
+  {
+    "id": 53,
+    "book_code": "MAT",
+    "chapter": 6,
+    "verse_start": 9,
+    "verse_end": 13
+  },
+  {
+    "id": 54,
+    "book_code": "MAT",
+    "chapter": 6,
+    "verse_start": 19,
+    "verse_end": 21
+  },
+  {
+    "id": 55,
+    "book_code": "MAT",
+    "chapter": 6,
+    "verse_start": 25,
+    "verse_end": 34
+  },
+  {
+    "id": 56,
+    "book_code": "MAT",
+    "chapter": 7,
+    "verse_start": 7,
+    "verse_end": 11
+  },
+  {
+    "id": 57,
+    "book_code": "MAT",
+    "chapter": 7,
+    "verse_start": 24,
+    "verse_end": 27
+  },
+  {
+    "id": 58,
+    "book_code": "MAT",
+    "chapter": 11,
+    "verse_start": 28,
+    "verse_end": 30
+  },
+  {
+    "id": 59,
+    "book_code": "MAT",
+    "chapter": 22,
+    "verse_start": 37,
+    "verse_end": 40
+  },
+  {
+    "id": 60,
+    "book_code": "MAT",
+    "chapter": 28,
+    "verse_start": 18,
+    "verse_end": 20
+  },
+  {
+    "id": 61,
+    "book_code": "MRK",
+    "chapter": 10,
+    "verse_start": 45,
+    "verse_end": 45
+  },
+  {
+    "id": 62,
+    "book_code": "MRK",
+    "chapter": 12,
+    "verse_start": 29,
+    "verse_end": 31
+  },
+  {
+    "id": 63,
+    "book_code": "LUK",
+    "chapter": 6,
+    "verse_start": 27,
+    "verse_end": 28
+  },
+  {
+    "id": 64,
+    "book_code": "LUK",
+    "chapter": 6,
+    "verse_start": 35,
+    "verse_end": 36
+  },
+  {
+    "id": 65,
+    "book_code": "LUK",
+    "chapter": 11,
+    "verse_start": 9,
+    "verse_end": 10
+  },
+  {
+    "id": 66,
+    "book_code": "LUK",
+    "chapter": 12,
+    "verse_start": 6,
+    "verse_end": 7
+  },
+  {
+    "id": 67,
+    "book_code": "LUK",
+    "chapter": 12,
+    "verse_start": 32,
+    "verse_end": 32
+  },
+  {
+    "id": 68,
+    "book_code": "LUK",
+    "chapter": 15,
+    "verse_start": 3,
+    "verse_end": 7
+  },
+  {
+    "id": 69,
+    "book_code": "LUK",
+    "chapter": 15,
+    "verse_start": 11,
+    "verse_end": 24
+  },
+  {
+    "id": 70,
+    "book_code": "LUK",
+    "chapter": 19,
+    "verse_start": 10,
+    "verse_end": 10
+  },
+  {
+    "id": 71,
+    "book_code": "HEB",
+    "chapter": 11,
+    "verse_start": 1,
+    "verse_end": 1
+  },
+  {
+    "id": 72,
+    "book_code": "HEB",
+    "chapter": 12,
+    "verse_start": 1,
+    "verse_end": 3
+  },
+  {
+    "id": 73,
+    "book_code": "JAS",
+    "chapter": 1,
+    "verse_start": 2,
+    "verse_end": 5
+  },
+  {
+    "id": 74,
+    "book_code": "JAS",
+    "chapter": 1,
+    "verse_start": 17,
+    "verse_end": 17
+  },
+  {
+    "id": 75,
+    "book_code": "JAS",
+    "chapter": 4,
+    "verse_start": 7,
+    "verse_end": 8
+  },
+  {
+    "id": 76,
+    "book_code": "1PE",
+    "chapter": 1,
+    "verse_start": 3,
+    "verse_end": 5
+  },
+  {
+    "id": 77,
+    "book_code": "1PE",
+    "chapter": 1,
+    "verse_start": 6,
+    "verse_end": 9
+  },
+  {
+    "id": 78,
+    "book_code": "1PE",
+    "chapter": 3,
+    "verse_start": 15,
+    "verse_end": 15
+  },
+  {
+    "id": 79,
+    "book_code": "2CO",
+    "chapter": 4,
+    "verse_start": 16,
+    "verse_end": 18
+  },
+  {
+    "id": 80,
+    "book_code": "2CO",
+    "chapter": 12,
+    "verse_start": 9,
+    "verse_end": 10
+  },
+  {
+    "id": 81,
+    "book_code": "1TH",
+    "chapter": 5,
+    "verse_start": 16,
+    "verse_end": 18
+  },
+  {
+    "id": 82,
+    "book_code": "2TH",
+    "chapter": 3,
+    "verse_start": 3,
+    "verse_end": 3
+  },
+  {
+    "id": 83,
+    "book_code": "JUD",
+    "chapter": 1,
+    "verse_start": 24,
+    "verse_end": 25
+  },
+  {
+    "id": 84,
+    "book_code": "REV",
+    "chapter": 21,
+    "verse_start": 3,
+    "verse_end": 4
+  },
+  {
+    "id": 85,
+    "book_code": "REV",
+    "chapter": 22,
+    "verse_start": 17,
+    "verse_end": 17
+  },
+  {
+    "id": 86,
+    "book_code": "PSA",
+    "chapter": 1,
+    "verse_start": 1,
+    "verse_end": 3
+  },
+  {
+    "id": 87,
+    "book_code": "PSA",
+    "chapter": 16,
+    "verse_start": 8,
+    "verse_end": 11
+  },
+  {
+    "id": 88,
+    "book_code": "PSA",
+    "chapter": 18,
+    "verse_start": 1,
+    "verse_end": 3
+  },
+  {
+    "id": 89,
+    "book_code": "PSA",
+    "chapter": 19,
+    "verse_start": 7,
+    "verse_end": 10
+  },
+  {
+    "id": 90,
+    "book_code": "PSA",
+    "chapter": 23,
+    "verse_start": 1,
+    "verse_end": 6
+  },
+  {
+    "id": 91,
+    "book_code": "PSA",
+    "chapter": 27,
+    "verse_start": 1,
+    "verse_end": 1
+  },
+  {
+    "id": 92,
+    "book_code": "PSA",
+    "chapter": 27,
+    "verse_start": 4,
+    "verse_end": 4
+  },
+  {
+    "id": 93,
+    "book_code": "PSA",
+    "chapter": 27,
+    "verse_start": 13,
+    "verse_end": 14
+  },
+  {
+    "id": 94,
+    "book_code": "PSA",
+    "chapter": 34,
+    "verse_start": 4,
+    "verse_end": 8
+  },
+  {
+    "id": 95,
+    "book_code": "PSA",
+    "chapter": 34,
+    "verse_start": 18,
+    "verse_end": 18
+  },
+  {
+    "id": 96,
+    "book_code": "PSA",
+    "chapter": 37,
+    "verse_start": 3,
+    "verse_end": 5
+  },
+  {
+    "id": 97,
+    "book_code": "PSA",
+    "chapter": 37,
+    "verse_start": 23,
+    "verse_end": 24
+  },
+  {
+    "id": 98,
+    "book_code": "PSA",
+    "chapter": 40,
+    "verse_start": 1,
+    "verse_end": 3
+  },
+  {
+    "id": 99,
+    "book_code": "PSA",
+    "chapter": 42,
+    "verse_start": 1,
+    "verse_end": 2
+  },
+  {
+    "id": 100,
+    "book_code": "PSA",
+    "chapter": 46,
+    "verse_start": 1,
+    "verse_end": 3
+  },
+  {
+    "id": 101,
+    "book_code": "PSA",
+    "chapter": 46,
+    "verse_start": 10,
+    "verse_end": 10
+  },
+  {
+    "id": 102,
+    "book_code": "PSA",
+    "chapter": 51,
+    "verse_start": 10,
+    "verse_end": 12
+  },
+  {
+    "id": 103,
+    "book_code": "PSA",
+    "chapter": 55,
+    "verse_start": 22,
+    "verse_end": 22
+  },
+  {
+    "id": 104,
+    "book_code": "PSA",
+    "chapter": 56,
+    "verse_start": 3,
+    "verse_end": 4
+  },
+  {
+    "id": 105,
+    "book_code": "PSA",
+    "chapter": 62,
+    "verse_start": 1,
+    "verse_end": 2
+  },
+  {
+    "id": 106,
+    "book_code": "PSA",
+    "chapter": 73,
+    "verse_start": 25,
+    "verse_end": 26
+  },
+  {
+    "id": 107,
+    "book_code": "PSA",
+    "chapter": 84,
+    "verse_start": 10,
+    "verse_end": 12
+  },
+  {
+    "id": 108,
+    "book_code": "PSA",
+    "chapter": 90,
+    "verse_start": 12,
+    "verse_end": 12
+  },
+  {
+    "id": 109,
+    "book_code": "PSA",
+    "chapter": 91,
+    "verse_start": 1,
+    "verse_end": 4
+  },
+  {
+    "id": 110,
+    "book_code": "PSA",
+    "chapter": 91,
+    "verse_start": 9,
+    "verse_end": 11
+  },
+  {
+    "id": 111,
+    "book_code": "PSA",
+    "chapter": 100,
+    "verse_start": 1,
+    "verse_end": 5
+  },
+  {
+    "id": 112,
+    "book_code": "PSA",
+    "chapter": 103,
+    "verse_start": 1,
+    "verse_end": 5
+  },
+  {
+    "id": 113,
+    "book_code": "PSA",
+    "chapter": 103,
+    "verse_start": 8,
+    "verse_end": 12
+  },
+  {
+    "id": 114,
+    "book_code": "PSA",
+    "chapter": 121,
+    "verse_start": 1,
+    "verse_end": 2
+  },
+  {
+    "id": 115,
+    "book_code": "PSA",
+    "chapter": 121,
+    "verse_start": 3,
+    "verse_end": 8
+  },
+  {
+    "id": 116,
+    "book_code": "PSA",
+    "chapter": 139,
+    "verse_start": 1,
+    "verse_end": 6
+  },
+  {
+    "id": 117,
+    "book_code": "PSA",
+    "chapter": 139,
+    "verse_start": 7,
+    "verse_end": 10
+  },
+  {
+    "id": 118,
+    "book_code": "PSA",
+    "chapter": 139,
+    "verse_start": 13,
+    "verse_end": 14
+  },
+  {
+    "id": 119,
+    "book_code": "PRO",
+    "chapter": 1,
+    "verse_start": 7,
+    "verse_end": 7
+  },
+  {
+    "id": 120,
+    "book_code": "PRO",
+    "chapter": 3,
+    "verse_start": 3,
+    "verse_end": 6
+  },
+  {
+    "id": 121,
+    "book_code": "PRO",
+    "chapter": 4,
+    "verse_start": 23,
+    "verse_end": 23
+  },
+  {
+    "id": 122,
+    "book_code": "PRO",
+    "chapter": 9,
+    "verse_start": 10,
+    "verse_end": 10
+  },
+  {
+    "id": 123,
+    "book_code": "PRO",
+    "chapter": 16,
+    "verse_start": 3,
+    "verse_end": 3
+  },
+  {
+    "id": 124,
+    "book_code": "PRO",
+    "chapter": 16,
+    "verse_start": 9,
+    "verse_end": 9
+  },
+  {
+    "id": 125,
+    "book_code": "PRO",
+    "chapter": 18,
+    "verse_start": 10,
+    "verse_end": 10
+  },
+  {
+    "id": 126,
+    "book_code": "PRO",
+    "chapter": 19,
+    "verse_start": 21,
+    "verse_end": 21
+  },
+  {
+    "id": 127,
+    "book_code": "PRO",
+    "chapter": 27,
+    "verse_start": 17,
+    "verse_end": 17
+  },
+  {
+    "id": 128,
+    "book_code": "PRO",
+    "chapter": 31,
+    "verse_start": 25,
+    "verse_end": 26
+  },
+  {
+    "id": 129,
+    "book_code": "GEN",
+    "chapter": 1,
+    "verse_start": 1,
+    "verse_end": 1
+  },
+  {
+    "id": 130,
+    "book_code": "GEN",
+    "chapter": 1,
+    "verse_start": 26,
+    "verse_end": 27
+  },
+  {
+    "id": 131,
+    "book_code": "GEN",
+    "chapter": 12,
+    "verse_start": 1,
+    "verse_end": 3
+  },
+  {
+    "id": 132,
+    "book_code": "GEN",
+    "chapter": 50,
+    "verse_start": 20,
+    "verse_end": 20
+  },
+  {
+    "id": 133,
+    "book_code": "EXO",
+    "chapter": 14,
+    "verse_start": 13,
+    "verse_end": 14
+  },
+  {
+    "id": 134,
+    "book_code": "EXO",
+    "chapter": 20,
+    "verse_start": 1,
+    "verse_end": 3
+  },
+  {
+    "id": 135,
+    "book_code": "DEU",
+    "chapter": 6,
+    "verse_start": 4,
+    "verse_end": 5
+  },
+  {
+    "id": 136,
+    "book_code": "DEU",
+    "chapter": 6,
+    "verse_start": 6,
+    "verse_end": 7
+  },
+  {
+    "id": 137,
+    "book_code": "DEU",
+    "chapter": 31,
+    "verse_start": 6,
+    "verse_end": 6
+  },
+  {
+    "id": 138,
+    "book_code": "DEU",
+    "chapter": 31,
+    "verse_start": 8,
+    "verse_end": 8
+  },
+  {
+    "id": 139,
+    "book_code": "JOS",
+    "chapter": 1,
+    "verse_start": 8,
+    "verse_end": 9
+  },
+  {
+    "id": 140,
+    "book_code": "JOS",
+    "chapter": 24,
+    "verse_start": 15,
+    "verse_end": 15
+  },
+  {
+    "id": 141,
+    "book_code": "1SA",
+    "chapter": 16,
+    "verse_start": 7,
+    "verse_end": 7
+  },
+  {
+    "id": 142,
+    "book_code": "2CH",
+    "chapter": 7,
+    "verse_start": 14,
+    "verse_end": 14
+  },
+  {
+    "id": 143,
+    "book_code": "NEH",
+    "chapter": 8,
+    "verse_start": 10,
+    "verse_end": 10
+  },
+  {
+    "id": 144,
+    "book_code": "ISA",
+    "chapter": 7,
+    "verse_start": 14,
+    "verse_end": 14
+  },
+  {
+    "id": 145,
+    "book_code": "ISA",
+    "chapter": 9,
+    "verse_start": 6,
+    "verse_end": 7
+  },
+  {
+    "id": 146,
+    "book_code": "ISA",
+    "chapter": 26,
+    "verse_start": 3,
+    "verse_end": 4
+  },
+  {
+    "id": 147,
+    "book_code": "ISA",
+    "chapter": 40,
+    "verse_start": 28,
+    "verse_end": 31
+  },
+  {
+    "id": 148,
+    "book_code": "ISA",
+    "chapter": 41,
+    "verse_start": 10,
+    "verse_end": 10
+  },
+  {
+    "id": 149,
+    "book_code": "ISA",
+    "chapter": 43,
+    "verse_start": 1,
+    "verse_end": 3
+  },
+  {
+    "id": 150,
+    "book_code": "ISA",
+    "chapter": 53,
+    "verse_start": 4,
+    "verse_end": 6
+  },
+  {
+    "id": 151,
+    "book_code": "ISA",
+    "chapter": 55,
+    "verse_start": 6,
+    "verse_end": 9
+  },
+  {
+    "id": 152,
+    "book_code": "JER",
+    "chapter": 17,
+    "verse_start": 7,
+    "verse_end": 8
+  },
+  {
+    "id": 153,
+    "book_code": "JER",
+    "chapter": 29,
+    "verse_start": 11,
+    "verse_end": 13
+  },
+  {
+    "id": 154,
+    "book_code": "LAM",
+    "chapter": 3,
+    "verse_start": 22,
+    "verse_end": 23
+  },
+  {
+    "id": 155,
+    "book_code": "LAM",
+    "chapter": 3,
+    "verse_start": 24,
+    "verse_end": 26
+  },
+  {
+    "id": 156,
+    "book_code": "DAN",
+    "chapter": 3,
+    "verse_start": 16,
+    "verse_end": 18
+  },
+  {
+    "id": 157,
+    "book_code": "DAN",
+    "chapter": 6,
+    "verse_start": 26,
+    "verse_end": 27
+  },
+  {
+    "id": 158,
+    "book_code": "MIC",
+    "chapter": 6,
+    "verse_start": 8,
+    "verse_end": 8
+  },
+  {
+    "id": 159,
+    "book_code": "HAB",
+    "chapter": 3,
+    "verse_start": 17,
+    "verse_end": 19
+  },
+  {
+    "id": 160,
+    "book_code": "ZEP",
+    "chapter": 3,
+    "verse_start": 17,
+    "verse_end": 17
+  },
+  {
+    "id": 161,
+    "book_code": "1CO",
+    "chapter": 1,
+    "verse_start": 18,
+    "verse_end": 18
+  },
+  {
+    "id": 162,
+    "book_code": "1CO",
+    "chapter": 10,
+    "verse_start": 13,
+    "verse_end": 13
+  },
+  {
+    "id": 163,
+    "book_code": "1CO",
+    "chapter": 13,
+    "verse_start": 4,
+    "verse_end": 7
+  },
+  {
+    "id": 164,
+    "book_code": "1CO",
+    "chapter": 13,
+    "verse_start": 13,
+    "verse_end": 13
+  },
+  {
+    "id": 165,
+    "book_code": "1CO",
+    "chapter": 15,
+    "verse_start": 3,
+    "verse_end": 4
+  },
+  {
+    "id": 166,
+    "book_code": "1CO",
+    "chapter": 15,
+    "verse_start": 20,
+    "verse_end": 22
+  },
+  {
+    "id": 167,
+    "book_code": "2CO",
+    "chapter": 1,
+    "verse_start": 3,
+    "verse_end": 4
+  },
+  {
+    "id": 168,
+    "book_code": "EPH",
+    "chapter": 4,
+    "verse_start": 1,
+    "verse_end": 3
+  },
+  {
+    "id": 169,
+    "book_code": "EPH",
+    "chapter": 4,
+    "verse_start": 15,
+    "verse_end": 16
+  },
+  {
+    "id": 170,
+    "book_code": "EPH",
+    "chapter": 6,
+    "verse_start": 10,
+    "verse_end": 11
+  },
+  {
+    "id": 171,
+    "book_code": "EPH",
+    "chapter": 6,
+    "verse_start": 12,
+    "verse_end": 13
+  },
+  {
+    "id": 172,
+    "book_code": "EPH",
+    "chapter": 6,
+    "verse_start": 14,
+    "verse_end": 18
+  },
+  {
+    "id": 173,
+    "book_code": "PHP",
+    "chapter": 2,
+    "verse_start": 5,
+    "verse_end": 11
+  },
+  {
+    "id": 174,
+    "book_code": "PHP",
+    "chapter": 3,
+    "verse_start": 7,
+    "verse_end": 9
+  },
+  {
+    "id": 175,
+    "book_code": "PHP",
+    "chapter": 3,
+    "verse_start": 12,
+    "verse_end": 14
+  },
+  {
+    "id": 176,
+    "book_code": "COL",
+    "chapter": 2,
+    "verse_start": 6,
+    "verse_end": 7
+  },
+  {
+    "id": 177,
+    "book_code": "1TH",
+    "chapter": 4,
+    "verse_start": 13,
+    "verse_end": 18
+  },
+  {
+    "id": 178,
+    "book_code": "2TI",
+    "chapter": 1,
+    "verse_start": 7,
+    "verse_end": 7
+  },
+  {
+    "id": 179,
+    "book_code": "2TI",
+    "chapter": 2,
+    "verse_start": 1,
+    "verse_end": 2
+  },
+  {
+    "id": 180,
+    "book_code": "2TI",
+    "chapter": 4,
+    "verse_start": 7,
+    "verse_end": 8
+  },
+  {
+    "id": 181,
+    "book_code": "TIT",
+    "chapter": 2,
+    "verse_start": 11,
+    "verse_end": 14
+  },
+  {
+    "id": 182,
+    "book_code": "HEB",
+    "chapter": 6,
+    "verse_start": 19,
+    "verse_end": 20
+  },
+  {
+    "id": 183,
+    "book_code": "HEB",
+    "chapter": 13,
+    "verse_start": 5,
+    "verse_end": 6
+  },
+  {
+    "id": 184,
+    "book_code": "JAS",
+    "chapter": 2,
+    "verse_start": 14,
+    "verse_end": 17
+  },
+  {
+    "id": 185,
+    "book_code": "JAS",
+    "chapter": 5,
+    "verse_start": 13,
+    "verse_end": 16
+  },
+  {
+    "id": 186,
+    "book_code": "1PE",
+    "chapter": 4,
+    "verse_start": 8,
+    "verse_end": 10
+  },
+  {
+    "id": 187,
+    "book_code": "2PE",
+    "chapter": 1,
+    "verse_start": 3,
+    "verse_end": 4
+  },
+  {
+    "id": 188,
+    "book_code": "2PE",
+    "chapter": 1,
+    "verse_start": 5,
+    "verse_end": 8
+  },
+  {
+    "id": 189,
+    "book_code": "1JN",
+    "chapter": 5,
+    "verse_start": 11,
+    "verse_end": 13
+  },
+  {
+    "id": 190,
+    "book_code": "REV",
+    "chapter": 1,
+    "verse_start": 17,
+    "verse_end": 18
+  },
+  {
+    "id": 191,
+    "book_code": "MAT",
+    "chapter": 4,
+    "verse_start": 4,
+    "verse_end": 4
+  },
+  {
+    "id": 192,
+    "book_code": "MAT",
+    "chapter": 9,
+    "verse_start": 36,
+    "verse_end": 38
+  },
+  {
+    "id": 193,
+    "book_code": "LUK",
+    "chapter": 9,
+    "verse_start": 23,
+    "verse_end": 24
+  },
+  {
+    "id": 194,
+    "book_code": "LUK",
+    "chapter": 24,
+    "verse_start": 6,
+    "verse_end": 7
+  },
+  {
+    "id": 195,
+    "book_code": "JHN",
+    "chapter": 6,
+    "verse_start": 35,
+    "verse_end": 35
+  },
+  {
+    "id": 196,
+    "book_code": "JHN",
+    "chapter": 7,
+    "verse_start": 37,
+    "verse_end": 38
+  },
+  {
+    "id": 197,
+    "book_code": "ACT",
+    "chapter": 2,
+    "verse_start": 38,
+    "verse_end": 39
+  },
+  {
+    "id": 198,
+    "book_code": "ACT",
+    "chapter": 4,
+    "verse_start": 12,
+    "verse_end": 12
+  },
+  {
+    "id": 199,
+    "book_code": "ACT",
+    "chapter": 20,
+    "verse_start": 24,
+    "verse_end": 24
+  },
+  {
+    "id": 200,
+    "book_code": "ROM",
+    "chapter": 1,
+    "verse_start": 16,
+    "verse_end": 17
+  },
+  {
+    "id": 201,
+    "book_code": "ACT",
+    "chapter": 1,
+    "verse_start": 8,
+    "verse_end": 8
+  },
+  {
+    "id": 202,
+    "book_code": "ACT",
+    "chapter": 2,
+    "verse_start": 17,
+    "verse_end": 18
+  },
+  {
+    "id": 203,
+    "book_code": "ACT",
+    "chapter": 2,
+    "verse_start": 42,
+    "verse_end": 47
+  },
+  {
+    "id": 204,
+    "book_code": "ACT",
+    "chapter": 16,
+    "verse_start": 31,
+    "verse_end": 31
+  },
+  {
+    "id": 205,
+    "book_code": "ACT",
+    "chapter": 17,
+    "verse_start": 26,
+    "verse_end": 27
+  },
+  {
+    "id": 206,
+    "book_code": "ROM",
+    "chapter": 4,
+    "verse_start": 20,
+    "verse_end": 21
+  },
+  {
+    "id": 207,
+    "book_code": "ROM",
+    "chapter": 5,
+    "verse_start": 3,
+    "verse_end": 5
+  },
+  {
+    "id": 208,
+    "book_code": "ROM",
+    "chapter": 12,
+    "verse_start": 9,
+    "verse_end": 13
+  },
+  {
+    "id": 209,
+    "book_code": "ROM",
+    "chapter": 14,
+    "verse_start": 17,
+    "verse_end": 17
+  },
+  {
+    "id": 210,
+    "book_code": "ROM",
+    "chapter": 15,
+    "verse_start": 5,
+    "verse_end": 7
+  },
+  {
+    "id": 211,
+    "book_code": "ROM",
+    "chapter": 15,
+    "verse_start": 13,
+    "verse_end": 13
+  },
+  {
+    "id": 212,
+    "book_code": "1CO",
+    "chapter": 2,
+    "verse_start": 2,
+    "verse_end": 2
+  },
+  {
+    "id": 213,
+    "book_code": "1CO",
+    "chapter": 3,
+    "verse_start": 11,
+    "verse_end": 11
+  },
+  {
+    "id": 214,
+    "book_code": "1CO",
+    "chapter": 6,
+    "verse_start": 19,
+    "verse_end": 20
+  },
+  {
+    "id": 215,
+    "book_code": "1CO",
+    "chapter": 9,
+    "verse_start": 24,
+    "verse_end": 27
+  },
+  {
+    "id": 216,
+    "book_code": "1CO",
+    "chapter": 12,
+    "verse_start": 4,
+    "verse_end": 7
+  },
+  {
+    "id": 217,
+    "book_code": "1CO",
+    "chapter": 12,
+    "verse_start": 12,
+    "verse_end": 14
+  },
+  {
+    "id": 218,
+    "book_code": "1CO",
+    "chapter": 16,
+    "verse_start": 13,
+    "verse_end": 14
+  },
+  {
+    "id": 219,
+    "book_code": "2CO",
+    "chapter": 3,
+    "verse_start": 17,
+    "verse_end": 18
+  },
+  {
+    "id": 220,
+    "book_code": "2CO",
+    "chapter": 9,
+    "verse_start": 6,
+    "verse_end": 8
+  },
+  {
+    "id": 221,
+    "book_code": "2CO",
+    "chapter": 13,
+    "verse_start": 11,
+    "verse_end": 11
+  },
+  {
+    "id": 222,
+    "book_code": "GAL",
+    "chapter": 3,
+    "verse_start": 26,
+    "verse_end": 28
+  },
+  {
+    "id": 223,
+    "book_code": "GAL",
+    "chapter": 5,
+    "verse_start": 1,
+    "verse_end": 1
+  },
+  {
+    "id": 224,
+    "book_code": "EPH",
+    "chapter": 1,
+    "verse_start": 7,
+    "verse_end": 10
+  },
+  {
+    "id": 225,
+    "book_code": "EPH",
+    "chapter": 1,
+    "verse_start": 18,
+    "verse_end": 19
+  },
+  {
+    "id": 226,
+    "book_code": "EPH",
+    "chapter": 3,
+    "verse_start": 20,
+    "verse_end": 21
+  },
+  {
+    "id": 227,
+    "book_code": "EPH",
+    "chapter": 5,
+    "verse_start": 1,
+    "verse_end": 2
+  },
+  {
+    "id": 228,
+    "book_code": "EPH",
+    "chapter": 5,
+    "verse_start": 8,
+    "verse_end": 10
+  },
+  {
+    "id": 229,
+    "book_code": "PHP",
+    "chapter": 1,
+    "verse_start": 9,
+    "verse_end": 11
+  },
+  {
+    "id": 230,
+    "book_code": "PHP",
+    "chapter": 2,
+    "verse_start": 12,
+    "verse_end": 13
+  },
+  {
+    "id": 231,
+    "book_code": "COL",
+    "chapter": 3,
+    "verse_start": 23,
+    "verse_end": 24
+  },
+  {
+    "id": 232,
+    "book_code": "1TH",
+    "chapter": 2,
+    "verse_start": 8,
+    "verse_end": 8
+  },
+  {
+    "id": 233,
+    "book_code": "1TH",
+    "chapter": 3,
+    "verse_start": 12,
+    "verse_end": 13
+  },
+  {
+    "id": 234,
+    "book_code": "1TI",
+    "chapter": 1,
+    "verse_start": 15,
+    "verse_end": 15
+  },
+  {
+    "id": 235,
+    "book_code": "1TI",
+    "chapter": 4,
+    "verse_start": 12,
+    "verse_end": 12
+  },
+  {
+    "id": 236,
+    "book_code": "1TI",
+    "chapter": 6,
+    "verse_start": 6,
+    "verse_end": 7
+  },
+  {
+    "id": 237,
+    "book_code": "1TI",
+    "chapter": 6,
+    "verse_start": 11,
+    "verse_end": 12
+  },
+  {
+    "id": 238,
+    "book_code": "2TI",
+    "chapter": 2,
+    "verse_start": 11,
+    "verse_end": 13
+  },
+  {
+    "id": 239,
+    "book_code": "2TI",
+    "chapter": 3,
+    "verse_start": 16,
+    "verse_end": 17
+  },
+  {
+    "id": 240,
+    "book_code": "TIT",
+    "chapter": 1,
+    "verse_start": 2,
+    "verse_end": 2
+  },
+  {
+    "id": 241,
+    "book_code": "PHM",
+    "chapter": 1,
+    "verse_start": 6,
+    "verse_end": 6
+  },
+  {
+    "id": 242,
+    "book_code": "HEB",
+    "chapter": 2,
+    "verse_start": 14,
+    "verse_end": 15
+  },
+  {
+    "id": 243,
+    "book_code": "HEB",
+    "chapter": 10,
+    "verse_start": 24,
+    "verse_end": 25
+  },
+  {
+    "id": 244,
+    "book_code": "HEB",
+    "chapter": 12,
+    "verse_start": 10,
+    "verse_end": 11
+  },
+  {
+    "id": 245,
+    "book_code": "JAS",
+    "chapter": 3,
+    "verse_start": 13,
+    "verse_end": 18
+  },
+  {
+    "id": 246,
+    "book_code": "1PE",
+    "chapter": 1,
+    "verse_start": 22,
+    "verse_end": 23
+  },
+  {
+    "id": 247,
+    "book_code": "1PE",
+    "chapter": 2,
+    "verse_start": 4,
+    "verse_end": 5
+  },
+  {
+    "id": 248,
+    "book_code": "1PE",
+    "chapter": 5,
+    "verse_start": 10,
+    "verse_end": 10
+  },
+  {
+    "id": 249,
+    "book_code": "2PE",
+    "chapter": 3,
+    "verse_start": 9,
+    "verse_end": 9
+  },
+  {
+    "id": 250,
+    "book_code": "1JN",
+    "chapter": 2,
+    "verse_start": 1,
+    "verse_end": 2
+  },
+  {
+    "id": 251,
+    "book_code": "1JN",
+    "chapter": 2,
+    "verse_start": 15,
+    "verse_end": 17
+  },
+  {
+    "id": 252,
+    "book_code": "1JN",
+    "chapter": 3,
+    "verse_start": 16,
+    "verse_end": 18
+  },
+  {
+    "id": 253,
+    "book_code": "1JN",
+    "chapter": 5,
+    "verse_start": 14,
+    "verse_end": 15
+  },
+  {
+    "id": 254,
+    "book_code": "2JN",
+    "chapter": 1,
+    "verse_start": 6,
+    "verse_end": 6
+  },
+  {
+    "id": 255,
+    "book_code": "3JN",
+    "chapter": 1,
+    "verse_start": 2,
+    "verse_end": 4
+  },
+  {
+    "id": 256,
+    "book_code": "REV",
+    "chapter": 3,
+    "verse_start": 20,
+    "verse_end": 20
+  },
+  {
+    "id": 257,
+    "book_code": "REV",
+    "chapter": 7,
+    "verse_start": 9,
+    "verse_end": 10
+  },
+  {
+    "id": 258,
+    "book_code": "REV",
+    "chapter": 22,
+    "verse_start": 1,
+    "verse_end": 5
+  },
+  {
+    "id": 259,
+    "book_code": "MAT",
+    "chapter": 1,
+    "verse_start": 21,
+    "verse_end": 21
+  },
+  {
+    "id": 260,
+    "book_code": "MAT",
+    "chapter": 2,
+    "verse_start": 10,
+    "verse_end": 11
+  },
+  {
+    "id": 261,
+    "book_code": "MAT",
+    "chapter": 13,
+    "verse_start": 44,
+    "verse_end": 46
+  },
+  {
+    "id": 262,
+    "book_code": "MAT",
+    "chapter": 16,
+    "verse_start": 24,
+    "verse_end": 26
+  },
+  {
+    "id": 263,
+    "book_code": "MAT",
+    "chapter": 18,
+    "verse_start": 19,
+    "verse_end": 20
+  },
+  {
+    "id": 264,
+    "book_code": "MAT",
+    "chapter": 19,
+    "verse_start": 26,
+    "verse_end": 26
+  },
+  {
+    "id": 265,
+    "book_code": "MAT",
+    "chapter": 20,
+    "verse_start": 26,
+    "verse_end": 28
+  },
+  {
+    "id": 266,
+    "book_code": "MAT",
+    "chapter": 24,
+    "verse_start": 35,
+    "verse_end": 35
+  },
+  {
+    "id": 267,
+    "book_code": "MRK",
+    "chapter": 1,
+    "verse_start": 15,
+    "verse_end": 15
+  },
+  {
+    "id": 268,
+    "book_code": "MRK",
+    "chapter": 2,
+    "verse_start": 17,
+    "verse_end": 17
+  },
+  {
+    "id": 269,
+    "book_code": "MRK",
+    "chapter": 8,
+    "verse_start": 34,
+    "verse_end": 36
+  },
+  {
+    "id": 270,
+    "book_code": "MRK",
+    "chapter": 9,
+    "verse_start": 23,
+    "verse_end": 23
+  },
+  {
+    "id": 271,
+    "book_code": "MRK",
+    "chapter": 11,
+    "verse_start": 22,
+    "verse_end": 24
+  },
+  {
+    "id": 272,
+    "book_code": "MRK",
+    "chapter": 12,
+    "verse_start": 41,
+    "verse_end": 44
+  },
+  {
+    "id": 273,
+    "book_code": "LUK",
+    "chapter": 1,
+    "verse_start": 30,
+    "verse_end": 33
+  },
+  {
+    "id": 274,
+    "book_code": "LUK",
+    "chapter": 1,
+    "verse_start": 46,
+    "verse_end": 50
+  },
+  {
+    "id": 275,
+    "book_code": "LUK",
+    "chapter": 2,
+    "verse_start": 10,
+    "verse_end": 14
+  },
+  {
+    "id": 276,
+    "book_code": "LUK",
+    "chapter": 4,
+    "verse_start": 18,
+    "verse_end": 19
+  },
+  {
+    "id": 277,
+    "book_code": "LUK",
+    "chapter": 7,
+    "verse_start": 47,
+    "verse_end": 50
+  },
+  {
+    "id": 278,
+    "book_code": "LUK",
+    "chapter": 10,
+    "verse_start": 2,
+    "verse_end": 2
+  },
+  {
+    "id": 279,
+    "book_code": "LUK",
+    "chapter": 10,
+    "verse_start": 27,
+    "verse_end": 37
+  },
+  {
+    "id": 280,
+    "book_code": "LUK",
+    "chapter": 18,
+    "verse_start": 16,
+    "verse_end": 17
+  },
+  {
+    "id": 281,
+    "book_code": "LUK",
+    "chapter": 22,
+    "verse_start": 19,
+    "verse_end": 20
+  },
+  {
+    "id": 282,
+    "book_code": "JHN",
+    "chapter": 2,
+    "verse_start": 1,
+    "verse_end": 11
+  },
+  {
+    "id": 283,
+    "book_code": "JHN",
+    "chapter": 4,
+    "verse_start": 13,
+    "verse_end": 14
+  },
+  {
+    "id": 284,
+    "book_code": "JHN",
+    "chapter": 5,
+    "verse_start": 24,
+    "verse_end": 24
+  },
+  {
+    "id": 285,
+    "book_code": "JHN",
+    "chapter": 8,
+    "verse_start": 12,
+    "verse_end": 12
+  },
+  {
+    "id": 286,
+    "book_code": "JHN",
+    "chapter": 8,
+    "verse_start": 31,
+    "verse_end": 32
+  },
+  {
+    "id": 287,
+    "book_code": "JHN",
+    "chapter": 10,
+    "verse_start": 27,
+    "verse_end": 30
+  },
+  {
+    "id": 288,
+    "book_code": "JHN",
+    "chapter": 12,
+    "verse_start": 24,
+    "verse_end": 26
+  },
+  {
+    "id": 289,
+    "book_code": "JHN",
+    "chapter": 13,
+    "verse_start": 34,
+    "verse_end": 35
+  },
+  {
+    "id": 290,
+    "book_code": "JHN",
+    "chapter": 20,
+    "verse_start": 19,
+    "verse_end": 21
+  },
+  {
+    "id": 291,
+    "book_code": "JHN",
+    "chapter": 20,
+    "verse_start": 24,
+    "verse_end": 29
+  },
+  {
+    "id": 292,
+    "book_code": "JHN",
+    "chapter": 21,
+    "verse_start": 15,
+    "verse_end": 17
+  },
+  {
+    "id": 293,
+    "book_code": "GEN",
+    "chapter": 15,
+    "verse_start": 5,
+    "verse_end": 6
+  },
+  {
+    "id": 294,
+    "book_code": "GEN",
+    "chapter": 28,
+    "verse_start": 12,
+    "verse_end": 15
+  },
+  {
+    "id": 295,
+    "book_code": "EXO",
+    "chapter": 33,
+    "verse_start": 14,
+    "verse_end": 14
+  },
+  {
+    "id": 296,
+    "book_code": "NUM",
+    "chapter": 6,
+    "verse_start": 24,
+    "verse_end": 26
+  },
+  {
+    "id": 297,
+    "book_code": "DEU",
+    "chapter": 8,
+    "verse_start": 2,
+    "verse_end": 3
+  },
+  {
+    "id": 298,
+    "book_code": "DEU",
+    "chapter": 30,
+    "verse_start": 19,
+    "verse_end": 20
+  },
+  {
+    "id": 299,
+    "book_code": "JOS",
+    "chapter": 3,
+    "verse_start": 7,
+    "verse_end": 8
+  },
+  {
+    "id": 300,
+    "book_code": "JOS",
+    "chapter": 23,
+    "verse_start": 14,
+    "verse_end": 14
+  },
+  {
+    "id": 301,
+    "book_code": "JDG",
+    "chapter": 6,
+    "verse_start": 12,
+    "verse_end": 16
+  },
+  {
+    "id": 302,
+    "book_code": "RUT",
+    "chapter": 1,
+    "verse_start": 16,
+    "verse_end": 17
+  },
+  {
+    "id": 303,
+    "book_code": "1SA",
+    "chapter": 12,
+    "verse_start": 22,
+    "verse_end": 24
+  },
+  {
+    "id": 304,
+    "book_code": "2SA",
+    "chapter": 7,
+    "verse_start": 22,
+    "verse_end": 22
+  },
+  {
+    "id": 305,
+    "book_code": "1KI",
+    "chapter": 8,
+    "verse_start": 57,
+    "verse_end": 58
+  },
+  {
+    "id": 306,
+    "book_code": "1KI",
+    "chapter": 19,
+    "verse_start": 11,
+    "verse_end": 13
+  },
+  {
+    "id": 307,
+    "book_code": "2KI",
+    "chapter": 6,
+    "verse_start": 15,
+    "verse_end": 17
+  },
+  {
+    "id": 308,
+    "book_code": "1CH",
+    "chapter": 16,
+    "verse_start": 8,
+    "verse_end": 11
+  },
+  {
+    "id": 309,
+    "book_code": "2CH",
+    "chapter": 16,
+    "verse_start": 9,
+    "verse_end": 9
+  },
+  {
+    "id": 310,
+    "book_code": "EZR",
+    "chapter": 8,
+    "verse_start": 22,
+    "verse_end": 22
+  },
+  {
+    "id": 311,
+    "book_code": "NEH",
+    "chapter": 1,
+    "verse_start": 5,
+    "verse_end": 6
+  },
+  {
+    "id": 312,
+    "book_code": "JOB",
+    "chapter": 1,
+    "verse_start": 21,
+    "verse_end": 21
+  },
+  {
+    "id": 313,
+    "book_code": "JOB",
+    "chapter": 19,
+    "verse_start": 25,
+    "verse_end": 27
+  },
+  {
+    "id": 314,
+    "book_code": "PSA",
+    "chapter": 4,
+    "verse_start": 8,
+    "verse_end": 8
+  },
+  {
+    "id": 315,
+    "book_code": "PSA",
+    "chapter": 8,
+    "verse_start": 3,
+    "verse_end": 4
+  },
+  {
+    "id": 316,
+    "book_code": "PSA",
+    "chapter": 19,
+    "verse_start": 1,
+    "verse_end": 1
+  },
+  {
+    "id": 317,
+    "book_code": "PSA",
+    "chapter": 25,
+    "verse_start": 4,
+    "verse_end": 5
+  },
+  {
+    "id": 318,
+    "book_code": "PSA",
+    "chapter": 32,
+    "verse_start": 1,
+    "verse_end": 2
+  },
+  {
+    "id": 319,
+    "book_code": "PSA",
+    "chapter": 32,
+    "verse_start": 8,
+    "verse_end": 8
+  },
+  {
+    "id": 320,
+    "book_code": "PSA",
+    "chapter": 63,
+    "verse_start": 1,
+    "verse_end": 4
+  },
+  {
+    "id": 321,
+    "book_code": "PSA",
+    "chapter": 65,
+    "verse_start": 5,
+    "verse_end": 5
+  },
+  {
+    "id": 322,
+    "book_code": "PSA",
+    "chapter": 90,
+    "verse_start": 1,
+    "verse_end": 2
+  },
+  {
+    "id": 323,
+    "book_code": "PSA",
+    "chapter": 92,
+    "verse_start": 1,
+    "verse_end": 2
+  },
+  {
+    "id": 324,
+    "book_code": "PSA",
+    "chapter": 94,
+    "verse_start": 18,
+    "verse_end": 19
+  },
+  {
+    "id": 325,
+    "book_code": "PSA",
+    "chapter": 96,
+    "verse_start": 1,
+    "verse_end": 3
+  },
+  {
+    "id": 326,
+    "book_code": "PSA",
+    "chapter": 98,
+    "verse_start": 1,
+    "verse_end": 3
+  },
+  {
+    "id": 327,
+    "book_code": "PSA",
+    "chapter": 112,
+    "verse_start": 1,
+    "verse_end": 1
+  },
+  {
+    "id": 328,
+    "book_code": "PSA",
+    "chapter": 116,
+    "verse_start": 1,
+    "verse_end": 2
+  },
+  {
+    "id": 329,
+    "book_code": "PSA",
+    "chapter": 118,
+    "verse_start": 24,
+    "verse_end": 24
+  },
+  {
+    "id": 330,
+    "book_code": "PSA",
+    "chapter": 126,
+    "verse_start": 5,
+    "verse_end": 6
+  },
+  {
+    "id": 331,
+    "book_code": "PSA",
+    "chapter": 130,
+    "verse_start": 3,
+    "verse_end": 4
+  },
+  {
+    "id": 332,
+    "book_code": "PSA",
+    "chapter": 145,
+    "verse_start": 8,
+    "verse_end": 9
+  },
+  {
+    "id": 333,
+    "book_code": "PSA",
+    "chapter": 145,
+    "verse_start": 18,
+    "verse_end": 19
+  },
+  {
+    "id": 334,
+    "book_code": "PSA",
+    "chapter": 147,
+    "verse_start": 3,
+    "verse_end": 5
+  },
+  {
+    "id": 335,
+    "book_code": "PSA",
+    "chapter": 150,
+    "verse_start": 1,
+    "verse_end": 6
+  },
+  {
+    "id": 336,
+    "book_code": "PRO",
+    "chapter": 3,
+    "verse_start": 9,
+    "verse_end": 10
+  },
+  {
+    "id": 337,
+    "book_code": "PRO",
+    "chapter": 11,
+    "verse_start": 25,
+    "verse_end": 25
+  },
+  {
+    "id": 338,
+    "book_code": "PRO",
+    "chapter": 12,
+    "verse_start": 25,
+    "verse_end": 25
+  },
+  {
+    "id": 339,
+    "book_code": "PRO",
+    "chapter": 15,
+    "verse_start": 1,
+    "verse_end": 1
+  },
+  {
+    "id": 340,
+    "book_code": "PRO",
+    "chapter": 15,
+    "verse_start": 3,
+    "verse_end": 3
+  },
+  {
+    "id": 341,
+    "book_code": "PRO",
+    "chapter": 16,
+    "verse_start": 24,
+    "verse_end": 24
+  },
+  {
+    "id": 342,
+    "book_code": "PRO",
+    "chapter": 22,
+    "verse_start": 6,
+    "verse_end": 6
+  },
+  {
+    "id": 343,
+    "book_code": "PRO",
+    "chapter": 24,
+    "verse_start": 16,
+    "verse_end": 16
+  },
+  {
+    "id": 344,
+    "book_code": "PRO",
+    "chapter": 28,
+    "verse_start": 13,
+    "verse_end": 13
+  },
+  {
+    "id": 345,
+    "book_code": "ECC",
+    "chapter": 3,
+    "verse_start": 1,
+    "verse_end": 8
+  },
+  {
+    "id": 346,
+    "book_code": "ECC",
+    "chapter": 3,
+    "verse_start": 11,
+    "verse_end": 11
+  },
+  {
+    "id": 347,
+    "book_code": "SNG",
+    "chapter": 8,
+    "verse_start": 6,
+    "verse_end": 7
+  },
+  {
+    "id": 348,
+    "book_code": "ISA",
+    "chapter": 1,
+    "verse_start": 18,
+    "verse_end": 18
+  },
+  {
+    "id": 349,
+    "book_code": "ISA",
+    "chapter": 12,
+    "verse_start": 2,
+    "verse_end": 2
+  },
+  {
+    "id": 350,
+    "book_code": "ISA",
+    "chapter": 30,
+    "verse_start": 15,
+    "verse_end": 15
+  },
+  {
+    "id": 351,
+    "book_code": "ISA",
+    "chapter": 35,
+    "verse_start": 3,
+    "verse_end": 6
+  },
+  {
+    "id": 352,
+    "book_code": "ISA",
+    "chapter": 43,
+    "verse_start": 18,
+    "verse_end": 19
+  },
+  {
+    "id": 353,
+    "book_code": "ISA",
+    "chapter": 49,
+    "verse_start": 15,
+    "verse_end": 16
+  },
+  {
+    "id": 354,
+    "book_code": "ISA",
+    "chapter": 54,
+    "verse_start": 10,
+    "verse_end": 10
+  },
+  {
+    "id": 355,
+    "book_code": "JER",
+    "chapter": 1,
+    "verse_start": 5,
+    "verse_end": 5
+  },
+  {
+    "id": 356,
+    "book_code": "JER",
+    "chapter": 31,
+    "verse_start": 3,
+    "verse_end": 3
+  },
+  {
+    "id": 357,
+    "book_code": "JER",
+    "chapter": 32,
+    "verse_start": 17,
+    "verse_end": 17
+  },
+  {
+    "id": 358,
+    "book_code": "EZK",
+    "chapter": 11,
+    "verse_start": 19,
+    "verse_end": 20
+  },
+  {
+    "id": 359,
+    "book_code": "EZK",
+    "chapter": 36,
+    "verse_start": 26,
+    "verse_end": 27
+  },
+  {
+    "id": 360,
+    "book_code": "HOS",
+    "chapter": 6,
+    "verse_start": 1,
+    "verse_end": 3
+  },
+  {
+    "id": 361,
+    "book_code": "JOL",
+    "chapter": 2,
+    "verse_start": 12,
+    "verse_end": 13
+  },
+  {
+    "id": 362,
+    "book_code": "JOL",
+    "chapter": 2,
+    "verse_start": 28,
+    "verse_end": 29
+  },
+  {
+    "id": 363,
+    "book_code": "AMO",
+    "chapter": 5,
+    "verse_start": 24,
+    "verse_end": 24
+  },
+  {
+    "id": 364,
+    "book_code": "NAM",
+    "chapter": 1,
+    "verse_start": 7,
+    "verse_end": 7
+  },
+  {
+    "id": 365,
+    "book_code": "HAB",
+    "chapter": 2,
+    "verse_start": 4,
+    "verse_end": 4
+  },
+  {
+    "id": 366,
+    "book_code": "ZEC",
+    "chapter": 4,
+    "verse_start": 6,
+    "verse_end": 6
+  },
+  {
+    "id": 367,
+    "book_code": "MAL",
+    "chapter": 3,
+    "verse_start": 10,
+    "verse_end": 10
+  },
+  {
+    "id": 368,
+    "book_code": "MAL",
+    "chapter": 4,
+    "verse_start": 2,
+    "verse_end": 2
+  },
+  {
+    "id": 369,
+    "book_code": "MAT",
+    "chapter": 9,
+    "verse_start": 12,
+    "verse_end": 13
+  },
+  {
+    "id": 370,
+    "book_code": "MAT",
+    "chapter": 9,
+    "verse_start": 35,
+    "verse_end": 36
+  },
+  {
+    "id": 371,
+    "book_code": "MAT",
+    "chapter": 10,
+    "verse_start": 29,
+    "verse_end": 31
+  },
+  {
+    "id": 372,
+    "book_code": "MAT",
+    "chapter": 13,
+    "verse_start": 31,
+    "verse_end": 32
+  },
+  {
+    "id": 373,
+    "book_code": "MAT",
+    "chapter": 18,
+    "verse_start": 12,
+    "verse_end": 14
+  },
+  {
+    "id": 374,
+    "book_code": "MAT",
+    "chapter": 25,
+    "verse_start": 34,
+    "verse_end": 40
+  },
+  {
+    "id": 375,
+    "book_code": "MRK",
+    "chapter": 4,
+    "verse_start": 26,
+    "verse_end": 29
+  },
+  {
+    "id": 376,
+    "book_code": "MRK",
+    "chapter": 10,
+    "verse_start": 27,
+    "verse_end": 27
+  },
+  {
+    "id": 377,
+    "book_code": "LUK",
+    "chapter": 6,
+    "verse_start": 38,
+    "verse_end": 38
+  },
+  {
+    "id": 378,
+    "book_code": "LUK",
+    "chapter": 8,
+    "verse_start": 15,
+    "verse_end": 15
+  },
+  {
+    "id": 379,
+    "book_code": "LUK",
+    "chapter": 11,
+    "verse_start": 28,
+    "verse_end": 28
+  },
+  {
+    "id": 380,
+    "book_code": "LUK",
+    "chapter": 14,
+    "verse_start": 27,
+    "verse_end": 27
+  },
+  {
+    "id": 381,
+    "book_code": "LUK",
+    "chapter": 16,
+    "verse_start": 10,
+    "verse_end": 10
+  },
+  {
+    "id": 382,
+    "book_code": "LUK",
+    "chapter": 23,
+    "verse_start": 42,
+    "verse_end": 43
+  },
+  {
+    "id": 383,
+    "book_code": "JHN",
+    "chapter": 11,
+    "verse_start": 35,
+    "verse_end": 36
+  },
+  {
+    "id": 384,
+    "book_code": "JHN",
+    "chapter": 14,
+    "verse_start": 15,
+    "verse_end": 15
+  },
+  {
+    "id": 385,
+    "book_code": "JHN",
+    "chapter": 17,
+    "verse_start": 20,
+    "verse_end": 23
+  },
+  {
+    "id": 386,
+    "book_code": "ACT",
+    "chapter": 3,
+    "verse_start": 19,
+    "verse_end": 20
+  },
+  {
+    "id": 387,
+    "book_code": "ACT",
+    "chapter": 10,
+    "verse_start": 34,
+    "verse_end": 35
+  },
+  {
+    "id": 388,
+    "book_code": "ROM",
+    "chapter": 2,
+    "verse_start": 4,
+    "verse_end": 4
+  },
+  {
+    "id": 389,
+    "book_code": "ROM",
+    "chapter": 11,
+    "verse_start": 33,
+    "verse_end": 36
+  },
+  {
+    "id": 390,
+    "book_code": "1CO",
+    "chapter": 1,
+    "verse_start": 9,
+    "verse_end": 9
+  },
+  {
+    "id": 391,
+    "book_code": "1CO",
+    "chapter": 15,
+    "verse_start": 58,
+    "verse_end": 58
+  },
+  {
+    "id": 392,
+    "book_code": "2CO",
+    "chapter": 4,
+    "verse_start": 5,
+    "verse_end": 7
+  },
+  {
+    "id": 393,
+    "book_code": "GAL",
+    "chapter": 6,
+    "verse_start": 2,
+    "verse_end": 2
+  },
+  {
+    "id": 394,
+    "book_code": "EPH",
+    "chapter": 2,
+    "verse_start": 13,
+    "verse_end": 14
+  },
+  {
+    "id": 395,
+    "book_code": "EPH",
+    "chapter": 4,
+    "verse_start": 29,
+    "verse_end": 32
+  },
+  {
+    "id": 396,
+    "book_code": "PHP",
+    "chapter": 1,
+    "verse_start": 21,
+    "verse_end": 21
+  },
+  {
+    "id": 397,
+    "book_code": "PHP",
+    "chapter": 2,
+    "verse_start": 3,
+    "verse_end": 4
+  },
+  {
+    "id": 398,
+    "book_code": "PHP",
+    "chapter": 4,
+    "verse_start": 11,
+    "verse_end": 13
+  },
+  {
+    "id": 399,
+    "book_code": "COL",
+    "chapter": 4,
+    "verse_start": 2,
+    "verse_end": 6
+  },
+  {
+    "id": 400,
+    "book_code": "1TH",
+    "chapter": 1,
+    "verse_start": 2,
+    "verse_end": 3
+  },
+  {
+    "id": 401,
+    "book_code": "MAT",
+    "chapter": 5,
+    "verse_start": 11,
+    "verse_end": 12
+  },
+  {
+    "id": 402,
+    "book_code": "MAT",
+    "chapter": 5,
+    "verse_start": 23,
+    "verse_end": 24
+  },
+  {
+    "id": 403,
+    "book_code": "MAT",
+    "chapter": 5,
+    "verse_start": 43,
+    "verse_end": 45
+  },
+  {
+    "id": 404,
+    "book_code": "MAT",
+    "chapter": 9,
+    "verse_start": 2,
+    "verse_end": 2
+  },
+  {
+    "id": 405,
+    "book_code": "MAT",
+    "chapter": 10,
+    "verse_start": 16,
+    "verse_end": 16
+  },
+  {
+    "id": 406,
+    "book_code": "MAT",
+    "chapter": 10,
+    "verse_start": 28,
+    "verse_end": 28
+  },
+  {
+    "id": 407,
+    "book_code": "MAT",
+    "chapter": 12,
+    "verse_start": 18,
+    "verse_end": 21
+  },
+  {
+    "id": 408,
+    "book_code": "MAT",
+    "chapter": 13,
+    "verse_start": 23,
+    "verse_end": 23
+  },
+  {
+    "id": 409,
+    "book_code": "MAT",
+    "chapter": 21,
+    "verse_start": 9,
+    "verse_end": 9
+  },
+  {
+    "id": 410,
+    "book_code": "MAT",
+    "chapter": 26,
+    "verse_start": 26,
+    "verse_end": 28
+  },
+  {
+    "id": 411,
+    "book_code": "MRK",
+    "chapter": 1,
+    "verse_start": 17,
+    "verse_end": 17
+  },
+  {
+    "id": 412,
+    "book_code": "MRK",
+    "chapter": 5,
+    "verse_start": 34,
+    "verse_end": 34
+  },
+  {
+    "id": 413,
+    "book_code": "MRK",
+    "chapter": 9,
+    "verse_start": 35,
+    "verse_end": 35
+  },
+  {
+    "id": 414,
+    "book_code": "MRK",
+    "chapter": 12,
+    "verse_start": 30,
+    "verse_end": 30
+  },
+  {
+    "id": 415,
+    "book_code": "MRK",
+    "chapter": 16,
+    "verse_start": 15,
+    "verse_end": 15
+  },
+  {
+    "id": 416,
+    "book_code": "LUK",
+    "chapter": 4,
+    "verse_start": 1,
+    "verse_end": 4
+  },
+  {
+    "id": 417,
+    "book_code": "LUK",
+    "chapter": 5,
+    "verse_start": 8,
+    "verse_end": 11
+  },
+  {
+    "id": 418,
+    "book_code": "LUK",
+    "chapter": 7,
+    "verse_start": 22,
+    "verse_end": 23
+  },
+  {
+    "id": 419,
+    "book_code": "LUK",
+    "chapter": 12,
+    "verse_start": 15,
+    "verse_end": 15
+  },
+  {
+    "id": 420,
+    "book_code": "LUK",
+    "chapter": 17,
+    "verse_start": 5,
+    "verse_end": 6
+  },
+  {
+    "id": 421,
+    "book_code": "LUK",
+    "chapter": 18,
+    "verse_start": 1,
+    "verse_end": 1
+  },
+  {
+    "id": 422,
+    "book_code": "LUK",
+    "chapter": 19,
+    "verse_start": 41,
+    "verse_end": 42
+  },
+  {
+    "id": 423,
+    "book_code": "LUK",
+    "chapter": 24,
+    "verse_start": 30,
+    "verse_end": 32
+  },
+  {
+    "id": 424,
+    "book_code": "JHN",
+    "chapter": 3,
+    "verse_start": 5,
+    "verse_end": 8
+  },
+  {
+    "id": 425,
+    "book_code": "JHN",
+    "chapter": 5,
+    "verse_start": 39,
+    "verse_end": 40
+  },
+  {
+    "id": 426,
+    "book_code": "JHN",
+    "chapter": 6,
+    "verse_start": 37,
+    "verse_end": 37
+  },
+  {
+    "id": 427,
+    "book_code": "JHN",
+    "chapter": 6,
+    "verse_start": 68,
+    "verse_end": 69
+  },
+  {
+    "id": 428,
+    "book_code": "JHN",
+    "chapter": 9,
+    "verse_start": 4,
+    "verse_end": 5
+  },
+  {
+    "id": 429,
+    "book_code": "JHN",
+    "chapter": 13,
+    "verse_start": 14,
+    "verse_end": 15
+  },
+  {
+    "id": 430,
+    "book_code": "JHN",
+    "chapter": 14,
+    "verse_start": 18,
+    "verse_end": 18
+  },
+  {
+    "id": 431,
+    "book_code": "JHN",
+    "chapter": 15,
+    "verse_start": 7,
+    "verse_end": 7
+  },
+  {
+    "id": 432,
+    "book_code": "JHN",
+    "chapter": 16,
+    "verse_start": 7,
+    "verse_end": 7
+  },
+  {
+    "id": 433,
+    "book_code": "JHN",
+    "chapter": 20,
+    "verse_start": 21,
+    "verse_end": 22
+  },
+  {
+    "id": 434,
+    "book_code": "ACT",
+    "chapter": 4,
+    "verse_start": 29,
+    "verse_end": 31
+  },
+  {
+    "id": 435,
+    "book_code": "ACT",
+    "chapter": 5,
+    "verse_start": 29,
+    "verse_end": 29
+  },
+  {
+    "id": 436,
+    "book_code": "ACT",
+    "chapter": 9,
+    "verse_start": 3,
+    "verse_end": 6
+  },
+  {
+    "id": 437,
+    "book_code": "ACT",
+    "chapter": 13,
+    "verse_start": 2,
+    "verse_end": 3
+  },
+  {
+    "id": 438,
+    "book_code": "ACT",
+    "chapter": 20,
+    "verse_start": 32,
+    "verse_end": 32
+  },
+  {
+    "id": 439,
+    "book_code": "ACT",
+    "chapter": 26,
+    "verse_start": 16,
+    "verse_end": 18
+  },
+  {
+    "id": 440,
+    "book_code": "ROM",
+    "chapter": 5,
+    "verse_start": 10,
+    "verse_end": 11
+  },
+  {
+    "id": 441,
+    "book_code": "ROM",
+    "chapter": 8,
+    "verse_start": 5,
+    "verse_end": 6
+  },
+  {
+    "id": 442,
+    "book_code": "ROM",
+    "chapter": 8,
+    "verse_start": 15,
+    "verse_end": 15
+  },
+  {
+    "id": 443,
+    "book_code": "ROM",
+    "chapter": 12,
+    "verse_start": 14,
+    "verse_end": 16
+  },
+  {
+    "id": 444,
+    "book_code": "ROM",
+    "chapter": 13,
+    "verse_start": 8,
+    "verse_end": 10
+  },
+  {
+    "id": 445,
+    "book_code": "ROM",
+    "chapter": 15,
+    "verse_start": 1,
+    "verse_end": 2
+  },
+  {
+    "id": 446,
+    "book_code": "1CO",
+    "chapter": 1,
+    "verse_start": 26,
+    "verse_end": 29
+  },
+  {
+    "id": 447,
+    "book_code": "1CO",
+    "chapter": 4,
+    "verse_start": 1,
+    "verse_end": 2
+  },
+  {
+    "id": 448,
+    "book_code": "1CO",
+    "chapter": 6,
+    "verse_start": 11,
+    "verse_end": 11
+  },
+  {
+    "id": 449,
+    "book_code": "1CO",
+    "chapter": 10,
+    "verse_start": 31,
+    "verse_end": 31
+  },
+  {
+    "id": 450,
+    "book_code": "1CO",
+    "chapter": 11,
+    "verse_start": 23,
+    "verse_end": 26
+  },
+  {
+    "id": 451,
+    "book_code": "1CO",
+    "chapter": 14,
+    "verse_start": 1,
+    "verse_end": 1
+  },
+  {
+    "id": 452,
+    "book_code": "2CO",
+    "chapter": 1,
+    "verse_start": 8,
+    "verse_end": 10
+  },
+  {
+    "id": 453,
+    "book_code": "2CO",
+    "chapter": 5,
+    "verse_start": 14,
+    "verse_end": 15
+  },
+  {
+    "id": 454,
+    "book_code": "2CO",
+    "chapter": 7,
+    "verse_start": 1,
+    "verse_end": 1
+  },
+  {
+    "id": 455,
+    "book_code": "2CO",
+    "chapter": 8,
+    "verse_start": 9,
+    "verse_end": 9
+  },
+  {
+    "id": 456,
+    "book_code": "2CO",
+    "chapter": 10,
+    "verse_start": 3,
+    "verse_end": 5
+  },
+  {
+    "id": 457,
+    "book_code": "GAL",
+    "chapter": 4,
+    "verse_start": 4,
+    "verse_end": 7
+  },
+  {
+    "id": 458,
+    "book_code": "GAL",
+    "chapter": 5,
+    "verse_start": 13,
+    "verse_end": 13
+  },
+  {
+    "id": 459,
+    "book_code": "EPH",
+    "chapter": 1,
+    "verse_start": 13,
+    "verse_end": 14
+  },
+  {
+    "id": 460,
+    "book_code": "EPH",
+    "chapter": 2,
+    "verse_start": 19,
+    "verse_end": 22
+  },
+  {
+    "id": 461,
+    "book_code": "EPH",
+    "chapter": 4,
+    "verse_start": 4,
+    "verse_end": 6
+  },
+  {
+    "id": 462,
+    "book_code": "EPH",
+    "chapter": 4,
+    "verse_start": 26,
+    "verse_end": 27
+  },
+  {
+    "id": 463,
+    "book_code": "EPH",
+    "chapter": 5,
+    "verse_start": 15,
+    "verse_end": 17
+  },
+  {
+    "id": 464,
+    "book_code": "PHP",
+    "chapter": 1,
+    "verse_start": 3,
+    "verse_end": 5
+  },
+  {
+    "id": 465,
+    "book_code": "PHP",
+    "chapter": 2,
+    "verse_start": 1,
+    "verse_end": 2
+  },
+  {
+    "id": 466,
+    "book_code": "PHP",
+    "chapter": 2,
+    "verse_start": 14,
+    "verse_end": 16
+  },
+  {
+    "id": 467,
+    "book_code": "COL",
+    "chapter": 1,
+    "verse_start": 9,
+    "verse_end": 12
+  },
+  {
+    "id": 468,
+    "book_code": "COL",
+    "chapter": 2,
+    "verse_start": 9,
+    "verse_end": 10
+  },
+  {
+    "id": 469,
+    "book_code": "COL",
+    "chapter": 3,
+    "verse_start": 5,
+    "verse_end": 7
+  },
+  {
+    "id": 470,
+    "book_code": "COL",
+    "chapter": 3,
+    "verse_start": 15,
+    "verse_end": 15
+  },
+  {
+    "id": 471,
+    "book_code": "1TH",
+    "chapter": 5,
+    "verse_start": 4,
+    "verse_end": 6
+  },
+  {
+    "id": 472,
+    "book_code": "1TH",
+    "chapter": 5,
+    "verse_start": 23,
+    "verse_end": 24
+  },
+  {
+    "id": 473,
+    "book_code": "2TH",
+    "chapter": 1,
+    "verse_start": 11,
+    "verse_end": 12
+  },
+  {
+    "id": 474,
+    "book_code": "2TH",
+    "chapter": 2,
+    "verse_start": 16,
+    "verse_end": 17
+  },
+  {
+    "id": 475,
+    "book_code": "1TI",
+    "chapter": 2,
+    "verse_start": 1,
+    "verse_end": 4
+  },
+  {
+    "id": 476,
+    "book_code": "1TI",
+    "chapter": 6,
+    "verse_start": 17,
+    "verse_end": 19
+  },
+  {
+    "id": 477,
+    "book_code": "2TI",
+    "chapter": 1,
+    "verse_start": 8,
+    "verse_end": 9
+  },
+  {
+    "id": 478,
+    "book_code": "2TI",
+    "chapter": 2,
+    "verse_start": 22,
+    "verse_end": 24
+  },
+  {
+    "id": 479,
+    "book_code": "TIT",
+    "chapter": 3,
+    "verse_start": 1,
+    "verse_end": 2
+  },
+  {
+    "id": 480,
+    "book_code": "HEB",
+    "chapter": 3,
+    "verse_start": 12,
+    "verse_end": 13
+  },
+  {
+    "id": 481,
+    "book_code": "HEB",
+    "chapter": 7,
+    "verse_start": 24,
+    "verse_end": 25
+  },
+  {
+    "id": 482,
+    "book_code": "HEB",
+    "chapter": 9,
+    "verse_start": 11,
+    "verse_end": 12
+  },
+  {
+    "id": 483,
+    "book_code": "HEB",
+    "chapter": 10,
+    "verse_start": 35,
+    "verse_end": 36
+  },
+  {
+    "id": 484,
+    "book_code": "HEB",
+    "chapter": 12,
+    "verse_start": 14,
+    "verse_end": 14
+  },
+  {
+    "id": 485,
+    "book_code": "HEB",
+    "chapter": 13,
+    "verse_start": 1,
+    "verse_end": 2
+  },
+  {
+    "id": 486,
+    "book_code": "HEB",
+    "chapter": 13,
+    "verse_start": 15,
+    "verse_end": 16
+  },
+  {
+    "id": 487,
+    "book_code": "JAS",
+    "chapter": 1,
+    "verse_start": 16,
+    "verse_end": 18
+  },
+  {
+    "id": 488,
+    "book_code": "JAS",
+    "chapter": 1,
+    "verse_start": 21,
+    "verse_end": 22
+  },
+  {
+    "id": 489,
+    "book_code": "JAS",
+    "chapter": 2,
+    "verse_start": 8,
+    "verse_end": 8
+  },
+  {
+    "id": 490,
+    "book_code": "JAS",
+    "chapter": 4,
+    "verse_start": 10,
+    "verse_end": 10
+  },
+  {
+    "id": 491,
+    "book_code": "1PE",
+    "chapter": 1,
+    "verse_start": 13,
+    "verse_end": 16
+  },
+  {
+    "id": 492,
+    "book_code": "1PE",
+    "chapter": 2,
+    "verse_start": 11,
+    "verse_end": 12
+  },
+  {
+    "id": 493,
+    "book_code": "1PE",
+    "chapter": 3,
+    "verse_start": 8,
+    "verse_end": 9
+  },
+  {
+    "id": 494,
+    "book_code": "1PE",
+    "chapter": 5,
+    "verse_start": 5,
+    "verse_end": 5
+  },
+  {
+    "id": 495,
+    "book_code": "2PE",
+    "chapter": 1,
+    "verse_start": 9,
+    "verse_end": 11
+  },
+  {
+    "id": 496,
+    "book_code": "2PE",
+    "chapter": 3,
+    "verse_start": 11,
+    "verse_end": 13
+  },
+  {
+    "id": 497,
+    "book_code": "1JN",
+    "chapter": 1,
+    "verse_start": 5,
+    "verse_end": 7
+  },
+  {
+    "id": 498,
+    "book_code": "1JN",
+    "chapter": 3,
+    "verse_start": 2,
+    "verse_end": 3
+  },
+  {
+    "id": 499,
+    "book_code": "1JN",
+    "chapter": 5,
+    "verse_start": 3,
+    "verse_end": 4
+  },
+  {
+    "id": 500,
+    "book_code": "JUD",
+    "chapter": 1,
+    "verse_start": 20,
+    "verse_end": 21
+  },
+  {
+    "id": 501,
+    "book_code": "REV",
+    "chapter": 2,
+    "verse_start": 10,
+    "verse_end": 10
+  },
+  {
+    "id": 502,
+    "book_code": "REV",
+    "chapter": 5,
+    "verse_start": 9,
+    "verse_end": 10
+  },
+  {
+    "id": 503,
+    "book_code": "REV",
+    "chapter": 12,
+    "verse_start": 10,
+    "verse_end": 11
+  },
+  {
+    "id": 504,
+    "book_code": "REV",
+    "chapter": 19,
+    "verse_start": 6,
+    "verse_end": 8
+  },
+  {
+    "id": 505,
+    "book_code": "REV",
+    "chapter": 21,
+    "verse_start": 5,
+    "verse_end": 5
+  },
+  {
+    "id": 506,
+    "book_code": "GEN",
+    "chapter": 2,
+    "verse_start": 7,
+    "verse_end": 7
+  },
+  {
+    "id": 507,
+    "book_code": "GEN",
+    "chapter": 9,
+    "verse_start": 12,
+    "verse_end": 13
+  },
+  {
+    "id": 508,
+    "book_code": "GEN",
+    "chapter": 22,
+    "verse_start": 7,
+    "verse_end": 8
+  },
+  {
+    "id": 509,
+    "book_code": "GEN",
+    "chapter": 22,
+    "verse_start": 15,
+    "verse_end": 18
+  },
+  {
+    "id": 510,
+    "book_code": "GEN",
+    "chapter": 28,
+    "verse_start": 16,
+    "verse_end": 17
+  },
+  {
+    "id": 511,
+    "book_code": "GEN",
+    "chapter": 32,
+    "verse_start": 26,
+    "verse_end": 28
+  },
+  {
+    "id": 512,
+    "book_code": "EXO",
+    "chapter": 3,
+    "verse_start": 5,
+    "verse_end": 6
+  },
+  {
+    "id": 513,
+    "book_code": "EXO",
+    "chapter": 3,
+    "verse_start": 13,
+    "verse_end": 15
+  },
+  {
+    "id": 514,
+    "book_code": "EXO",
+    "chapter": 15,
+    "verse_start": 1,
+    "verse_end": 2
+  },
+  {
+    "id": 515,
+    "book_code": "EXO",
+    "chapter": 19,
+    "verse_start": 4,
+    "verse_end": 6
+  },
+  {
+    "id": 516,
+    "book_code": "EXO",
+    "chapter": 34,
+    "verse_start": 6,
+    "verse_end": 7
+  },
+  {
+    "id": 517,
+    "book_code": "LEV",
+    "chapter": 19,
+    "verse_start": 2,
+    "verse_end": 2
+  },
+  {
+    "id": 518,
+    "book_code": "NUM",
+    "chapter": 23,
+    "verse_start": 19,
+    "verse_end": 19
+  },
+  {
+    "id": 519,
+    "book_code": "DEU",
+    "chapter": 4,
+    "verse_start": 29,
+    "verse_end": 31
+  },
+  {
+    "id": 520,
+    "book_code": "DEU",
+    "chapter": 10,
+    "verse_start": 12,
+    "verse_end": 13
+  },
+  {
+    "id": 521,
+    "book_code": "DEU",
+    "chapter": 33,
+    "verse_start": 27,
+    "verse_end": 27
+  },
+  {
+    "id": 522,
+    "book_code": "JOS",
+    "chapter": 1,
+    "verse_start": 5,
+    "verse_end": 5
+  },
+  {
+    "id": 523,
+    "book_code": "JDG",
+    "chapter": 2,
+    "verse_start": 1,
+    "verse_end": 1
+  },
+  {
+    "id": 524,
+    "book_code": "RUT",
+    "chapter": 2,
+    "verse_start": 10,
+    "verse_end": 12
+  },
+  {
+    "id": 525,
+    "book_code": "1SA",
+    "chapter": 2,
+    "verse_start": 1,
+    "verse_end": 2
+  },
+  {
+    "id": 526,
+    "book_code": "1SA",
+    "chapter": 3,
+    "verse_start": 10,
+    "verse_end": 10
+  },
+  {
+    "id": 527,
+    "book_code": "1SA",
+    "chapter": 30,
+    "verse_start": 6,
+    "verse_end": 6
+  },
+  {
+    "id": 528,
+    "book_code": "2SA",
+    "chapter": 22,
+    "verse_start": 31,
+    "verse_end": 32
+  },
+  {
+    "id": 529,
+    "book_code": "1KI",
+    "chapter": 8,
+    "verse_start": 23,
+    "verse_end": 23
+  },
+  {
+    "id": 530,
+    "book_code": "1KI",
+    "chapter": 18,
+    "verse_start": 36,
+    "verse_end": 37
+  },
+  {
+    "id": 531,
+    "book_code": "2KI",
+    "chapter": 17,
+    "verse_start": 13,
+    "verse_end": 13
+  },
+  {
+    "id": 532,
+    "book_code": "1CH",
+    "chapter": 29,
+    "verse_start": 10,
+    "verse_end": 13
+  },
+  {
+    "id": 533,
+    "book_code": "2CH",
+    "chapter": 20,
+    "verse_start": 12,
+    "verse_end": 12
+  },
+  {
+    "id": 534,
+    "book_code": "2CH",
+    "chapter": 20,
+    "verse_start": 21,
+    "verse_end": 21
+  },
+  {
+    "id": 535,
+    "book_code": "EZR",
+    "chapter": 7,
+    "verse_start": 10,
+    "verse_end": 10
+  },
+  {
+    "id": 536,
+    "book_code": "NEH",
+    "chapter": 4,
+    "verse_start": 14,
+    "verse_end": 14
+  },
+  {
+    "id": 537,
+    "book_code": "EST",
+    "chapter": 4,
+    "verse_start": 14,
+    "verse_end": 14
+  },
+  {
+    "id": 538,
+    "book_code": "JOB",
+    "chapter": 23,
+    "verse_start": 10,
+    "verse_end": 10
+  },
+  {
+    "id": 539,
+    "book_code": "JOB",
+    "chapter": 36,
+    "verse_start": 5,
+    "verse_end": 5
+  },
+  {
+    "id": 540,
+    "book_code": "PSA",
+    "chapter": 3,
+    "verse_start": 3,
+    "verse_end": 3
+  },
+  {
+    "id": 541,
+    "book_code": "PSA",
+    "chapter": 9,
+    "verse_start": 9,
+    "verse_end": 10
+  },
+  {
+    "id": 542,
+    "book_code": "PSA",
+    "chapter": 13,
+    "verse_start": 5,
+    "verse_end": 6
+  },
+  {
+    "id": 543,
+    "book_code": "PSA",
+    "chapter": 17,
+    "verse_start": 6,
+    "verse_end": 7
+  },
+  {
+    "id": 544,
+    "book_code": "PSA",
+    "chapter": 18,
+    "verse_start": 28,
+    "verse_end": 28
+  },
+  {
+    "id": 545,
+    "book_code": "PSA",
+    "chapter": 19,
+    "verse_start": 14,
+    "verse_end": 14
+  },
+  {
+    "id": 546,
+    "book_code": "PSA",
+    "chapter": 25,
+    "verse_start": 8,
+    "verse_end": 10
+  },
+  {
+    "id": 547,
+    "book_code": "PSA",
+    "chapter": 31,
+    "verse_start": 14,
+    "verse_end": 16
+  },
+  {
+    "id": 548,
+    "book_code": "PSA",
+    "chapter": 33,
+    "verse_start": 4,
+    "verse_end": 5
+  },
+  {
+    "id": 549,
+    "book_code": "PSA",
+    "chapter": 37,
+    "verse_start": 7,
+    "verse_end": 7
+  },
+  {
+    "id": 550,
+    "book_code": "PSA",
+    "chapter": 39,
+    "verse_start": 7,
+    "verse_end": 7
+  },
+  {
+    "id": 551,
+    "book_code": "PSA",
+    "chapter": 57,
+    "verse_start": 1,
+    "verse_end": 3
+  },
+  {
+    "id": 552,
+    "book_code": "PSA",
+    "chapter": 61,
+    "verse_start": 1,
+    "verse_end": 4
+  },
+  {
+    "id": 553,
+    "book_code": "PSA",
+    "chapter": 68,
+    "verse_start": 19,
+    "verse_end": 20
+  },
+  {
+    "id": 554,
+    "book_code": "PSA",
+    "chapter": 86,
+    "verse_start": 5,
+    "verse_end": 5
+  },
+  {
+    "id": 555,
+    "book_code": "PSA",
+    "chapter": 86,
+    "verse_start": 11,
+    "verse_end": 12
+  },
+  {
+    "id": 556,
+    "book_code": "PSA",
+    "chapter": 94,
+    "verse_start": 22,
+    "verse_end": 22
+  },
+  {
+    "id": 557,
+    "book_code": "PSA",
+    "chapter": 119,
+    "verse_start": 9,
+    "verse_end": 11
+  },
+  {
+    "id": 558,
+    "book_code": "PSA",
+    "chapter": 119,
+    "verse_start": 18,
+    "verse_end": 18
+  },
+  {
+    "id": 559,
+    "book_code": "PSA",
+    "chapter": 119,
+    "verse_start": 105,
+    "verse_end": 105
+  },
+  {
+    "id": 560,
+    "book_code": "PSA",
+    "chapter": 130,
+    "verse_start": 5,
+    "verse_end": 6
+  },
+  {
+    "id": 561,
+    "book_code": "PSA",
+    "chapter": 143,
+    "verse_start": 8,
+    "verse_end": 8
+  },
+  {
+    "id": 562,
+    "book_code": "PRO",
+    "chapter": 2,
+    "verse_start": 6,
+    "verse_end": 8
+  },
+  {
+    "id": 563,
+    "book_code": "PRO",
+    "chapter": 10,
+    "verse_start": 12,
+    "verse_end": 12
+  },
+  {
+    "id": 564,
+    "book_code": "PRO",
+    "chapter": 13,
+    "verse_start": 12,
+    "verse_end": 12
+  },
+  {
+    "id": 565,
+    "book_code": "PRO",
+    "chapter": 14,
+    "verse_start": 26,
+    "verse_end": 27
+  },
+  {
+    "id": 566,
+    "book_code": "PRO",
+    "chapter": 17,
+    "verse_start": 9,
+    "verse_end": 9
+  },
+  {
+    "id": 567,
+    "book_code": "PRO",
+    "chapter": 19,
+    "verse_start": 17,
+    "verse_end": 17
+  },
+  {
+    "id": 568,
+    "book_code": "PRO",
+    "chapter": 21,
+    "verse_start": 21,
+    "verse_end": 21
+  },
+  {
+    "id": 569,
+    "book_code": "PRO",
+    "chapter": 25,
+    "verse_start": 11,
+    "verse_end": 11
+  },
+  {
+    "id": 570,
+    "book_code": "PRO",
+    "chapter": 29,
+    "verse_start": 18,
+    "verse_end": 18
+  },
+  {
+    "id": 571,
+    "book_code": "ECC",
+    "chapter": 4,
+    "verse_start": 9,
+    "verse_end": 12
+  },
+  {
+    "id": 572,
+    "book_code": "ISA",
+    "chapter": 32,
+    "verse_start": 17,
+    "verse_end": 17
+  },
+  {
+    "id": 573,
+    "book_code": "ISA",
+    "chapter": 33,
+    "verse_start": 2,
+    "verse_end": 2
+  },
+  {
+    "id": 574,
+    "book_code": "ISA",
+    "chapter": 40,
+    "verse_start": 10,
+    "verse_end": 11
+  },
+  {
+    "id": 575,
+    "book_code": "ISA",
+    "chapter": 42,
+    "verse_start": 3,
+    "verse_end": 3
+  },
+  {
+    "id": 576,
+    "book_code": "ISA",
+    "chapter": 49,
+    "verse_start": 6,
+    "verse_end": 6
+  },
+  {
+    "id": 577,
+    "book_code": "ISA",
+    "chapter": 52,
+    "verse_start": 7,
+    "verse_end": 7
+  },
+  {
+    "id": 578,
+    "book_code": "ISA",
+    "chapter": 57,
+    "verse_start": 15,
+    "verse_end": 15
+  },
+  {
+    "id": 579,
+    "book_code": "ISA",
+    "chapter": 61,
+    "verse_start": 1,
+    "verse_end": 3
+  },
+  {
+    "id": 580,
+    "book_code": "JER",
+    "chapter": 15,
+    "verse_start": 16,
+    "verse_end": 16
+  },
+  {
+    "id": 581,
+    "book_code": "JER",
+    "chapter": 24,
+    "verse_start": 7,
+    "verse_end": 7
+  },
+  {
+    "id": 582,
+    "book_code": "JER",
+    "chapter": 32,
+    "verse_start": 40,
+    "verse_end": 40
+  },
+  {
+    "id": 583,
+    "book_code": "LAM",
+    "chapter": 3,
+    "verse_start": 31,
+    "verse_end": 33
+  },
+  {
+    "id": 584,
+    "book_code": "EZK",
+    "chapter": 34,
+    "verse_start": 11,
+    "verse_end": 12
+  },
+  {
+    "id": 585,
+    "book_code": "EZK",
+    "chapter": 34,
+    "verse_start": 15,
+    "verse_end": 16
+  },
+  {
+    "id": 586,
+    "book_code": "DAN",
+    "chapter": 2,
+    "verse_start": 20,
+    "verse_end": 22
+  },
+  {
+    "id": 587,
+    "book_code": "DAN",
+    "chapter": 10,
+    "verse_start": 19,
+    "verse_end": 19
+  },
+  {
+    "id": 588,
+    "book_code": "HOS",
+    "chapter": 2,
+    "verse_start": 19,
+    "verse_end": 20
+  },
+  {
+    "id": 589,
+    "book_code": "HOS",
+    "chapter": 11,
+    "verse_start": 3,
+    "verse_end": 4
+  },
+  {
+    "id": 590,
+    "book_code": "JOL",
+    "chapter": 3,
+    "verse_start": 16,
+    "verse_end": 16
+  },
+  {
+    "id": 591,
+    "book_code": "AMO",
+    "chapter": 4,
+    "verse_start": 13,
+    "verse_end": 13
+  },
+  {
+    "id": 592,
+    "book_code": "OBA",
+    "chapter": 1,
+    "verse_start": 17,
+    "verse_end": 17
+  },
+  {
+    "id": 593,
+    "book_code": "JON",
+    "chapter": 2,
+    "verse_start": 1,
+    "verse_end": 2
+  },
+  {
+    "id": 594,
+    "book_code": "JON",
+    "chapter": 2,
+    "verse_start": 7,
+    "verse_end": 9
+  },
+  {
+    "id": 595,
+    "book_code": "MIC",
+    "chapter": 7,
+    "verse_start": 7,
+    "verse_end": 8
+  },
+  {
+    "id": 596,
+    "book_code": "MIC",
+    "chapter": 7,
+    "verse_start": 18,
+    "verse_end": 19
+  },
+  {
+    "id": 597,
+    "book_code": "HAG",
+    "chapter": 2,
+    "verse_start": 4,
+    "verse_end": 5
+  },
+  {
+    "id": 598,
+    "book_code": "ZEC",
+    "chapter": 9,
+    "verse_start": 9,
+    "verse_end": 9
+  },
+  {
+    "id": 599,
+    "book_code": "ZEC",
+    "chapter": 9,
+    "verse_start": 11,
+    "verse_end": 12
+  },
+  {
+    "id": 600,
+    "book_code": "MAL",
+    "chapter": 1,
+    "verse_start": 11,
+    "verse_end": 11
+  },
+  {
+    "id": 601,
+    "book_code": "MAT",
+    "chapter": 4,
+    "verse_start": 19,
+    "verse_end": 19
+  },
+  {
+    "id": 602,
+    "book_code": "MAT",
+    "chapter": 8,
+    "verse_start": 2,
+    "verse_end": 3
+  },
+  {
+    "id": 603,
+    "book_code": "MAT",
+    "chapter": 9,
+    "verse_start": 27,
+    "verse_end": 29
+  },
+  {
+    "id": 604,
+    "book_code": "MAT",
+    "chapter": 13,
+    "verse_start": 33,
+    "verse_end": 33
+  },
+  {
+    "id": 605,
+    "book_code": "MAT",
+    "chapter": 17,
+    "verse_start": 20,
+    "verse_end": 20
+  },
+  {
+    "id": 606,
+    "book_code": "MAT",
+    "chapter": 21,
+    "verse_start": 21,
+    "verse_end": 22
+  },
+  {
+    "id": 607,
+    "book_code": "MAT",
+    "chapter": 25,
+    "verse_start": 21,
+    "verse_end": 21
+  },
+  {
+    "id": 608,
+    "book_code": "MAT",
+    "chapter": 26,
+    "verse_start": 39,
+    "verse_end": 39
+  },
+  {
+    "id": 609,
+    "book_code": "MRK",
+    "chapter": 1,
+    "verse_start": 35,
+    "verse_end": 35
+  },
+  {
+    "id": 610,
+    "book_code": "MRK",
+    "chapter": 9,
+    "verse_start": 24,
+    "verse_end": 24
+  },
+  {
+    "id": 611,
+    "book_code": "MRK",
+    "chapter": 12,
+    "verse_start": 32,
+    "verse_end": 34
+  },
+  {
+    "id": 612,
+    "book_code": "MRK",
+    "chapter": 14,
+    "verse_start": 36,
+    "verse_end": 36
+  },
+  {
+    "id": 613,
+    "book_code": "LUK",
+    "chapter": 1,
+    "verse_start": 37,
+    "verse_end": 37
+  },
+  {
+    "id": 614,
+    "book_code": "LUK",
+    "chapter": 5,
+    "verse_start": 31,
+    "verse_end": 32
+  },
+  {
+    "id": 615,
+    "book_code": "LUK",
+    "chapter": 8,
+    "verse_start": 50,
+    "verse_end": 50
+  },
+  {
+    "id": 616,
+    "book_code": "LUK",
+    "chapter": 9,
+    "verse_start": 11,
+    "verse_end": 11
+  },
+  {
+    "id": 617,
+    "book_code": "LUK",
+    "chapter": 12,
+    "verse_start": 29,
+    "verse_end": 31
+  },
+  {
+    "id": 618,
+    "book_code": "LUK",
+    "chapter": 15,
+    "verse_start": 8,
+    "verse_end": 10
+  },
+  {
+    "id": 619,
+    "book_code": "LUK",
+    "chapter": 23,
+    "verse_start": 34,
+    "verse_end": 34
+  },
+  {
+    "id": 620,
+    "book_code": "JHN",
+    "chapter": 3,
+    "verse_start": 19,
+    "verse_end": 21
+  },
+  {
+    "id": 621,
+    "book_code": "JHN",
+    "chapter": 4,
+    "verse_start": 23,
+    "verse_end": 24
+  },
+  {
+    "id": 622,
+    "book_code": "JHN",
+    "chapter": 6,
+    "verse_start": 40,
+    "verse_end": 40
+  },
+  {
+    "id": 623,
+    "book_code": "JHN",
+    "chapter": 10,
+    "verse_start": 11,
+    "verse_end": 11
+  },
+  {
+    "id": 624,
+    "book_code": "JHN",
+    "chapter": 10,
+    "verse_start": 16,
+    "verse_end": 16
+  },
+  {
+    "id": 625,
+    "book_code": "JHN",
+    "chapter": 12,
+    "verse_start": 46,
+    "verse_end": 46
+  },
+  {
+    "id": 626,
+    "book_code": "JHN",
+    "chapter": 14,
+    "verse_start": 23,
+    "verse_end": 23
+  },
+  {
+    "id": 627,
+    "book_code": "JHN",
+    "chapter": 17,
+    "verse_start": 11,
+    "verse_end": 11
+  },
+  {
+    "id": 628,
+    "book_code": "JHN",
+    "chapter": 17,
+    "verse_start": 24,
+    "verse_end": 24
+  },
+  {
+    "id": 629,
+    "book_code": "ACT",
+    "chapter": 1,
+    "verse_start": 14,
+    "verse_end": 14
+  },
+  {
+    "id": 630,
+    "book_code": "ACT",
+    "chapter": 2,
+    "verse_start": 21,
+    "verse_end": 21
+  },
+  {
+    "id": 631,
+    "book_code": "ACT",
+    "chapter": 4,
+    "verse_start": 13,
+    "verse_end": 13
+  },
+  {
+    "id": 632,
+    "book_code": "ACT",
+    "chapter": 11,
+    "verse_start": 23,
+    "verse_end": 23
+  },
+  {
+    "id": 633,
+    "book_code": "ACT",
+    "chapter": 13,
+    "verse_start": 47,
+    "verse_end": 47
+  },
+  {
+    "id": 634,
+    "book_code": "ACT",
+    "chapter": 14,
+    "verse_start": 21,
+    "verse_end": 22
+  },
+  {
+    "id": 635,
+    "book_code": "ACT",
+    "chapter": 17,
+    "verse_start": 11,
+    "verse_end": 11
+  },
+  {
+    "id": 636,
+    "book_code": "ACT",
+    "chapter": 20,
+    "verse_start": 35,
+    "verse_end": 35
+  },
+  {
+    "id": 637,
+    "book_code": "ACT",
+    "chapter": 27,
+    "verse_start": 23,
+    "verse_end": 25
+  },
+  {
+    "id": 638,
+    "book_code": "ROM",
+    "chapter": 1,
+    "verse_start": 5,
+    "verse_end": 5
+  },
+  {
+    "id": 639,
+    "book_code": "ROM",
+    "chapter": 5,
+    "verse_start": 9,
+    "verse_end": 9
+  },
+  {
+    "id": 640,
+    "book_code": "ROM",
+    "chapter": 8,
+    "verse_start": 18,
+    "verse_end": 18
+  },
+  {
+    "id": 641,
+    "book_code": "ROM",
+    "chapter": 12,
+    "verse_start": 9,
+    "verse_end": 9
+  },
+  {
+    "id": 642,
+    "book_code": "ROM",
+    "chapter": 13,
+    "verse_start": 11,
+    "verse_end": 12
+  },
+  {
+    "id": 643,
+    "book_code": "ROM",
+    "chapter": 14,
+    "verse_start": 8,
+    "verse_end": 8
+  },
+  {
+    "id": 644,
+    "book_code": "ROM",
+    "chapter": 15,
+    "verse_start": 4,
+    "verse_end": 4
+  },
+  {
+    "id": 645,
+    "book_code": "1CO",
+    "chapter": 2,
+    "verse_start": 9,
+    "verse_end": 9
+  },
+  {
+    "id": 646,
+    "book_code": "1CO",
+    "chapter": 4,
+    "verse_start": 20,
+    "verse_end": 20
+  },
+  {
+    "id": 647,
+    "book_code": "1CO",
+    "chapter": 11,
+    "verse_start": 1,
+    "verse_end": 1
+  },
+  {
+    "id": 648,
+    "book_code": "1CO",
+    "chapter": 15,
+    "verse_start": 49,
+    "verse_end": 49
+  },
+  {
+    "id": 649,
+    "book_code": "2CO",
+    "chapter": 1,
+    "verse_start": 20,
+    "verse_end": 20
+  },
+  {
+    "id": 650,
+    "book_code": "2CO",
+    "chapter": 4,
+    "verse_start": 1,
+    "verse_end": 1
+  },
+  {
+    "id": 651,
+    "book_code": "2CO",
+    "chapter": 4,
+    "verse_start": 8,
+    "verse_end": 10
+  },
+  {
+    "id": 652,
+    "book_code": "2CO",
+    "chapter": 5,
+    "verse_start": 7,
+    "verse_end": 7
+  },
+  {
+    "id": 653,
+    "book_code": "2CO",
+    "chapter": 9,
+    "verse_start": 10,
+    "verse_end": 11
+  },
+  {
+    "id": 654,
+    "book_code": "2CO",
+    "chapter": 13,
+    "verse_start": 14,
+    "verse_end": 14
+  },
+  {
+    "id": 655,
+    "book_code": "GAL",
+    "chapter": 2,
+    "verse_start": 21,
+    "verse_end": 21
+  },
+  {
+    "id": 656,
+    "book_code": "GAL",
+    "chapter": 3,
+    "verse_start": 13,
+    "verse_end": 13
+  },
+  {
+    "id": 657,
+    "book_code": "GAL",
+    "chapter": 4,
+    "verse_start": 19,
+    "verse_end": 19
+  },
+  {
+    "id": 658,
+    "book_code": "GAL",
+    "chapter": 6,
+    "verse_start": 14,
+    "verse_end": 14
+  },
+  {
+    "id": 659,
+    "book_code": "EPH",
+    "chapter": 1,
+    "verse_start": 4,
+    "verse_end": 5
+  },
+  {
+    "id": 660,
+    "book_code": "EPH",
+    "chapter": 1,
+    "verse_start": 17,
+    "verse_end": 19
+  },
+  {
+    "id": 661,
+    "book_code": "EPH",
+    "chapter": 2,
+    "verse_start": 13,
+    "verse_end": 13
+  },
+  {
+    "id": 662,
+    "book_code": "EPH",
+    "chapter": 5,
+    "verse_start": 14,
+    "verse_end": 14
+  },
+  {
+    "id": 663,
+    "book_code": "EPH",
+    "chapter": 6,
+    "verse_start": 18,
+    "verse_end": 18
+  },
+  {
+    "id": 664,
+    "book_code": "PHP",
+    "chapter": 2,
+    "verse_start": 16,
+    "verse_end": 16
+  },
+  {
+    "id": 665,
+    "book_code": "PHP",
+    "chapter": 3,
+    "verse_start": 20,
+    "verse_end": 21
+  },
+  {
+    "id": 666,
+    "book_code": "COL",
+    "chapter": 1,
+    "verse_start": 9,
+    "verse_end": 9
+  },
+  {
+    "id": 667,
+    "book_code": "COL",
+    "chapter": 1,
+    "verse_start": 27,
+    "verse_end": 27
+  },
+  {
+    "id": 668,
+    "book_code": "COL",
+    "chapter": 2,
+    "verse_start": 2,
+    "verse_end": 3
+  },
+  {
+    "id": 669,
+    "book_code": "COL",
+    "chapter": 4,
+    "verse_start": 5,
+    "verse_end": 5
+  },
+  {
+    "id": 670,
+    "book_code": "1TH",
+    "chapter": 2,
+    "verse_start": 13,
+    "verse_end": 13
+  },
+  {
+    "id": 671,
+    "book_code": "1TH",
+    "chapter": 4,
+    "verse_start": 9,
+    "verse_end": 10
+  },
+  {
+    "id": 672,
+    "book_code": "2TH",
+    "chapter": 1,
+    "verse_start": 3,
+    "verse_end": 3
+  },
+  {
+    "id": 673,
+    "book_code": "1TI",
+    "chapter": 2,
+    "verse_start": 5,
+    "verse_end": 5
+  },
+  {
+    "id": 674,
+    "book_code": "1TI",
+    "chapter": 4,
+    "verse_start": 10,
+    "verse_end": 10
+  },
+  {
+    "id": 675,
+    "book_code": "1TI",
+    "chapter": 6,
+    "verse_start": 12,
+    "verse_end": 12
+  },
+  {
+    "id": 676,
+    "book_code": "2TI",
+    "chapter": 1,
+    "verse_start": 12,
+    "verse_end": 12
+  },
+  {
+    "id": 677,
+    "book_code": "2TI",
+    "chapter": 2,
+    "verse_start": 3,
+    "verse_end": 3
+  },
+  {
+    "id": 678,
+    "book_code": "2TI",
+    "chapter": 2,
+    "verse_start": 15,
+    "verse_end": 15
+  },
+  {
+    "id": 679,
+    "book_code": "TIT",
+    "chapter": 2,
+    "verse_start": 7,
+    "verse_end": 8
+  },
+  {
+    "id": 680,
+    "book_code": "TIT",
+    "chapter": 3,
+    "verse_start": 8,
+    "verse_end": 8
+  },
+  {
+    "id": 681,
+    "book_code": "PHM",
+    "chapter": 1,
+    "verse_start": 20,
+    "verse_end": 20
+  },
+  {
+    "id": 682,
+    "book_code": "HEB",
+    "chapter": 1,
+    "verse_start": 3,
+    "verse_end": 3
+  },
+  {
+    "id": 683,
+    "book_code": "HEB",
+    "chapter": 2,
+    "verse_start": 18,
+    "verse_end": 18
+  },
+  {
+    "id": 684,
+    "book_code": "HEB",
+    "chapter": 3,
+    "verse_start": 1,
+    "verse_end": 1
+  },
+  {
+    "id": 685,
+    "book_code": "HEB",
+    "chapter": 4,
+    "verse_start": 12,
+    "verse_end": 12
+  },
+  {
+    "id": 686,
+    "book_code": "HEB",
+    "chapter": 6,
+    "verse_start": 10,
+    "verse_end": 10
+  },
+  {
+    "id": 687,
+    "book_code": "HEB",
+    "chapter": 10,
+    "verse_start": 14,
+    "verse_end": 14
+  },
+  {
+    "id": 688,
+    "book_code": "HEB",
+    "chapter": 11,
+    "verse_start": 6,
+    "verse_end": 6
+  },
+  {
+    "id": 689,
+    "book_code": "HEB",
+    "chapter": 12,
+    "verse_start": 28,
+    "verse_end": 29
+  },
+  {
+    "id": 690,
+    "book_code": "HEB",
+    "chapter": 13,
+    "verse_start": 20,
+    "verse_end": 21
+  },
+  {
+    "id": 691,
+    "book_code": "JAS",
+    "chapter": 1,
+    "verse_start": 12,
+    "verse_end": 12
+  },
+  {
+    "id": 692,
+    "book_code": "JAS",
+    "chapter": 2,
+    "verse_start": 5,
+    "verse_end": 5
+  },
+  {
+    "id": 693,
+    "book_code": "JAS",
+    "chapter": 4,
+    "verse_start": 6,
+    "verse_end": 6
+  },
+  {
+    "id": 694,
+    "book_code": "JAS",
+    "chapter": 5,
+    "verse_start": 7,
+    "verse_end": 8
+  },
+  {
+    "id": 695,
+    "book_code": "1PE",
+    "chapter": 1,
+    "verse_start": 6,
+    "verse_end": 7
+  },
+  {
+    "id": 696,
+    "book_code": "1PE",
+    "chapter": 2,
+    "verse_start": 24,
+    "verse_end": 24
+  },
+  {
+    "id": 697,
+    "book_code": "1PE",
+    "chapter": 3,
+    "verse_start": 18,
+    "verse_end": 18
+  },
+  {
+    "id": 698,
+    "book_code": "1PE",
+    "chapter": 4,
+    "verse_start": 10,
+    "verse_end": 11
+  },
+  {
+    "id": 699,
+    "book_code": "2PE",
+    "chapter": 3,
+    "verse_start": 18,
+    "verse_end": 18
+  },
+  {
+    "id": 700,
+    "book_code": "1JN",
+    "chapter": 2,
+    "verse_start": 7,
+    "verse_end": 8
+  },
+  {
+    "id": 701,
+    "book_code": "1JN",
+    "chapter": 3,
+    "verse_start": 23,
+    "verse_end": 23
+  },
+  {
+    "id": 702,
+    "book_code": "1JN",
+    "chapter": 4,
+    "verse_start": 4,
+    "verse_end": 4
+  },
+  {
+    "id": 703,
+    "book_code": "JUD",
+    "chapter": 1,
+    "verse_start": 3,
+    "verse_end": 3
+  },
+  {
+    "id": 704,
+    "book_code": "REV",
+    "chapter": 2,
+    "verse_start": 7,
+    "verse_end": 7
+  },
+  {
+    "id": 705,
+    "book_code": "REV",
+    "chapter": 2,
+    "verse_start": 17,
+    "verse_end": 17
+  },
+  {
+    "id": 706,
+    "book_code": "REV",
+    "chapter": 3,
+    "verse_start": 5,
+    "verse_end": 5
+  },
+  {
+    "id": 707,
+    "book_code": "REV",
+    "chapter": 5,
+    "verse_start": 12,
+    "verse_end": 12
+  },
+  {
+    "id": 708,
+    "book_code": "REV",
+    "chapter": 14,
+    "verse_start": 12,
+    "verse_end": 13
+  },
+  {
+    "id": 709,
+    "book_code": "REV",
+    "chapter": 21,
+    "verse_start": 6,
+    "verse_end": 7
+  },
+  {
+    "id": 710,
+    "book_code": "GEN",
+    "chapter": 3,
+    "verse_start": 8,
+    "verse_end": 9
+  },
+  {
+    "id": 711,
+    "book_code": "GEN",
+    "chapter": 15,
+    "verse_start": 1,
+    "verse_end": 1
+  },
+  {
+    "id": 712,
+    "book_code": "GEN",
+    "chapter": 18,
+    "verse_start": 14,
+    "verse_end": 14
+  },
+  {
+    "id": 713,
+    "book_code": "GEN",
+    "chapter": 45,
+    "verse_start": 4,
+    "verse_end": 8
+  },
+  {
+    "id": 714,
+    "book_code": "EXO",
+    "chapter": 2,
+    "verse_start": 23,
+    "verse_end": 25
+  },
+  {
+    "id": 715,
+    "book_code": "EXO",
+    "chapter": 13,
+    "verse_start": 21,
+    "verse_end": 22
+  },
+  {
+    "id": 716,
+    "book_code": "EXO",
+    "chapter": 23,
+    "verse_start": 20,
+    "verse_end": 20
+  },
+  {
+    "id": 717,
+    "book_code": "LEV",
+    "chapter": 26,
+    "verse_start": 12,
+    "verse_end": 12
+  },
+  {
+    "id": 718,
+    "book_code": "NUM",
+    "chapter": 6,
+    "verse_start": 22,
+    "verse_end": 23
+  },
+  {
+    "id": 719,
+    "book_code": "DEU",
+    "chapter": 1,
+    "verse_start": 29,
+    "verse_end": 31
+  },
+  {
+    "id": 720,
+    "book_code": "DEU",
+    "chapter": 32,
+    "verse_start": 3,
+    "verse_end": 4
+  },
+  {
+    "id": 721,
+    "book_code": "JOS",
+    "chapter": 22,
+    "verse_start": 5,
+    "verse_end": 5
+  },
+  {
+    "id": 722,
+    "book_code": "JDG",
+    "chapter": 5,
+    "verse_start": 31,
+    "verse_end": 31
+  },
+  {
+    "id": 723,
+    "book_code": "RUT",
+    "chapter": 4,
+    "verse_start": 14,
+    "verse_end": 15
+  },
+  {
+    "id": 724,
+    "book_code": "1SA",
+    "chapter": 15,
+    "verse_start": 22,
+    "verse_end": 22
+  },
+  {
+    "id": 725,
+    "book_code": "2SA",
+    "chapter": 22,
+    "verse_start": 29,
+    "verse_end": 29
+  },
+  {
+    "id": 726,
+    "book_code": "1KI",
+    "chapter": 2,
+    "verse_start": 3,
+    "verse_end": 3
+  },
+  {
+    "id": 727,
+    "book_code": "2KI",
+    "chapter": 19,
+    "verse_start": 15,
+    "verse_end": 15
+  },
+  {
+    "id": 728,
+    "book_code": "1CH",
+    "chapter": 28,
+    "verse_start": 9,
+    "verse_end": 9
+  },
+  {
+    "id": 729,
+    "book_code": "2CH",
+    "chapter": 15,
+    "verse_start": 2,
+    "verse_end": 2
+  },
+  {
+    "id": 730,
+    "book_code": "EZR",
+    "chapter": 3,
+    "verse_start": 11,
+    "verse_end": 11
+  },
+  {
+    "id": 731,
+    "book_code": "NEH",
+    "chapter": 9,
+    "verse_start": 17,
+    "verse_end": 17
+  },
+  {
+    "id": 732,
+    "book_code": "EST",
+    "chapter": 8,
+    "verse_start": 16,
+    "verse_end": 16
+  },
+  {
+    "id": 733,
+    "book_code": "JOB",
+    "chapter": 5,
+    "verse_start": 8,
+    "verse_end": 11
+  },
+  {
+    "id": 734,
+    "book_code": "JOB",
+    "chapter": 42,
+    "verse_start": 2,
+    "verse_end": 2
+  },
+  {
+    "id": 735,
+    "book_code": "PSA",
+    "chapter": 5,
+    "verse_start": 11,
+    "verse_end": 12
+  },
+  {
+    "id": 736,
+    "book_code": "PSA",
+    "chapter": 11,
+    "verse_start": 4,
+    "verse_end": 4
+  },
+  {
+    "id": 737,
+    "book_code": "PSA",
+    "chapter": 16,
+    "verse_start": 2,
+    "verse_end": 2
+  },
+  {
+    "id": 738,
+    "book_code": "PSA",
+    "chapter": 20,
+    "verse_start": 7,
+    "verse_end": 7
+  },
+  {
+    "id": 739,
+    "book_code": "PSA",
+    "chapter": 27,
+    "verse_start": 8,
+    "verse_end": 8
+  },
+  {
+    "id": 740,
+    "book_code": "PSA",
+    "chapter": 30,
+    "verse_start": 5,
+    "verse_end": 5
+  },
+  {
+    "id": 741,
+    "book_code": "PSA",
+    "chapter": 37,
+    "verse_start": 8,
+    "verse_end": 9
+  },
+  {
+    "id": 742,
+    "book_code": "PSA",
+    "chapter": 71,
+    "verse_start": 20,
+    "verse_end": 21
+  },
+  {
+    "id": 743,
+    "book_code": "PSA",
+    "chapter": 86,
+    "verse_start": 15,
+    "verse_end": 15
+  },
+  {
+    "id": 744,
+    "book_code": "PSA",
+    "chapter": 95,
+    "verse_start": 6,
+    "verse_end": 7
+  },
+  {
+    "id": 745,
+    "book_code": "PSA",
+    "chapter": 107,
+    "verse_start": 1,
+    "verse_end": 2
+  },
+  {
+    "id": 746,
+    "book_code": "PSA",
+    "chapter": 112,
+    "verse_start": 7,
+    "verse_end": 7
+  },
+  {
+    "id": 747,
+    "book_code": "PSA",
+    "chapter": 116,
+    "verse_start": 12,
+    "verse_end": 13
+  },
+  {
+    "id": 748,
+    "book_code": "PSA",
+    "chapter": 139,
+    "verse_start": 23,
+    "verse_end": 24
+  },
+  {
+    "id": 749,
+    "book_code": "PRO",
+    "chapter": 8,
+    "verse_start": 17,
+    "verse_end": 17
+  },
+  {
+    "id": 750,
+    "book_code": "PRO",
+    "chapter": 11,
+    "verse_start": 30,
+    "verse_end": 30
+  },
+  {
+    "id": 751,
+    "book_code": "PRO",
+    "chapter": 14,
+    "verse_start": 31,
+    "verse_end": 31
+  },
+  {
+    "id": 752,
+    "book_code": "PRO",
+    "chapter": 18,
+    "verse_start": 21,
+    "verse_end": 21
+  },
+  {
+    "id": 753,
+    "book_code": "PRO",
+    "chapter": 20,
+    "verse_start": 7,
+    "verse_end": 7
+  },
+  {
+    "id": 754,
+    "book_code": "PRO",
+    "chapter": 23,
+    "verse_start": 26,
+    "verse_end": 26
+  },
+  {
+    "id": 755,
+    "book_code": "PRO",
+    "chapter": 28,
+    "verse_start": 1,
+    "verse_end": 1
+  },
+  {
+    "id": 756,
+    "book_code": "PRO",
+    "chapter": 29,
+    "verse_start": 25,
+    "verse_end": 25
+  },
+  {
+    "id": 757,
+    "book_code": "ECC",
+    "chapter": 7,
+    "verse_start": 14,
+    "verse_end": 14
+  },
+  {
+    "id": 758,
+    "book_code": "ECC",
+    "chapter": 9,
+    "verse_start": 10,
+    "verse_end": 10
+  },
+  {
+    "id": 759,
+    "book_code": "SNG",
+    "chapter": 2,
+    "verse_start": 4,
+    "verse_end": 4
+  },
+  {
+    "id": 760,
+    "book_code": "ISA",
+    "chapter": 12,
+    "verse_start": 3,
+    "verse_end": 3
+  },
+  {
+    "id": 761,
+    "book_code": "ISA",
+    "chapter": 25,
+    "verse_start": 8,
+    "verse_end": 9
+  },
+  {
+    "id": 762,
+    "book_code": "ISA",
+    "chapter": 30,
+    "verse_start": 21,
+    "verse_end": 21
+  },
+  {
+    "id": 763,
+    "book_code": "ISA",
+    "chapter": 43,
+    "verse_start": 4,
+    "verse_end": 4
+  },
+  {
+    "id": 764,
+    "book_code": "ISA",
+    "chapter": 44,
+    "verse_start": 3,
+    "verse_end": 3
+  },
+  {
+    "id": 765,
+    "book_code": "ISA",
+    "chapter": 45,
+    "verse_start": 22,
+    "verse_end": 22
+  },
+  {
+    "id": 766,
+    "book_code": "ISA",
+    "chapter": 50,
+    "verse_start": 4,
+    "verse_end": 4
+  },
+  {
+    "id": 767,
+    "book_code": "ISA",
+    "chapter": 58,
+    "verse_start": 10,
+    "verse_end": 11
+  },
+  {
+    "id": 768,
+    "book_code": "ISA",
+    "chapter": 66,
+    "verse_start": 1,
+    "verse_end": 2
+  },
+  {
+    "id": 769,
+    "book_code": "JER",
+    "chapter": 6,
+    "verse_start": 16,
+    "verse_end": 16
+  },
+  {
+    "id": 770,
+    "book_code": "JER",
+    "chapter": 9,
+    "verse_start": 23,
+    "verse_end": 24
+  },
+  {
+    "id": 771,
+    "book_code": "JER",
+    "chapter": 31,
+    "verse_start": 31,
+    "verse_end": 33
+  },
+  {
+    "id": 772,
+    "book_code": "JER",
+    "chapter": 33,
+    "verse_start": 3,
+    "verse_end": 3
+  },
+  {
+    "id": 773,
+    "book_code": "LAM",
+    "chapter": 3,
+    "verse_start": 40,
+    "verse_end": 41
+  },
+  {
+    "id": 774,
+    "book_code": "EZK",
+    "chapter": 18,
+    "verse_start": 23,
+    "verse_end": 23
+  },
+  {
+    "id": 775,
+    "book_code": "EZK",
+    "chapter": 37,
+    "verse_start": 4,
+    "verse_end": 6
+  },
+  {
+    "id": 776,
+    "book_code": "DAN",
+    "chapter": 7,
+    "verse_start": 13,
+    "verse_end": 14
+  },
+  {
+    "id": 777,
+    "book_code": "HOS",
+    "chapter": 14,
+    "verse_start": 1,
+    "verse_end": 2
+  },
+  {
+    "id": 778,
+    "book_code": "JOL",
+    "chapter": 2,
+    "verse_start": 21,
+    "verse_end": 21
+  },
+  {
+    "id": 779,
+    "book_code": "JON",
+    "chapter": 4,
+    "verse_start": 2,
+    "verse_end": 2
+  },
+  {
+    "id": 780,
+    "book_code": "MIC",
+    "chapter": 4,
+    "verse_start": 1,
+    "verse_end": 4
+  },
+  {
+    "id": 781,
+    "book_code": "NAM",
+    "chapter": 1,
+    "verse_start": 15,
+    "verse_end": 15
+  },
+  {
+    "id": 782,
+    "book_code": "HAB",
+    "chapter": 1,
+    "verse_start": 5,
+    "verse_end": 5
+  },
+  {
+    "id": 783,
+    "book_code": "ZEP",
+    "chapter": 2,
+    "verse_start": 3,
+    "verse_end": 3
+  },
+  {
+    "id": 784,
+    "book_code": "HAG",
+    "chapter": 1,
+    "verse_start": 7,
+    "verse_end": 8
+  },
+  {
+    "id": 785,
+    "book_code": "ZEC",
+    "chapter": 2,
+    "verse_start": 10,
+    "verse_end": 11
+  },
+  {
+    "id": 786,
+    "book_code": "ZEC",
+    "chapter": 8,
+    "verse_start": 16,
+    "verse_end": 17
+  },
+  {
+    "id": 787,
+    "book_code": "MAL",
+    "chapter": 2,
+    "verse_start": 5,
+    "verse_end": 6
+  },
+  {
+    "id": 788,
+    "book_code": "MAL",
+    "chapter": 3,
+    "verse_start": 16,
+    "verse_end": 17
+  },
+  {
+    "id": 789,
+    "book_code": "MAT",
+    "chapter": 5,
+    "verse_start": 6,
+    "verse_end": 6
+  },
+  {
+    "id": 790,
+    "book_code": "MAT",
+    "chapter": 5,
+    "verse_start": 9,
+    "verse_end": 9
+  },
+  {
+    "id": 791,
+    "book_code": "MAT",
+    "chapter": 5,
+    "verse_start": 16,
+    "verse_end": 16
+  },
+  {
+    "id": 792,
+    "book_code": "MAT",
+    "chapter": 6,
+    "verse_start": 33,
+    "verse_end": 33
+  },
+  {
+    "id": 793,
+    "book_code": "MRK",
+    "chapter": 2,
+    "verse_start": 5,
+    "verse_end": 5
+  },
+  {
+    "id": 794,
+    "book_code": "LUK",
+    "chapter": 24,
+    "verse_start": 32,
+    "verse_end": 32
+  },
+  {
+    "id": 795,
+    "book_code": "JHN",
+    "chapter": 15,
+    "verse_start": 11,
+    "verse_end": 11
+  },
+  {
+    "id": 796,
+    "book_code": "ACT",
+    "chapter": 11,
+    "verse_start": 21,
+    "verse_end": 21
+  },
+  {
+    "id": 797,
+    "book_code": "ROM",
+    "chapter": 15,
+    "verse_start": 30,
+    "verse_end": 30
+  },
+  {
+    "id": 798,
+    "book_code": "1CO",
+    "chapter": 3,
+    "verse_start": 7,
+    "verse_end": 7
+  },
+  {
+    "id": 799,
+    "book_code": "COL",
+    "chapter": 3,
+    "verse_start": 4,
+    "verse_end": 4
+  },
+  {
+    "id": 800,
+    "book_code": "1PE",
+    "chapter": 1,
+    "verse_start": 8,
+    "verse_end": 9
+  },
+  {
+    "id": 801,
+    "book_code": "MAT",
+    "chapter": 2,
+    "verse_start": 6,
+    "verse_end": 6
+  },
+  {
+    "id": 802,
+    "book_code": "MAT",
+    "chapter": 3,
+    "verse_start": 11,
+    "verse_end": 11
+  },
+  {
+    "id": 803,
+    "book_code": "MAT",
+    "chapter": 5,
+    "verse_start": 4,
+    "verse_end": 4
+  },
+  {
+    "id": 804,
+    "book_code": "MAT",
+    "chapter": 5,
+    "verse_start": 7,
+    "verse_end": 7
+  },
+  {
+    "id": 805,
+    "book_code": "MAT",
+    "chapter": 5,
+    "verse_start": 10,
+    "verse_end": 10
+  },
+  {
+    "id": 806,
+    "book_code": "MAT",
+    "chapter": 5,
+    "verse_start": 20,
+    "verse_end": 20
+  },
+  {
+    "id": 807,
+    "book_code": "MAT",
+    "chapter": 6,
+    "verse_start": 3,
+    "verse_end": 4
+  },
+  {
+    "id": 808,
+    "book_code": "MAT",
+    "chapter": 6,
+    "verse_start": 6,
+    "verse_end": 6
+  },
+  {
+    "id": 809,
+    "book_code": "MAT",
+    "chapter": 6,
+    "verse_start": 22,
+    "verse_end": 23
+  },
+  {
+    "id": 810,
+    "book_code": "MAT",
+    "chapter": 7,
+    "verse_start": 12,
+    "verse_end": 12
+  },
+  {
+    "id": 811,
+    "book_code": "MAT",
+    "chapter": 8,
+    "verse_start": 26,
+    "verse_end": 26
+  },
+  {
+    "id": 812,
+    "book_code": "MAT",
+    "chapter": 9,
+    "verse_start": 35,
+    "verse_end": 35
+  },
+  {
+    "id": 813,
+    "book_code": "MAT",
+    "chapter": 10,
+    "verse_start": 29,
+    "verse_end": 30
+  },
+  {
+    "id": 814,
+    "book_code": "MAT",
+    "chapter": 11,
+    "verse_start": 25,
+    "verse_end": 26
+  },
+  {
+    "id": 815,
+    "book_code": "MAT",
+    "chapter": 12,
+    "verse_start": 50,
+    "verse_end": 50
+  },
+  {
+    "id": 816,
+    "book_code": "MAT",
+    "chapter": 13,
+    "verse_start": 8,
+    "verse_end": 9
+  },
+  {
+    "id": 817,
+    "book_code": "MAT",
+    "chapter": 15,
+    "verse_start": 8,
+    "verse_end": 9
+  },
+  {
+    "id": 818,
+    "book_code": "MAT",
+    "chapter": 16,
+    "verse_start": 16,
+    "verse_end": 16
+  },
+  {
+    "id": 819,
+    "book_code": "MAT",
+    "chapter": 18,
+    "verse_start": 3,
+    "verse_end": 4
+  },
+  {
+    "id": 820,
+    "book_code": "MAT",
+    "chapter": 19,
+    "verse_start": 14,
+    "verse_end": 14
+  },
+  {
+    "id": 821,
+    "book_code": "MAT",
+    "chapter": 20,
+    "verse_start": 16,
+    "verse_end": 16
+  },
+  {
+    "id": 822,
+    "book_code": "MAT",
+    "chapter": 23,
+    "verse_start": 11,
+    "verse_end": 12
+  },
+  {
+    "id": 823,
+    "book_code": "MAT",
+    "chapter": 24,
+    "verse_start": 13,
+    "verse_end": 13
+  },
+  {
+    "id": 824,
+    "book_code": "MAT",
+    "chapter": 26,
+    "verse_start": 41,
+    "verse_end": 41
+  },
+  {
+    "id": 825,
+    "book_code": "MRK",
+    "chapter": 4,
+    "verse_start": 20,
+    "verse_end": 20
+  },
+  {
+    "id": 826,
+    "book_code": "MRK",
+    "chapter": 8,
+    "verse_start": 34,
+    "verse_end": 34
+  },
+  {
+    "id": 827,
+    "book_code": "MRK",
+    "chapter": 9,
+    "verse_start": 41,
+    "verse_end": 41
+  },
+  {
+    "id": 828,
+    "book_code": "MRK",
+    "chapter": 10,
+    "verse_start": 14,
+    "verse_end": 14
+  },
+  {
+    "id": 829,
+    "book_code": "MRK",
+    "chapter": 16,
+    "verse_start": 20,
+    "verse_end": 20
+  },
+  {
+    "id": 830,
+    "book_code": "LUK",
+    "chapter": 1,
+    "verse_start": 68,
+    "verse_end": 69
+  },
+  {
+    "id": 831,
+    "book_code": "LUK",
+    "chapter": 2,
+    "verse_start": 19,
+    "verse_end": 19
+  },
+  {
+    "id": 832,
+    "book_code": "LUK",
+    "chapter": 2,
+    "verse_start": 40,
+    "verse_end": 40
+  },
+  {
+    "id": 833,
+    "book_code": "LUK",
+    "chapter": 3,
+    "verse_start": 21,
+    "verse_end": 22
+  },
+  {
+    "id": 834,
+    "book_code": "LUK",
+    "chapter": 6,
+    "verse_start": 31,
+    "verse_end": 31
+  },
+  {
+    "id": 835,
+    "book_code": "LUK",
+    "chapter": 6,
+    "verse_start": 46,
+    "verse_end": 48
+  },
+  {
+    "id": 836,
+    "book_code": "LUK",
+    "chapter": 7,
+    "verse_start": 9,
+    "verse_end": 9
+  },
+  {
+    "id": 837,
+    "book_code": "LUK",
+    "chapter": 7,
+    "verse_start": 13,
+    "verse_end": 13
+  },
+  {
+    "id": 838,
+    "book_code": "LUK",
+    "chapter": 9,
+    "verse_start": 10,
+    "verse_end": 11
+  },
+  {
+    "id": 839,
+    "book_code": "LUK",
+    "chapter": 11,
+    "verse_start": 2,
+    "verse_end": 2
+  },
+  {
+    "id": 840,
+    "book_code": "LUK",
+    "chapter": 13,
+    "verse_start": 18,
+    "verse_end": 19
+  },
+  {
+    "id": 841,
+    "book_code": "LUK",
+    "chapter": 15,
+    "verse_start": 20,
+    "verse_end": 20
+  },
+  {
+    "id": 842,
+    "book_code": "LUK",
+    "chapter": 18,
+    "verse_start": 9,
+    "verse_end": 14
+  },
+  {
+    "id": 843,
+    "book_code": "LUK",
+    "chapter": 21,
+    "verse_start": 33,
+    "verse_end": 33
+  },
+  {
+    "id": 844,
+    "book_code": "LUK",
+    "chapter": 22,
+    "verse_start": 31,
+    "verse_end": 32
+  },
+  {
+    "id": 845,
+    "book_code": "JHN",
+    "chapter": 1,
+    "verse_start": 16,
+    "verse_end": 16
+  },
+  {
+    "id": 846,
+    "book_code": "JHN",
+    "chapter": 2,
+    "verse_start": 17,
+    "verse_end": 17
+  },
+  {
+    "id": 847,
+    "book_code": "JHN",
+    "chapter": 4,
+    "verse_start": 35,
+    "verse_end": 35
+  },
+  {
+    "id": 848,
+    "book_code": "JHN",
+    "chapter": 7,
+    "verse_start": 17,
+    "verse_end": 17
+  },
+  {
+    "id": 849,
+    "book_code": "JHN",
+    "chapter": 8,
+    "verse_start": 10,
+    "verse_end": 11
+  },
+  {
+    "id": 850,
+    "book_code": "JHN",
+    "chapter": 12,
+    "verse_start": 32,
+    "verse_end": 32
+  },
+  {
+    "id": 851,
+    "book_code": "JHN",
+    "chapter": 15,
+    "verse_start": 2,
+    "verse_end": 2
+  },
+  {
+    "id": 852,
+    "book_code": "JHN",
+    "chapter": 15,
+    "verse_start": 16,
+    "verse_end": 16
+  },
+  {
+    "id": 853,
+    "book_code": "JHN",
+    "chapter": 17,
+    "verse_start": 15,
+    "verse_end": 15
+  },
+  {
+    "id": 854,
+    "book_code": "JHN",
+    "chapter": 20,
+    "verse_start": 31,
+    "verse_end": 31
+  },
+  {
+    "id": 855,
+    "book_code": "ACT",
+    "chapter": 3,
+    "verse_start": 6,
+    "verse_end": 6
+  },
+  {
+    "id": 856,
+    "book_code": "ACT",
+    "chapter": 4,
+    "verse_start": 31,
+    "verse_end": 31
+  },
+  {
+    "id": 857,
+    "book_code": "ACT",
+    "chapter": 9,
+    "verse_start": 31,
+    "verse_end": 31
+  },
+  {
+    "id": 858,
+    "book_code": "ACT",
+    "chapter": 13,
+    "verse_start": 52,
+    "verse_end": 52
+  },
+  {
+    "id": 859,
+    "book_code": "ACT",
+    "chapter": 15,
+    "verse_start": 8,
+    "verse_end": 9
+  },
+  {
+    "id": 860,
+    "book_code": "ACT",
+    "chapter": 18,
+    "verse_start": 9,
+    "verse_end": 10
+  },
+  {
+    "id": 861,
+    "book_code": "ACT",
+    "chapter": 28,
+    "verse_start": 30,
+    "verse_end": 31
+  },
+  {
+    "id": 862,
+    "book_code": "ROM",
+    "chapter": 2,
+    "verse_start": 6,
+    "verse_end": 7
+  },
+  {
+    "id": 863,
+    "book_code": "ROM",
+    "chapter": 4,
+    "verse_start": 7,
+    "verse_end": 8
+  },
+  {
+    "id": 864,
+    "book_code": "ROM",
+    "chapter": 7,
+    "verse_start": 24,
+    "verse_end": 25
+  },
+  {
+    "id": 865,
+    "book_code": "ROM",
+    "chapter": 8,
+    "verse_start": 11,
+    "verse_end": 11
+  },
+  {
+    "id": 866,
+    "book_code": "ROM",
+    "chapter": 11,
+    "verse_start": 29,
+    "verse_end": 29
+  },
+  {
+    "id": 867,
+    "book_code": "ROM",
+    "chapter": 14,
+    "verse_start": 13,
+    "verse_end": 13
+  },
+  {
+    "id": 868,
+    "book_code": "ROM",
+    "chapter": 14,
+    "verse_start": 19,
+    "verse_end": 19
+  },
+  {
+    "id": 869,
+    "book_code": "ROM",
+    "chapter": 16,
+    "verse_start": 19,
+    "verse_end": 20
+  },
+  {
+    "id": 870,
+    "book_code": "1CO",
+    "chapter": 1,
+    "verse_start": 4,
+    "verse_end": 5
+  },
+  {
+    "id": 871,
+    "book_code": "1CO",
+    "chapter": 6,
+    "verse_start": 20,
+    "verse_end": 20
+  },
+  {
+    "id": 872,
+    "book_code": "1CO",
+    "chapter": 9,
+    "verse_start": 19,
+    "verse_end": 19
+  },
+  {
+    "id": 873,
+    "book_code": "1CO",
+    "chapter": 12,
+    "verse_start": 25,
+    "verse_end": 26
+  },
+  {
+    "id": 874,
+    "book_code": "1CO",
+    "chapter": 16,
+    "verse_start": 9,
+    "verse_end": 9
+  },
+  {
+    "id": 875,
+    "book_code": "2CO",
+    "chapter": 1,
+    "verse_start": 3,
+    "verse_end": 3
+  },
+  {
+    "id": 876,
+    "book_code": "2CO",
+    "chapter": 3,
+    "verse_start": 5,
+    "verse_end": 5
+  },
+  {
+    "id": 877,
+    "book_code": "2CO",
+    "chapter": 4,
+    "verse_start": 13,
+    "verse_end": 13
+  },
+  {
+    "id": 878,
+    "book_code": "2CO",
+    "chapter": 6,
+    "verse_start": 16,
+    "verse_end": 16
+  },
+  {
+    "id": 879,
+    "book_code": "2CO",
+    "chapter": 7,
+    "verse_start": 10,
+    "verse_end": 10
+  },
+  {
+    "id": 880,
+    "book_code": "2CO",
+    "chapter": 8,
+    "verse_start": 3,
+    "verse_end": 4
+  },
+  {
+    "id": 881,
+    "book_code": "GAL",
+    "chapter": 1,
+    "verse_start": 10,
+    "verse_end": 10
+  },
+  {
+    "id": 882,
+    "book_code": "GAL",
+    "chapter": 3,
+    "verse_start": 11,
+    "verse_end": 11
+  },
+  {
+    "id": 883,
+    "book_code": "GAL",
+    "chapter": 4,
+    "verse_start": 6,
+    "verse_end": 6
+  },
+  {
+    "id": 884,
+    "book_code": "GAL",
+    "chapter": 5,
+    "verse_start": 24,
+    "verse_end": 25
+  },
+  {
+    "id": 885,
+    "book_code": "GAL",
+    "chapter": 6,
+    "verse_start": 10,
+    "verse_end": 10
+  },
+  {
+    "id": 886,
+    "book_code": "EPH",
+    "chapter": 1,
+    "verse_start": 11,
+    "verse_end": 11
+  },
+  {
+    "id": 887,
+    "book_code": "EPH",
+    "chapter": 2,
+    "verse_start": 1,
+    "verse_end": 3
+  },
+  {
+    "id": 888,
+    "book_code": "EPH",
+    "chapter": 3,
+    "verse_start": 12,
+    "verse_end": 12
+  },
+  {
+    "id": 889,
+    "book_code": "EPH",
+    "chapter": 4,
+    "verse_start": 13,
+    "verse_end": 13
+  },
+  {
+    "id": 890,
+    "book_code": "EPH",
+    "chapter": 5,
+    "verse_start": 19,
+    "verse_end": 20
+  },
+  {
+    "id": 891,
+    "book_code": "PHP",
+    "chapter": 1,
+    "verse_start": 27,
+    "verse_end": 27
+  },
+  {
+    "id": 892,
+    "book_code": "PHP",
+    "chapter": 2,
+    "verse_start": 2,
+    "verse_end": 2
+  },
+  {
+    "id": 893,
+    "book_code": "PHP",
+    "chapter": 3,
+    "verse_start": 1,
+    "verse_end": 1
+  },
+  {
+    "id": 894,
+    "book_code": "PHP",
+    "chapter": 4,
+    "verse_start": 1,
+    "verse_end": 1
+  },
+  {
+    "id": 895,
+    "book_code": "COL",
+    "chapter": 1,
+    "verse_start": 10,
+    "verse_end": 10
+  },
+  {
+    "id": 896,
+    "book_code": "COL",
+    "chapter": 2,
+    "verse_start": 13,
+    "verse_end": 14
+  },
+  {
+    "id": 897,
+    "book_code": "COL",
+    "chapter": 3,
+    "verse_start": 1,
+    "verse_end": 1
+  },
+  {
+    "id": 898,
+    "book_code": "COL",
+    "chapter": 3,
+    "verse_start": 9,
+    "verse_end": 10
+  },
+  {
+    "id": 899,
+    "book_code": "1TH",
+    "chapter": 2,
+    "verse_start": 4,
+    "verse_end": 4
+  },
+  {
+    "id": 900,
+    "book_code": "1TH",
+    "chapter": 5,
+    "verse_start": 4,
+    "verse_end": 4
+  },
+  {
+    "id": 901,
+    "book_code": "2TH",
+    "chapter": 2,
+    "verse_start": 13,
+    "verse_end": 13
+  },
+  {
+    "id": 902,
+    "book_code": "1TI",
+    "chapter": 1,
+    "verse_start": 5,
+    "verse_end": 5
+  },
+  {
+    "id": 903,
+    "book_code": "1TI",
+    "chapter": 3,
+    "verse_start": 16,
+    "verse_end": 16
+  },
+  {
+    "id": 904,
+    "book_code": "1TI",
+    "chapter": 6,
+    "verse_start": 18,
+    "verse_end": 18
+  },
+  {
+    "id": 905,
+    "book_code": "2TI",
+    "chapter": 1,
+    "verse_start": 6,
+    "verse_end": 6
+  },
+  {
+    "id": 906,
+    "book_code": "2TI",
+    "chapter": 4,
+    "verse_start": 5,
+    "verse_end": 5
+  },
+  {
+    "id": 907,
+    "book_code": "TIT",
+    "chapter": 1,
+    "verse_start": 2,
+    "verse_end": 3
+  },
+  {
+    "id": 908,
+    "book_code": "TIT",
+    "chapter": 2,
+    "verse_start": 4,
+    "verse_end": 5
+  },
+  {
+    "id": 909,
+    "book_code": "HEB",
+    "chapter": 10,
+    "verse_start": 10,
+    "verse_end": 10
+  },
+  {
+    "id": 910,
+    "book_code": "HEB",
+    "chapter": 10,
+    "verse_start": 24,
+    "verse_end": 24
+  },
+  {
+    "id": 911,
+    "book_code": "HEB",
+    "chapter": 12,
+    "verse_start": 5,
+    "verse_end": 6
+  },
+  {
+    "id": 912,
+    "book_code": "HEB",
+    "chapter": 13,
+    "verse_start": 3,
+    "verse_end": 3
+  },
+  {
+    "id": 913,
+    "book_code": "JAS",
+    "chapter": 1,
+    "verse_start": 9,
+    "verse_end": 10
+  },
+  {
+    "id": 914,
+    "book_code": "JAS",
+    "chapter": 1,
+    "verse_start": 27,
+    "verse_end": 27
+  },
+  {
+    "id": 915,
+    "book_code": "JAS",
+    "chapter": 5,
+    "verse_start": 19,
+    "verse_end": 20
+  },
+  {
+    "id": 916,
+    "book_code": "1PE",
+    "chapter": 1,
+    "verse_start": 18,
+    "verse_end": 19
+  },
+  {
+    "id": 917,
+    "book_code": "1PE",
+    "chapter": 2,
+    "verse_start": 2,
+    "verse_end": 3
+  },
+  {
+    "id": 918,
+    "book_code": "1PE",
+    "chapter": 2,
+    "verse_start": 21,
+    "verse_end": 21
+  },
+  {
+    "id": 919,
+    "book_code": "1PE",
+    "chapter": 4,
+    "verse_start": 12,
+    "verse_end": 13
+  },
+  {
+    "id": 920,
+    "book_code": "2PE",
+    "chapter": 1,
+    "verse_start": 2,
+    "verse_end": 2
+  },
+  {
+    "id": 921,
+    "book_code": "1JN",
+    "chapter": 2,
+    "verse_start": 1,
+    "verse_end": 1
+  },
+  {
+    "id": 922,
+    "book_code": "1JN",
+    "chapter": 2,
+    "verse_start": 28,
+    "verse_end": 28
+  },
+  {
+    "id": 923,
+    "book_code": "1JN",
+    "chapter": 4,
+    "verse_start": 1,
+    "verse_end": 1
+  },
+  {
+    "id": 924,
+    "book_code": "2JN",
+    "chapter": 1,
+    "verse_start": 4,
+    "verse_end": 4
+  },
+  {
+    "id": 925,
+    "book_code": "3JN",
+    "chapter": 1,
+    "verse_start": 5,
+    "verse_end": 6
+  },
+  {
+    "id": 926,
+    "book_code": "REV",
+    "chapter": 1,
+    "verse_start": 5,
+    "verse_end": 6
+  },
+  {
+    "id": 927,
+    "book_code": "REV",
+    "chapter": 3,
+    "verse_start": 8,
+    "verse_end": 8
+  },
+  {
+    "id": 928,
+    "book_code": "REV",
+    "chapter": 7,
+    "verse_start": 15,
+    "verse_end": 17
+  },
+  {
+    "id": 929,
+    "book_code": "REV",
+    "chapter": 19,
+    "verse_start": 11,
+    "verse_end": 13
+  },
+  {
+    "id": 930,
+    "book_code": "REV",
+    "chapter": 22,
+    "verse_start": 12,
+    "verse_end": 12
+  },
+  {
+    "id": 931,
+    "book_code": "GEN",
+    "chapter": 6,
+    "verse_start": 8,
+    "verse_end": 8
+  },
+  {
+    "id": 932,
+    "book_code": "GEN",
+    "chapter": 17,
+    "verse_start": 7,
+    "verse_end": 7
+  },
+  {
+    "id": 933,
+    "book_code": "GEN",
+    "chapter": 24,
+    "verse_start": 27,
+    "verse_end": 27
+  },
+  {
+    "id": 934,
+    "book_code": "GEN",
+    "chapter": 39,
+    "verse_start": 2,
+    "verse_end": 3
+  },
+  {
+    "id": 935,
+    "book_code": "EXO",
+    "chapter": 4,
+    "verse_start": 11,
+    "verse_end": 12
+  },
+  {
+    "id": 936,
+    "book_code": "EXO",
+    "chapter": 14,
+    "verse_start": 31,
+    "verse_end": 31
+  },
+  {
+    "id": 937,
+    "book_code": "EXO",
+    "chapter": 33,
+    "verse_start": 18,
+    "verse_end": 19
+  },
+  {
+    "id": 938,
+    "book_code": "LEV",
+    "chapter": 20,
+    "verse_start": 7,
+    "verse_end": 8
+  },
+  {
+    "id": 939,
+    "book_code": "NUM",
+    "chapter": 14,
+    "verse_start": 18,
+    "verse_end": 18
+  },
+  {
+    "id": 940,
+    "book_code": "DEU",
+    "chapter": 4,
+    "verse_start": 7,
+    "verse_end": 7
+  },
+  {
+    "id": 941,
+    "book_code": "DEU",
+    "chapter": 7,
+    "verse_start": 9,
+    "verse_end": 9
+  },
+  {
+    "id": 942,
+    "book_code": "DEU",
+    "chapter": 10,
+    "verse_start": 17,
+    "verse_end": 18
+  },
+  {
+    "id": 943,
+    "book_code": "JOS",
+    "chapter": 21,
+    "verse_start": 45,
+    "verse_end": 45
+  },
+  {
+    "id": 944,
+    "book_code": "JDG",
+    "chapter": 6,
+    "verse_start": 23,
+    "verse_end": 24
+  },
+  {
+    "id": 945,
+    "book_code": "RUT",
+    "chapter": 2,
+    "verse_start": 20,
+    "verse_end": 20
+  },
+  {
+    "id": 946,
+    "book_code": "1SA",
+    "chapter": 7,
+    "verse_start": 12,
+    "verse_end": 12
+  },
+  {
+    "id": 947,
+    "book_code": "1SA",
+    "chapter": 12,
+    "verse_start": 24,
+    "verse_end": 24
+  },
+  {
+    "id": 948,
+    "book_code": "2SA",
+    "chapter": 7,
+    "verse_start": 28,
+    "verse_end": 28
+  },
+  {
+    "id": 949,
+    "book_code": "1KI",
+    "chapter": 19,
+    "verse_start": 5,
+    "verse_end": 7
+  },
+  {
+    "id": 950,
+    "book_code": "2KI",
+    "chapter": 20,
+    "verse_start": 5,
+    "verse_end": 5
+  },
+  {
+    "id": 951,
+    "book_code": "1CH",
+    "chapter": 16,
+    "verse_start": 34,
+    "verse_end": 34
+  },
+  {
+    "id": 952,
+    "book_code": "2CH",
+    "chapter": 30,
+    "verse_start": 9,
+    "verse_end": 9
+  },
+  {
+    "id": 953,
+    "book_code": "EZR",
+    "chapter": 8,
+    "verse_start": 31,
+    "verse_end": 31
+  },
+  {
+    "id": 954,
+    "book_code": "NEH",
+    "chapter": 6,
+    "verse_start": 9,
+    "verse_end": 9
+  },
+  {
+    "id": 955,
+    "book_code": "EST",
+    "chapter": 2,
+    "verse_start": 17,
+    "verse_end": 17
+  },
+  {
+    "id": 956,
+    "book_code": "JOB",
+    "chapter": 5,
+    "verse_start": 17,
+    "verse_end": 17
+  },
+  {
+    "id": 957,
+    "book_code": "JOB",
+    "chapter": 22,
+    "verse_start": 21,
+    "verse_end": 21
+  },
+  {
+    "id": 958,
+    "book_code": "JOB",
+    "chapter": 33,
+    "verse_start": 4,
+    "verse_end": 4
+  },
+  {
+    "id": 959,
+    "book_code": "PSA",
+    "chapter": 1,
+    "verse_start": 6,
+    "verse_end": 6
+  },
+  {
+    "id": 960,
+    "book_code": "PSA",
+    "chapter": 18,
+    "verse_start": 19,
+    "verse_end": 19
+  },
+  {
+    "id": 961,
+    "book_code": "PSA",
+    "chapter": 22,
+    "verse_start": 24,
+    "verse_end": 24
+  },
+  {
+    "id": 962,
+    "book_code": "PSA",
+    "chapter": 31,
+    "verse_start": 19,
+    "verse_end": 19
+  },
+  {
+    "id": 963,
+    "book_code": "PSA",
+    "chapter": 36,
+    "verse_start": 7,
+    "verse_end": 9
+  },
+  {
+    "id": 964,
+    "book_code": "PSA",
+    "chapter": 40,
+    "verse_start": 8,
+    "verse_end": 8
+  },
+  {
+    "id": 965,
+    "book_code": "PSA",
+    "chapter": 55,
+    "verse_start": 16,
+    "verse_end": 17
+  },
+  {
+    "id": 966,
+    "book_code": "PSA",
+    "chapter": 63,
+    "verse_start": 7,
+    "verse_end": 8
+  },
+  {
+    "id": 967,
+    "book_code": "PSA",
+    "chapter": 84,
+    "verse_start": 5,
+    "verse_end": 5
+  },
+  {
+    "id": 968,
+    "book_code": "PSA",
+    "chapter": 89,
+    "verse_start": 1,
+    "verse_end": 1
+  },
+  {
+    "id": 969,
+    "book_code": "PSA",
+    "chapter": 97,
+    "verse_start": 11,
+    "verse_end": 12
+  },
+  {
+    "id": 970,
+    "book_code": "PSA",
+    "chapter": 116,
+    "verse_start": 5,
+    "verse_end": 6
+  },
+  {
+    "id": 971,
+    "book_code": "PSA",
+    "chapter": 118,
+    "verse_start": 14,
+    "verse_end": 14
+  },
+  {
+    "id": 972,
+    "book_code": "PSA",
+    "chapter": 121,
+    "verse_start": 7,
+    "verse_end": 7
+  },
+  {
+    "id": 973,
+    "book_code": "PSA",
+    "chapter": 138,
+    "verse_start": 8,
+    "verse_end": 8
+  },
+  {
+    "id": 974,
+    "book_code": "PRO",
+    "chapter": 3,
+    "verse_start": 7,
+    "verse_end": 7
+  },
+  {
+    "id": 975,
+    "book_code": "PRO",
+    "chapter": 4,
+    "verse_start": 18,
+    "verse_end": 18
+  },
+  {
+    "id": 976,
+    "book_code": "PRO",
+    "chapter": 10,
+    "verse_start": 9,
+    "verse_end": 9
+  },
+  {
+    "id": 977,
+    "book_code": "PRO",
+    "chapter": 13,
+    "verse_start": 20,
+    "verse_end": 20
+  },
+  {
+    "id": 978,
+    "book_code": "PRO",
+    "chapter": 15,
+    "verse_start": 13,
+    "verse_end": 13
+  },
+  {
+    "id": 979,
+    "book_code": "PRO",
+    "chapter": 16,
+    "verse_start": 20,
+    "verse_end": 20
+  },
+  {
+    "id": 980,
+    "book_code": "PRO",
+    "chapter": 24,
+    "verse_start": 3,
+    "verse_end": 4
+  },
+  {
+    "id": 981,
+    "book_code": "PRO",
+    "chapter": 27,
+    "verse_start": 1,
+    "verse_end": 1
+  },
+  {
+    "id": 982,
+    "book_code": "ECC",
+    "chapter": 5,
+    "verse_start": 1,
+    "verse_end": 2
+  },
+  {
+    "id": 983,
+    "book_code": "ECC",
+    "chapter": 12,
+    "verse_start": 13,
+    "verse_end": 13
+  },
+  {
+    "id": 984,
+    "book_code": "SNG",
+    "chapter": 2,
+    "verse_start": 10,
+    "verse_end": 13
+  },
+  {
+    "id": 985,
+    "book_code": "ISA",
+    "chapter": 8,
+    "verse_start": 17,
+    "verse_end": 17
+  },
+  {
+    "id": 986,
+    "book_code": "ISA",
+    "chapter": 26,
+    "verse_start": 8,
+    "verse_end": 8
+  },
+  {
+    "id": 987,
+    "book_code": "ISA",
+    "chapter": 30,
+    "verse_start": 18,
+    "verse_end": 18
+  },
+  {
+    "id": 988,
+    "book_code": "ISA",
+    "chapter": 41,
+    "verse_start": 13,
+    "verse_end": 13
+  },
+  {
+    "id": 989,
+    "book_code": "ISA",
+    "chapter": 51,
+    "verse_start": 11,
+    "verse_end": 11
+  },
+  {
+    "id": 990,
+    "book_code": "ISA",
+    "chapter": 55,
+    "verse_start": 10,
+    "verse_end": 11
+  },
+  {
+    "id": 991,
+    "book_code": "ISA",
+    "chapter": 63,
+    "verse_start": 7,
+    "verse_end": 7
+  },
+  {
+    "id": 992,
+    "book_code": "JER",
+    "chapter": 3,
+    "verse_start": 22,
+    "verse_end": 22
+  },
+  {
+    "id": 993,
+    "book_code": "JER",
+    "chapter": 17,
+    "verse_start": 10,
+    "verse_end": 10
+  },
+  {
+    "id": 994,
+    "book_code": "JER",
+    "chapter": 32,
+    "verse_start": 27,
+    "verse_end": 27
+  },
+  {
+    "id": 995,
+    "book_code": "LAM",
+    "chapter": 5,
+    "verse_start": 21,
+    "verse_end": 21
+  },
+  {
+    "id": 996,
+    "book_code": "EZK",
+    "chapter": 36,
+    "verse_start": 28,
+    "verse_end": 28
+  },
+  {
+    "id": 997,
+    "book_code": "DAN",
+    "chapter": 9,
+    "verse_start": 18,
+    "verse_end": 19
+  },
+  {
+    "id": 998,
+    "book_code": "HOS",
+    "chapter": 10,
+    "verse_start": 12,
+    "verse_end": 12
+  },
+  {
+    "id": 999,
+    "book_code": "MIC",
+    "chapter": 5,
+    "verse_start": 2,
+    "verse_end": 2
+  },
+  {
+    "id": 1000,
+    "book_code": "ZEP",
+    "chapter": 3,
+    "verse_start": 14,
+    "verse_end": 15
+  },
+  {
+    "id": 1001,
+    "book_code": "MAT",
+    "chapter": 1,
+    "verse_start": 23,
+    "verse_end": 23
+  },
+  {
+    "id": 1002,
+    "book_code": "MAT",
+    "chapter": 4,
+    "verse_start": 16,
+    "verse_end": 16
+  },
+  {
+    "id": 1003,
+    "book_code": "MAT",
+    "chapter": 5,
+    "verse_start": 5,
+    "verse_end": 5
+  },
+  {
+    "id": 1004,
+    "book_code": "MAT",
+    "chapter": 5,
+    "verse_start": 13,
+    "verse_end": 13
+  },
+  {
+    "id": 1005,
+    "book_code": "MAT",
+    "chapter": 5,
+    "verse_start": 39,
+    "verse_end": 39
+  },
+  {
+    "id": 1006,
+    "book_code": "MAT",
+    "chapter": 5,
+    "verse_start": 44,
+    "verse_end": 44
+  },
+  {
+    "id": 1007,
+    "book_code": "MAT",
+    "chapter": 6,
+    "verse_start": 8,
+    "verse_end": 8
+  },
+  {
+    "id": 1008,
+    "book_code": "MAT",
+    "chapter": 6,
+    "verse_start": 10,
+    "verse_end": 10
+  },
+  {
+    "id": 1009,
+    "book_code": "MAT",
+    "chapter": 6,
+    "verse_start": 24,
+    "verse_end": 24
+  },
+  {
+    "id": 1010,
+    "book_code": "MAT",
+    "chapter": 7,
+    "verse_start": 1,
+    "verse_end": 2
+  },
+  {
+    "id": 1011,
+    "book_code": "MAT",
+    "chapter": 7,
+    "verse_start": 7,
+    "verse_end": 7
+  },
+  {
+    "id": 1012,
+    "book_code": "MAT",
+    "chapter": 7,
+    "verse_start": 14,
+    "verse_end": 14
+  },
+  {
+    "id": 1013,
+    "book_code": "MAT",
+    "chapter": 8,
+    "verse_start": 10,
+    "verse_end": 10
+  },
+  {
+    "id": 1014,
+    "book_code": "MAT",
+    "chapter": 8,
+    "verse_start": 17,
+    "verse_end": 17
+  },
+  {
+    "id": 1015,
+    "book_code": "MAT",
+    "chapter": 9,
+    "verse_start": 36,
+    "verse_end": 36
+  },
+  {
+    "id": 1016,
+    "book_code": "MAT",
+    "chapter": 10,
+    "verse_start": 32,
+    "verse_end": 32
+  },
+  {
+    "id": 1017,
+    "book_code": "MAT",
+    "chapter": 10,
+    "verse_start": 39,
+    "verse_end": 39
+  },
+  {
+    "id": 1018,
+    "book_code": "MAT",
+    "chapter": 12,
+    "verse_start": 12,
+    "verse_end": 12
+  },
+  {
+    "id": 1019,
+    "book_code": "MAT",
+    "chapter": 13,
+    "verse_start": 52,
+    "verse_end": 52
+  },
+  {
+    "id": 1020,
+    "book_code": "MAT",
+    "chapter": 18,
+    "verse_start": 20,
+    "verse_end": 20
+  },
+  {
+    "id": 1021,
+    "book_code": "MAT",
+    "chapter": 19,
+    "verse_start": 21,
+    "verse_end": 21
+  },
+  {
+    "id": 1022,
+    "book_code": "MAT",
+    "chapter": 24,
+    "verse_start": 42,
+    "verse_end": 42
+  },
+  {
+    "id": 1023,
+    "book_code": "MAT",
+    "chapter": 26,
+    "verse_start": 13,
+    "verse_end": 13
+  },
+  {
+    "id": 1024,
+    "book_code": "MAT",
+    "chapter": 28,
+    "verse_start": 5,
+    "verse_end": 6
+  },
+  {
+    "id": 1025,
+    "book_code": "MRK",
+    "chapter": 1,
+    "verse_start": 14,
+    "verse_end": 15
+  },
+  {
+    "id": 1026,
+    "book_code": "MRK",
+    "chapter": 2,
+    "verse_start": 27,
+    "verse_end": 27
+  },
+  {
+    "id": 1027,
+    "book_code": "MRK",
+    "chapter": 3,
+    "verse_start": 35,
+    "verse_end": 35
+  },
+  {
+    "id": 1028,
+    "book_code": "MRK",
+    "chapter": 6,
+    "verse_start": 34,
+    "verse_end": 34
+  },
+  {
+    "id": 1029,
+    "book_code": "MRK",
+    "chapter": 8,
+    "verse_start": 29,
+    "verse_end": 29
+  },
+  {
+    "id": 1030,
+    "book_code": "MRK",
+    "chapter": 12,
+    "verse_start": 17,
+    "verse_end": 17
+  },
+  {
+    "id": 1031,
+    "book_code": "MRK",
+    "chapter": 12,
+    "verse_start": 43,
+    "verse_end": 44
+  },
+  {
+    "id": 1032,
+    "book_code": "MRK",
+    "chapter": 13,
+    "verse_start": 31,
+    "verse_end": 31
+  },
+  {
+    "id": 1033,
+    "book_code": "LUK",
+    "chapter": 1,
+    "verse_start": 49,
+    "verse_end": 50
+  },
+  {
+    "id": 1034,
+    "book_code": "LUK",
+    "chapter": 2,
+    "verse_start": 28,
+    "verse_end": 32
+  },
+  {
+    "id": 1035,
+    "book_code": "LUK",
+    "chapter": 3,
+    "verse_start": 4,
+    "verse_end": 6
+  },
+  {
+    "id": 1036,
+    "book_code": "LUK",
+    "chapter": 4,
+    "verse_start": 43,
+    "verse_end": 43
+  },
+  {
+    "id": 1037,
+    "book_code": "LUK",
+    "chapter": 6,
+    "verse_start": 36,
+    "verse_end": 36
+  },
+  {
+    "id": 1038,
+    "book_code": "LUK",
+    "chapter": 7,
+    "verse_start": 16,
+    "verse_end": 16
+  },
+  {
+    "id": 1039,
+    "book_code": "LUK",
+    "chapter": 8,
+    "verse_start": 21,
+    "verse_end": 21
+  },
+  {
+    "id": 1040,
+    "book_code": "LUK",
+    "chapter": 9,
+    "verse_start": 62,
+    "verse_end": 62
+  },
+  {
+    "id": 1041,
+    "book_code": "LUK",
+    "chapter": 11,
+    "verse_start": 13,
+    "verse_end": 13
+  },
+  {
+    "id": 1042,
+    "book_code": "LUK",
+    "chapter": 12,
+    "verse_start": 32,
+    "verse_end": 34
+  },
+  {
+    "id": 1043,
+    "book_code": "LUK",
+    "chapter": 13,
+    "verse_start": 24,
+    "verse_end": 24
+  },
+  {
+    "id": 1044,
+    "book_code": "LUK",
+    "chapter": 14,
+    "verse_start": 11,
+    "verse_end": 11
+  },
+  {
+    "id": 1045,
+    "book_code": "LUK",
+    "chapter": 17,
+    "verse_start": 10,
+    "verse_end": 10
+  },
+  {
+    "id": 1046,
+    "book_code": "LUK",
+    "chapter": 19,
+    "verse_start": 9,
+    "verse_end": 10
+  },
+  {
+    "id": 1047,
+    "book_code": "LUK",
+    "chapter": 24,
+    "verse_start": 45,
+    "verse_end": 47
+  },
+  {
+    "id": 1048,
+    "book_code": "JHN",
+    "chapter": 1,
+    "verse_start": 9,
+    "verse_end": 9
+  },
+  {
+    "id": 1049,
+    "book_code": "JHN",
+    "chapter": 1,
+    "verse_start": 29,
+    "verse_end": 29
+  },
+  {
+    "id": 1050,
+    "book_code": "JHN",
+    "chapter": 3,
+    "verse_start": 30,
+    "verse_end": 30
+  },
+  {
+    "id": 1051,
+    "book_code": "JHN",
+    "chapter": 4,
+    "verse_start": 24,
+    "verse_end": 24
+  },
+  {
+    "id": 1052,
+    "book_code": "JHN",
+    "chapter": 5,
+    "verse_start": 19,
+    "verse_end": 19
+  },
+  {
+    "id": 1053,
+    "book_code": "JHN",
+    "chapter": 6,
+    "verse_start": 27,
+    "verse_end": 27
+  },
+  {
+    "id": 1054,
+    "book_code": "JHN",
+    "chapter": 7,
+    "verse_start": 38,
+    "verse_end": 38
+  },
+  {
+    "id": 1055,
+    "book_code": "JHN",
+    "chapter": 8,
+    "verse_start": 36,
+    "verse_end": 36
+  },
+  {
+    "id": 1056,
+    "book_code": "JHN",
+    "chapter": 9,
+    "verse_start": 25,
+    "verse_end": 25
+  },
+  {
+    "id": 1057,
+    "book_code": "JHN",
+    "chapter": 10,
+    "verse_start": 3,
+    "verse_end": 4
+  },
+  {
+    "id": 1058,
+    "book_code": "JHN",
+    "chapter": 12,
+    "verse_start": 26,
+    "verse_end": 26
+  },
+  {
+    "id": 1059,
+    "book_code": "JHN",
+    "chapter": 13,
+    "verse_start": 17,
+    "verse_end": 17
+  },
+  {
+    "id": 1060,
+    "book_code": "JHN",
+    "chapter": 14,
+    "verse_start": 1,
+    "verse_end": 1
+  },
+  {
+    "id": 1061,
+    "book_code": "JHN",
+    "chapter": 15,
+    "verse_start": 9,
+    "verse_end": 9
+  },
+  {
+    "id": 1062,
+    "book_code": "JHN",
+    "chapter": 16,
+    "verse_start": 13,
+    "verse_end": 13
+  },
+  {
+    "id": 1063,
+    "book_code": "JHN",
+    "chapter": 17,
+    "verse_start": 17,
+    "verse_end": 17
+  },
+  {
+    "id": 1064,
+    "book_code": "JHN",
+    "chapter": 18,
+    "verse_start": 36,
+    "verse_end": 36
+  },
+  {
+    "id": 1065,
+    "book_code": "JHN",
+    "chapter": 19,
+    "verse_start": 30,
+    "verse_end": 30
+  },
+  {
+    "id": 1066,
+    "book_code": "ACT",
+    "chapter": 1,
+    "verse_start": 9,
+    "verse_end": 11
+  },
+  {
+    "id": 1067,
+    "book_code": "ACT",
+    "chapter": 2,
+    "verse_start": 4,
+    "verse_end": 4
+  },
+  {
+    "id": 1068,
+    "book_code": "ACT",
+    "chapter": 2,
+    "verse_start": 42,
+    "verse_end": 42
+  },
+  {
+    "id": 1069,
+    "book_code": "ACT",
+    "chapter": 3,
+    "verse_start": 19,
+    "verse_end": 19
+  },
+  {
+    "id": 1070,
+    "book_code": "ACT",
+    "chapter": 8,
+    "verse_start": 4,
+    "verse_end": 4
+  },
+  {
+    "id": 1071,
+    "book_code": "ACT",
+    "chapter": 8,
+    "verse_start": 35,
+    "verse_end": 35
+  },
+  {
+    "id": 1072,
+    "book_code": "ACT",
+    "chapter": 10,
+    "verse_start": 43,
+    "verse_end": 43
+  },
+  {
+    "id": 1073,
+    "book_code": "ACT",
+    "chapter": 13,
+    "verse_start": 38,
+    "verse_end": 39
+  },
+  {
+    "id": 1074,
+    "book_code": "ACT",
+    "chapter": 16,
+    "verse_start": 9,
+    "verse_end": 10
+  },
+  {
+    "id": 1075,
+    "book_code": "ACT",
+    "chapter": 17,
+    "verse_start": 30,
+    "verse_end": 31
+  },
+  {
+    "id": 1076,
+    "book_code": "ACT",
+    "chapter": 20,
+    "verse_start": 28,
+    "verse_end": 28
+  },
+  {
+    "id": 1077,
+    "book_code": "ACT",
+    "chapter": 26,
+    "verse_start": 22,
+    "verse_end": 23
+  },
+  {
+    "id": 1078,
+    "book_code": "ROM",
+    "chapter": 1,
+    "verse_start": 1,
+    "verse_end": 2
+  },
+  {
+    "id": 1079,
+    "book_code": "ROM",
+    "chapter": 1,
+    "verse_start": 20,
+    "verse_end": 20
+  },
+  {
+    "id": 1080,
+    "book_code": "ROM",
+    "chapter": 3,
+    "verse_start": 24,
+    "verse_end": 24
+  },
+  {
+    "id": 1081,
+    "book_code": "ROM",
+    "chapter": 4,
+    "verse_start": 25,
+    "verse_end": 25
+  },
+  {
+    "id": 1082,
+    "book_code": "ROM",
+    "chapter": 5,
+    "verse_start": 18,
+    "verse_end": 18
+  },
+  {
+    "id": 1083,
+    "book_code": "ROM",
+    "chapter": 6,
+    "verse_start": 4,
+    "verse_end": 4
+  },
+  {
+    "id": 1084,
+    "book_code": "ROM",
+    "chapter": 7,
+    "verse_start": 6,
+    "verse_end": 6
+  },
+  {
+    "id": 1085,
+    "book_code": "ROM",
+    "chapter": 8,
+    "verse_start": 9,
+    "verse_end": 9
+  },
+  {
+    "id": 1086,
+    "book_code": "ROM",
+    "chapter": 9,
+    "verse_start": 15,
+    "verse_end": 15
+  },
+  {
+    "id": 1087,
+    "book_code": "ROM",
+    "chapter": 10,
+    "verse_start": 13,
+    "verse_end": 13
+  },
+  {
+    "id": 1088,
+    "book_code": "ROM",
+    "chapter": 11,
+    "verse_start": 36,
+    "verse_end": 36
+  },
+  {
+    "id": 1089,
+    "book_code": "ROM",
+    "chapter": 13,
+    "verse_start": 14,
+    "verse_end": 14
+  },
+  {
+    "id": 1090,
+    "book_code": "PSA",
+    "chapter": 34,
+    "verse_start": 15,
+    "verse_end": 15
+  },
+  {
+    "id": 1091,
+    "book_code": "1CO",
+    "chapter": 2,
+    "verse_start": 4,
+    "verse_end": 5
+  },
+  {
+    "id": 1092,
+    "book_code": "1CO",
+    "chapter": 3,
+    "verse_start": 16,
+    "verse_end": 16
+  },
+  {
+    "id": 1093,
+    "book_code": "1CO",
+    "chapter": 5,
+    "verse_start": 7,
+    "verse_end": 7
+  },
+  {
+    "id": 1094,
+    "book_code": "1CO",
+    "chapter": 8,
+    "verse_start": 6,
+    "verse_end": 6
+  },
+  {
+    "id": 1095,
+    "book_code": "1CO",
+    "chapter": 10,
+    "verse_start": 16,
+    "verse_end": 16
+  },
+  {
+    "id": 1096,
+    "book_code": "1CO",
+    "chapter": 13,
+    "verse_start": 1,
+    "verse_end": 3
+  },
+  {
+    "id": 1097,
+    "book_code": "1CO",
+    "chapter": 15,
+    "verse_start": 10,
+    "verse_end": 10
+  },
+  {
+    "id": 1098,
+    "book_code": "2CO",
+    "chapter": 1,
+    "verse_start": 21,
+    "verse_end": 22
+  },
+  {
+    "id": 1099,
+    "book_code": "2CO",
+    "chapter": 2,
+    "verse_start": 14,
+    "verse_end": 14
+  },
+  {
+    "id": 1100,
+    "book_code": "2CO",
+    "chapter": 3,
+    "verse_start": 16,
+    "verse_end": 16
+  },
+  {
+    "id": 1101,
+    "book_code": "2CO",
+    "chapter": 4,
+    "verse_start": 15,
+    "verse_end": 15
+  },
+  {
+    "id": 1102,
+    "book_code": "2CO",
+    "chapter": 6,
+    "verse_start": 2,
+    "verse_end": 2
+  },
+  {
+    "id": 1103,
+    "book_code": "2CO",
+    "chapter": 9,
+    "verse_start": 15,
+    "verse_end": 15
+  },
+  {
+    "id": 1104,
+    "book_code": "GAL",
+    "chapter": 1,
+    "verse_start": 3,
+    "verse_end": 4
+  },
+  {
+    "id": 1105,
+    "book_code": "GAL",
+    "chapter": 5,
+    "verse_start": 6,
+    "verse_end": 6
+  },
+  {
+    "id": 1106,
+    "book_code": "GAL",
+    "chapter": 5,
+    "verse_start": 17,
+    "verse_end": 17
+  },
+  {
+    "id": 1107,
+    "book_code": "GAL",
+    "chapter": 5,
+    "verse_start": 25,
+    "verse_end": 25
+  },
+  {
+    "id": 1108,
+    "book_code": "EPH",
+    "chapter": 1,
+    "verse_start": 7,
+    "verse_end": 7
+  },
+  {
+    "id": 1109,
+    "book_code": "EPH",
+    "chapter": 2,
+    "verse_start": 6,
+    "verse_end": 6
+  },
+  {
+    "id": 1110,
+    "book_code": "EPH",
+    "chapter": 3,
+    "verse_start": 6,
+    "verse_end": 6
+  },
+  {
+    "id": 1111,
+    "book_code": "EPH",
+    "chapter": 3,
+    "verse_start": 8,
+    "verse_end": 8
+  },
+  {
+    "id": 1112,
+    "book_code": "EPH",
+    "chapter": 4,
+    "verse_start": 29,
+    "verse_end": 29
+  },
+  {
+    "id": 1113,
+    "book_code": "EPH",
+    "chapter": 5,
+    "verse_start": 20,
+    "verse_end": 20
+  },
+  {
+    "id": 1114,
+    "book_code": "PHP",
+    "chapter": 1,
+    "verse_start": 23,
+    "verse_end": 23
+  },
+  {
+    "id": 1115,
+    "book_code": "PHP",
+    "chapter": 2,
+    "verse_start": 1,
+    "verse_end": 1
+  },
+  {
+    "id": 1116,
+    "book_code": "PHP",
+    "chapter": 2,
+    "verse_start": 9,
+    "verse_end": 11
+  },
+  {
+    "id": 1117,
+    "book_code": "PHP",
+    "chapter": 3,
+    "verse_start": 3,
+    "verse_end": 3
+  },
+  {
+    "id": 1118,
+    "book_code": "PHP",
+    "chapter": 4,
+    "verse_start": 19,
+    "verse_end": 19
+  },
+  {
+    "id": 1119,
+    "book_code": "COL",
+    "chapter": 1,
+    "verse_start": 5,
+    "verse_end": 5
+  },
+  {
+    "id": 1120,
+    "book_code": "COL",
+    "chapter": 1,
+    "verse_start": 18,
+    "verse_end": 18
+  },
+  {
+    "id": 1121,
+    "book_code": "COL",
+    "chapter": 2,
+    "verse_start": 6,
+    "verse_end": 6
+  },
+  {
+    "id": 1122,
+    "book_code": "COL",
+    "chapter": 3,
+    "verse_start": 13,
+    "verse_end": 13
+  },
+  {
+    "id": 1123,
+    "book_code": "COL",
+    "chapter": 3,
+    "verse_start": 17,
+    "verse_end": 17
+  },
+  {
+    "id": 1124,
+    "book_code": "1TH",
+    "chapter": 1,
+    "verse_start": 9,
+    "verse_end": 10
+  },
+  {
+    "id": 1125,
+    "book_code": "1TH",
+    "chapter": 4,
+    "verse_start": 7,
+    "verse_end": 7
+  },
+  {
+    "id": 1126,
+    "book_code": "1TH",
+    "chapter": 5,
+    "verse_start": 9,
+    "verse_end": 10
+  },
+  {
+    "id": 1127,
+    "book_code": "2TH",
+    "chapter": 2,
+    "verse_start": 8,
+    "verse_end": 8
+  },
+  {
+    "id": 1128,
+    "book_code": "2TH",
+    "chapter": 3,
+    "verse_start": 5,
+    "verse_end": 5
+  },
+  {
+    "id": 1129,
+    "book_code": "1TI",
+    "chapter": 1,
+    "verse_start": 12,
+    "verse_end": 12
+  },
+  {
+    "id": 1130,
+    "book_code": "1TI",
+    "chapter": 2,
+    "verse_start": 8,
+    "verse_end": 8
+  },
+  {
+    "id": 1131,
+    "book_code": "1TI",
+    "chapter": 5,
+    "verse_start": 17,
+    "verse_end": 17
+  },
+  {
+    "id": 1132,
+    "book_code": "2TI",
+    "chapter": 1,
+    "verse_start": 9,
+    "verse_end": 9
+  },
+  {
+    "id": 1133,
+    "book_code": "2TI",
+    "chapter": 2,
+    "verse_start": 8,
+    "verse_end": 8
+  },
+  {
+    "id": 1134,
+    "book_code": "2TI",
+    "chapter": 3,
+    "verse_start": 14,
+    "verse_end": 15
+  },
+  {
+    "id": 1135,
+    "book_code": "TIT",
+    "chapter": 2,
+    "verse_start": 1,
+    "verse_end": 1
+  },
+  {
+    "id": 1136,
+    "book_code": "TIT",
+    "chapter": 3,
+    "verse_start": 14,
+    "verse_end": 14
+  },
+  {
+    "id": 1137,
+    "book_code": "HEB",
+    "chapter": 1,
+    "verse_start": 1,
+    "verse_end": 2
+  },
+  {
+    "id": 1138,
+    "book_code": "HEB",
+    "chapter": 3,
+    "verse_start": 6,
+    "verse_end": 6
+  },
+  {
+    "id": 1139,
+    "book_code": "HEB",
+    "chapter": 4,
+    "verse_start": 9,
+    "verse_end": 10
+  },
+  {
+    "id": 1140,
+    "book_code": "HEB",
+    "chapter": 8,
+    "verse_start": 10,
+    "verse_end": 10
+  },
+  {
+    "id": 1141,
+    "book_code": "HEB",
+    "chapter": 9,
+    "verse_start": 24,
+    "verse_end": 24
+  },
+  {
+    "id": 1142,
+    "book_code": "HEB",
+    "chapter": 11,
+    "verse_start": 13,
+    "verse_end": 13
+  },
+  {
+    "id": 1143,
+    "book_code": "HEB",
+    "chapter": 11,
+    "verse_start": 39,
+    "verse_end": 40
+  },
+  {
+    "id": 1144,
+    "book_code": "HEB",
+    "chapter": 12,
+    "verse_start": 10,
+    "verse_end": 10
+  },
+  {
+    "id": 1145,
+    "book_code": "HEB",
+    "chapter": 13,
+    "verse_start": 8,
+    "verse_end": 8
+  },
+  {
+    "id": 1146,
+    "book_code": "JAS",
+    "chapter": 1,
+    "verse_start": 5,
+    "verse_end": 5
+  },
+  {
+    "id": 1147,
+    "book_code": "JAS",
+    "chapter": 1,
+    "verse_start": 19,
+    "verse_end": 19
+  },
+  {
+    "id": 1148,
+    "book_code": "JAS",
+    "chapter": 3,
+    "verse_start": 10,
+    "verse_end": 10
+  },
+  {
+    "id": 1149,
+    "book_code": "JAS",
+    "chapter": 4,
+    "verse_start": 14,
+    "verse_end": 14
+  },
+  {
+    "id": 1150,
+    "book_code": "1PE",
+    "chapter": 1,
+    "verse_start": 4,
+    "verse_end": 4
+  },
+  {
+    "id": 1151,
+    "book_code": "1PE",
+    "chapter": 2,
+    "verse_start": 3,
+    "verse_end": 3
+  },
+  {
+    "id": 1152,
+    "book_code": "1PE",
+    "chapter": 2,
+    "verse_start": 19,
+    "verse_end": 20
+  },
+  {
+    "id": 1153,
+    "book_code": "1PE",
+    "chapter": 3,
+    "verse_start": 9,
+    "verse_end": 9
+  },
+  {
+    "id": 1154,
+    "book_code": "1PE",
+    "chapter": 4,
+    "verse_start": 19,
+    "verse_end": 19
+  },
+  {
+    "id": 1155,
+    "book_code": "2PE",
+    "chapter": 1,
+    "verse_start": 10,
+    "verse_end": 10
+  },
+  {
+    "id": 1156,
+    "book_code": "2PE",
+    "chapter": 2,
+    "verse_start": 9,
+    "verse_end": 9
+  },
+  {
+    "id": 1157,
+    "book_code": "1JN",
+    "chapter": 2,
+    "verse_start": 17,
+    "verse_end": 17
+  },
+  {
+    "id": 1158,
+    "book_code": "1JN",
+    "chapter": 3,
+    "verse_start": 21,
+    "verse_end": 22
+  },
+  {
+    "id": 1159,
+    "book_code": "1JN",
+    "chapter": 4,
+    "verse_start": 7,
+    "verse_end": 7
+  },
+  {
+    "id": 1160,
+    "book_code": "1JN",
+    "chapter": 5,
+    "verse_start": 5,
+    "verse_end": 5
+  },
+  {
+    "id": 1161,
+    "book_code": "REV",
+    "chapter": 1,
+    "verse_start": 3,
+    "verse_end": 3
+  },
+  {
+    "id": 1162,
+    "book_code": "REV",
+    "chapter": 2,
+    "verse_start": 4,
+    "verse_end": 5
+  },
+  {
+    "id": 1163,
+    "book_code": "REV",
+    "chapter": 3,
+    "verse_start": 11,
+    "verse_end": 11
+  },
+  {
+    "id": 1164,
+    "book_code": "REV",
+    "chapter": 7,
+    "verse_start": 16,
+    "verse_end": 17
+  },
+  {
+    "id": 1165,
+    "book_code": "REV",
+    "chapter": 20,
+    "verse_start": 11,
+    "verse_end": 12
+  },
+  {
+    "id": 1166,
+    "book_code": "REV",
+    "chapter": 22,
+    "verse_start": 5,
+    "verse_end": 5
+  },
+  {
+    "id": 1167,
+    "book_code": "GEN",
+    "chapter": 1,
+    "verse_start": 31,
+    "verse_end": 31
+  },
+  {
+    "id": 1168,
+    "book_code": "GEN",
+    "chapter": 18,
+    "verse_start": 19,
+    "verse_end": 19
+  },
+  {
+    "id": 1169,
+    "book_code": "GEN",
+    "chapter": 26,
+    "verse_start": 24,
+    "verse_end": 24
+  },
+  {
+    "id": 1170,
+    "book_code": "GEN",
+    "chapter": 50,
+    "verse_start": 21,
+    "verse_end": 21
+  },
+  {
+    "id": 1171,
+    "book_code": "EXO",
+    "chapter": 6,
+    "verse_start": 6,
+    "verse_end": 7
+  },
+  {
+    "id": 1172,
+    "book_code": "EXO",
+    "chapter": 16,
+    "verse_start": 4,
+    "verse_end": 4
+  },
+  {
+    "id": 1173,
+    "book_code": "EXO",
+    "chapter": 20,
+    "verse_start": 12,
+    "verse_end": 12
+  },
+  {
+    "id": 1174,
+    "book_code": "EXO",
+    "chapter": 23,
+    "verse_start": 25,
+    "verse_end": 25
+  },
+  {
+    "id": 1175,
+    "book_code": "LEV",
+    "chapter": 26,
+    "verse_start": 9,
+    "verse_end": 9
+  },
+  {
+    "id": 1176,
+    "book_code": "NUM",
+    "chapter": 10,
+    "verse_start": 35,
+    "verse_end": 35
+  },
+  {
+    "id": 1177,
+    "book_code": "DEU",
+    "chapter": 8,
+    "verse_start": 10,
+    "verse_end": 10
+  },
+  {
+    "id": 1178,
+    "book_code": "DEU",
+    "chapter": 11,
+    "verse_start": 18,
+    "verse_end": 19
+  },
+  {
+    "id": 1179,
+    "book_code": "DEU",
+    "chapter": 20,
+    "verse_start": 1,
+    "verse_end": 1
+  },
+  {
+    "id": 1180,
+    "book_code": "JOS",
+    "chapter": 24,
+    "verse_start": 24,
+    "verse_end": 24
+  },
+  {
+    "id": 1181,
+    "book_code": "JDG",
+    "chapter": 13,
+    "verse_start": 23,
+    "verse_end": 23
+  },
+  {
+    "id": 1182,
+    "book_code": "1SA",
+    "chapter": 17,
+    "verse_start": 47,
+    "verse_end": 47
+  },
+  {
+    "id": 1183,
+    "book_code": "2SA",
+    "chapter": 22,
+    "verse_start": 33,
+    "verse_end": 33
+  },
+  {
+    "id": 1184,
+    "book_code": "1KI",
+    "chapter": 8,
+    "verse_start": 61,
+    "verse_end": 61
+  },
+  {
+    "id": 1185,
+    "book_code": "2KI",
+    "chapter": 13,
+    "verse_start": 23,
+    "verse_end": 23
+  },
+  {
+    "id": 1186,
+    "book_code": "1CH",
+    "chapter": 4,
+    "verse_start": 10,
+    "verse_end": 10
+  },
+  {
+    "id": 1187,
+    "book_code": "2CH",
+    "chapter": 13,
+    "verse_start": 18,
+    "verse_end": 18
+  },
+  {
+    "id": 1188,
+    "book_code": "EZR",
+    "chapter": 10,
+    "verse_start": 2,
+    "verse_end": 2
+  },
+  {
+    "id": 1189,
+    "book_code": "NEH",
+    "chapter": 1,
+    "verse_start": 11,
+    "verse_end": 11
+  },
+  {
+    "id": 1190,
+    "book_code": "NEH",
+    "chapter": 2,
+    "verse_start": 18,
+    "verse_end": 18
+  },
+  {
+    "id": 1191,
+    "book_code": "EST",
+    "chapter": 6,
+    "verse_start": 13,
+    "verse_end": 13
+  },
+  {
+    "id": 1192,
+    "book_code": "JOB",
+    "chapter": 19,
+    "verse_start": 23,
+    "verse_end": 24
+  },
+  {
+    "id": 1193,
+    "book_code": "JOB",
+    "chapter": 37,
+    "verse_start": 5,
+    "verse_end": 5
+  },
+  {
+    "id": 1194,
+    "book_code": "PSA",
+    "chapter": 7,
+    "verse_start": 10,
+    "verse_end": 10
+  },
+  {
+    "id": 1195,
+    "book_code": "PSA",
+    "chapter": 10,
+    "verse_start": 17,
+    "verse_end": 17
+  },
+  {
+    "id": 1196,
+    "book_code": "PSA",
+    "chapter": 19,
+    "verse_start": 1,
+    "verse_end": 2
+  },
+  {
+    "id": 1197,
+    "book_code": "PSA",
+    "chapter": 28,
+    "verse_start": 7,
+    "verse_end": 7
+  },
+  {
+    "id": 1198,
+    "book_code": "PSA",
+    "chapter": 41,
+    "verse_start": 3,
+    "verse_end": 3
+  },
+  {
+    "id": 1199,
+    "book_code": "PSA",
+    "chapter": 103,
+    "verse_start": 17,
+    "verse_end": 17
+  },
+  {
+    "id": 1200,
+    "book_code": "PRO",
+    "chapter": 1,
+    "verse_start": 33,
+    "verse_end": 33
+  },
+  {
+    "id": 1201,
+    "book_code": "MAT",
+    "chapter": 4,
+    "verse_start": 11,
+    "verse_end": 11
+  },
+  {
+    "id": 1202,
+    "book_code": "MAT",
+    "chapter": 5,
+    "verse_start": 14,
+    "verse_end": 14
+  },
+  {
+    "id": 1203,
+    "book_code": "MAT",
+    "chapter": 5,
+    "verse_start": 25,
+    "verse_end": 25
+  },
+  {
+    "id": 1204,
+    "book_code": "MAT",
+    "chapter": 5,
+    "verse_start": 37,
+    "verse_end": 37
+  },
+  {
+    "id": 1205,
+    "book_code": "MAT",
+    "chapter": 5,
+    "verse_start": 48,
+    "verse_end": 48
+  },
+  {
+    "id": 1206,
+    "book_code": "MAT",
+    "chapter": 6,
+    "verse_start": 14,
+    "verse_end": 15
+  },
+  {
+    "id": 1207,
+    "book_code": "MAT",
+    "chapter": 7,
+    "verse_start": 24,
+    "verse_end": 24
+  },
+  {
+    "id": 1208,
+    "book_code": "MAT",
+    "chapter": 8,
+    "verse_start": 13,
+    "verse_end": 13
+  },
+  {
+    "id": 1209,
+    "book_code": "MAT",
+    "chapter": 9,
+    "verse_start": 22,
+    "verse_end": 22
+  },
+  {
+    "id": 1210,
+    "book_code": "MAT",
+    "chapter": 12,
+    "verse_start": 20,
+    "verse_end": 20
+  },
+  {
+    "id": 1211,
+    "book_code": "MAT",
+    "chapter": 13,
+    "verse_start": 16,
+    "verse_end": 16
+  },
+  {
+    "id": 1212,
+    "book_code": "MAT",
+    "chapter": 14,
+    "verse_start": 27,
+    "verse_end": 27
+  },
+  {
+    "id": 1213,
+    "book_code": "MAT",
+    "chapter": 15,
+    "verse_start": 28,
+    "verse_end": 28
+  },
+  {
+    "id": 1214,
+    "book_code": "MAT",
+    "chapter": 17,
+    "verse_start": 7,
+    "verse_end": 7
+  },
+  {
+    "id": 1215,
+    "book_code": "MAT",
+    "chapter": 18,
+    "verse_start": 21,
+    "verse_end": 22
+  },
+  {
+    "id": 1216,
+    "book_code": "PHP",
+    "chapter": 4,
+    "verse_start": 13,
+    "verse_end": 13
+  },
+  {
+    "id": 1217,
+    "book_code": "MAT",
+    "chapter": 22,
+    "verse_start": 14,
+    "verse_end": 14
+  },
+  {
+    "id": 1218,
+    "book_code": "MAT",
+    "chapter": 25,
+    "verse_start": 13,
+    "verse_end": 13
+  },
+  {
+    "id": 1219,
+    "book_code": "MRK",
+    "chapter": 1,
+    "verse_start": 41,
+    "verse_end": 41
+  },
+  {
+    "id": 1220,
+    "book_code": "MRK",
+    "chapter": 4,
+    "verse_start": 39,
+    "verse_end": 39
+  },
+  {
+    "id": 1221,
+    "book_code": "MRK",
+    "chapter": 5,
+    "verse_start": 36,
+    "verse_end": 36
+  },
+  {
+    "id": 1222,
+    "book_code": "MRK",
+    "chapter": 8,
+    "verse_start": 38,
+    "verse_end": 38
+  },
+  {
+    "id": 1223,
+    "book_code": "JER",
+    "chapter": 29,
+    "verse_start": 11,
+    "verse_end": 11
+  },
+  {
+    "id": 1224,
+    "book_code": "MRK",
+    "chapter": 10,
+    "verse_start": 52,
+    "verse_end": 52
+  },
+  {
+    "id": 1225,
+    "book_code": "MRK",
+    "chapter": 13,
+    "verse_start": 33,
+    "verse_end": 33
+  },
+  {
+    "id": 1226,
+    "book_code": "LUK",
+    "chapter": 3,
+    "verse_start": 8,
+    "verse_end": 8
+  },
+  {
+    "id": 1227,
+    "book_code": "LUK",
+    "chapter": 4,
+    "verse_start": 42,
+    "verse_end": 43
+  },
+  {
+    "id": 1228,
+    "book_code": "LUK",
+    "chapter": 8,
+    "verse_start": 39,
+    "verse_end": 39
+  },
+  {
+    "id": 1229,
+    "book_code": "LUK",
+    "chapter": 9,
+    "verse_start": 48,
+    "verse_end": 48
+  },
+  {
+    "id": 1230,
+    "book_code": "LUK",
+    "chapter": 10,
+    "verse_start": 19,
+    "verse_end": 19
+  },
+  {
+    "id": 1231,
+    "book_code": "LUK",
+    "chapter": 10,
+    "verse_start": 20,
+    "verse_end": 20
+  },
+  {
+    "id": 1232,
+    "book_code": "LUK",
+    "chapter": 12,
+    "verse_start": 40,
+    "verse_end": 40
+  },
+  {
+    "id": 1233,
+    "book_code": "LUK",
+    "chapter": 14,
+    "verse_start": 12,
+    "verse_end": 14
+  },
+  {
+    "id": 1234,
+    "book_code": "LUK",
+    "chapter": 17,
+    "verse_start": 15,
+    "verse_end": 16
+  },
+  {
+    "id": 1235,
+    "book_code": "LUK",
+    "chapter": 19,
+    "verse_start": 5,
+    "verse_end": 5
+  },
+  {
+    "id": 1236,
+    "book_code": "LUK",
+    "chapter": 21,
+    "verse_start": 19,
+    "verse_end": 19
+  },
+  {
+    "id": 1237,
+    "book_code": "LUK",
+    "chapter": 22,
+    "verse_start": 42,
+    "verse_end": 42
+  },
+  {
+    "id": 1238,
+    "book_code": "LUK",
+    "chapter": 24,
+    "verse_start": 36,
+    "verse_end": 36
+  },
+  {
+    "id": 1239,
+    "book_code": "JHN",
+    "chapter": 2,
+    "verse_start": 5,
+    "verse_end": 5
+  },
+  {
+    "id": 1240,
+    "book_code": "JHN",
+    "chapter": 3,
+    "verse_start": 14,
+    "verse_end": 15
+  },
+  {
+    "id": 1241,
+    "book_code": "JHN",
+    "chapter": 4,
+    "verse_start": 34,
+    "verse_end": 34
+  },
+  {
+    "id": 1242,
+    "book_code": "JHN",
+    "chapter": 5,
+    "verse_start": 6,
+    "verse_end": 6
+  },
+  {
+    "id": 1243,
+    "book_code": "JHN",
+    "chapter": 6,
+    "verse_start": 29,
+    "verse_end": 29
+  },
+  {
+    "id": 1244,
+    "book_code": "ISA",
+    "chapter": 40,
+    "verse_start": 31,
+    "verse_end": 31
+  },
+  {
+    "id": 1245,
+    "book_code": "JHN",
+    "chapter": 7,
+    "verse_start": 24,
+    "verse_end": 24
+  },
+  {
+    "id": 1246,
+    "book_code": "JHN",
+    "chapter": 8,
+    "verse_start": 11,
+    "verse_end": 11
+  },
+  {
+    "id": 1247,
+    "book_code": "JHN",
+    "chapter": 11,
+    "verse_start": 40,
+    "verse_end": 40
+  },
+  {
+    "id": 1248,
+    "book_code": "JHN",
+    "chapter": 12,
+    "verse_start": 25,
+    "verse_end": 25
+  },
+  {
+    "id": 1249,
+    "book_code": "JHN",
+    "chapter": 13,
+    "verse_start": 1,
+    "verse_end": 1
+  },
+  {
+    "id": 1250,
+    "book_code": "JHN",
+    "chapter": 14,
+    "verse_start": 12,
+    "verse_end": 12
+  },
+  {
+    "id": 1251,
+    "book_code": "JHN",
+    "chapter": 14,
+    "verse_start": 21,
+    "verse_end": 21
+  },
+  {
+    "id": 1252,
+    "book_code": "JHN",
+    "chapter": 15,
+    "verse_start": 12,
+    "verse_end": 12
+  },
+  {
+    "id": 1253,
+    "book_code": "JHN",
+    "chapter": 16,
+    "verse_start": 24,
+    "verse_end": 24
+  },
+  {
+    "id": 1254,
+    "book_code": "JHN",
+    "chapter": 17,
+    "verse_start": 26,
+    "verse_end": 26
+  },
+  {
+    "id": 1255,
+    "book_code": "JHN",
+    "chapter": 20,
+    "verse_start": 27,
+    "verse_end": 27
+  },
+  {
+    "id": 1256,
+    "book_code": "ACT",
+    "chapter": 2,
+    "verse_start": 46,
+    "verse_end": 47
+  },
+  {
+    "id": 1257,
+    "book_code": "ACT",
+    "chapter": 5,
+    "verse_start": 41,
+    "verse_end": 41
+  },
+  {
+    "id": 1258,
+    "book_code": "ACT",
+    "chapter": 6,
+    "verse_start": 4,
+    "verse_end": 4
+  },
+  {
+    "id": 1259,
+    "book_code": "ACT",
+    "chapter": 9,
+    "verse_start": 15,
+    "verse_end": 15
+  },
+  {
+    "id": 1260,
+    "book_code": "ACT",
+    "chapter": 12,
+    "verse_start": 5,
+    "verse_end": 5
+  },
+  {
+    "id": 1261,
+    "book_code": "ACT",
+    "chapter": 14,
+    "verse_start": 3,
+    "verse_end": 3
+  },
+  {
+    "id": 1262,
+    "book_code": "ACT",
+    "chapter": 17,
+    "verse_start": 24,
+    "verse_end": 25
+  },
+  {
+    "id": 1263,
+    "book_code": "ACT",
+    "chapter": 18,
+    "verse_start": 24,
+    "verse_end": 26
+  },
+  {
+    "id": 1264,
+    "book_code": "ACT",
+    "chapter": 19,
+    "verse_start": 20,
+    "verse_end": 20
+  },
+  {
+    "id": 1265,
+    "book_code": "ACT",
+    "chapter": 28,
+    "verse_start": 28,
+    "verse_end": 28
+  },
+  {
+    "id": 1266,
+    "book_code": "ROM",
+    "chapter": 2,
+    "verse_start": 11,
+    "verse_end": 11
+  },
+  {
+    "id": 1267,
+    "book_code": "ROM",
+    "chapter": 3,
+    "verse_start": 26,
+    "verse_end": 26
+  },
+  {
+    "id": 1268,
+    "book_code": "ROM",
+    "chapter": 5,
+    "verse_start": 15,
+    "verse_end": 15
+  },
+  {
+    "id": 1269,
+    "book_code": "ROM",
+    "chapter": 6,
+    "verse_start": 11,
+    "verse_end": 11
+  },
+  {
+    "id": 1270,
+    "book_code": "ROM",
+    "chapter": 8,
+    "verse_start": 13,
+    "verse_end": 13
+  },
+  {
+    "id": 1271,
+    "book_code": "ROM",
+    "chapter": 8,
+    "verse_start": 26,
+    "verse_end": 26
+  },
+  {
+    "id": 1272,
+    "book_code": "ROM",
+    "chapter": 10,
+    "verse_start": 17,
+    "verse_end": 17
+  },
+  {
+    "id": 1273,
+    "book_code": "ROM",
+    "chapter": 12,
+    "verse_start": 10,
+    "verse_end": 10
+  },
+  {
+    "id": 1274,
+    "book_code": "ROM",
+    "chapter": 12,
+    "verse_start": 21,
+    "verse_end": 21
+  },
+  {
+    "id": 1275,
+    "book_code": "ROM",
+    "chapter": 15,
+    "verse_start": 32,
+    "verse_end": 32
+  },
+  {
+    "id": 1276,
+    "book_code": "1CO",
+    "chapter": 2,
+    "verse_start": 12,
+    "verse_end": 12
+  },
+  {
+    "id": 1277,
+    "book_code": "1CO",
+    "chapter": 4,
+    "verse_start": 7,
+    "verse_end": 7
+  },
+  {
+    "id": 1278,
+    "book_code": "1CO",
+    "chapter": 6,
+    "verse_start": 18,
+    "verse_end": 18
+  },
+  {
+    "id": 1279,
+    "book_code": "1CO",
+    "chapter": 9,
+    "verse_start": 23,
+    "verse_end": 23
+  },
+  {
+    "id": 1280,
+    "book_code": "1CO",
+    "chapter": 10,
+    "verse_start": 24,
+    "verse_end": 24
+  },
+  {
+    "id": 1281,
+    "book_code": "1CO",
+    "chapter": 12,
+    "verse_start": 7,
+    "verse_end": 7
+  },
+  {
+    "id": 1282,
+    "book_code": "1CO",
+    "chapter": 14,
+    "verse_start": 33,
+    "verse_end": 33
+  },
+  {
+    "id": 1283,
+    "book_code": "2CO",
+    "chapter": 1,
+    "verse_start": 11,
+    "verse_end": 11
+  },
+  {
+    "id": 1284,
+    "book_code": "2CO",
+    "chapter": 4,
+    "verse_start": 2,
+    "verse_end": 2
+  },
+  {
+    "id": 1285,
+    "book_code": "2CO",
+    "chapter": 5,
+    "verse_start": 9,
+    "verse_end": 9
+  },
+  {
+    "id": 1286,
+    "book_code": "2CO",
+    "chapter": 7,
+    "verse_start": 6,
+    "verse_end": 6
+  },
+  {
+    "id": 1287,
+    "book_code": "2CO",
+    "chapter": 8,
+    "verse_start": 11,
+    "verse_end": 11
+  },
+  {
+    "id": 1288,
+    "book_code": "2CO",
+    "chapter": 12,
+    "verse_start": 15,
+    "verse_end": 15
+  },
+  {
+    "id": 1289,
+    "book_code": "GAL",
+    "chapter": 1,
+    "verse_start": 15,
+    "verse_end": 16
+  },
+  {
+    "id": 1290,
+    "book_code": "GAL",
+    "chapter": 4,
+    "verse_start": 9,
+    "verse_end": 9
+  },
+  {
+    "id": 1291,
+    "book_code": "GAL",
+    "chapter": 5,
+    "verse_start": 10,
+    "verse_end": 10
+  },
+  {
+    "id": 1292,
+    "book_code": "GAL",
+    "chapter": 6,
+    "verse_start": 4,
+    "verse_end": 4
+  },
+  {
+    "id": 1293,
+    "book_code": "EPH",
+    "chapter": 1,
+    "verse_start": 9,
+    "verse_end": 10
+  },
+  {
+    "id": 1294,
+    "book_code": "EPH",
+    "chapter": 2,
+    "verse_start": 18,
+    "verse_end": 18
+  },
+  {
+    "id": 1295,
+    "book_code": "EPH",
+    "chapter": 4,
+    "verse_start": 1,
+    "verse_end": 1
+  },
+  {
+    "id": 1296,
+    "book_code": "EPH",
+    "chapter": 4,
+    "verse_start": 32,
+    "verse_end": 32
+  },
+  {
+    "id": 1297,
+    "book_code": "EPH",
+    "chapter": 5,
+    "verse_start": 10,
+    "verse_end": 10
+  },
+  {
+    "id": 1298,
+    "book_code": "PHP",
+    "chapter": 1,
+    "verse_start": 9,
+    "verse_end": 9
+  },
+  {
+    "id": 1299,
+    "book_code": "PHP",
+    "chapter": 1,
+    "verse_start": 20,
+    "verse_end": 20
+  },
+  {
+    "id": 1300,
+    "book_code": "PRO",
+    "chapter": 3,
+    "verse_start": 5,
+    "verse_end": 6
+  },
+  {
+    "id": 1301,
+    "book_code": "PHP",
+    "chapter": 3,
+    "verse_start": 20,
+    "verse_end": 20
+  },
+  {
+    "id": 1302,
+    "book_code": "PHP",
+    "chapter": 4,
+    "verse_start": 5,
+    "verse_end": 5
+  },
+  {
+    "id": 1303,
+    "book_code": "COL",
+    "chapter": 1,
+    "verse_start": 3,
+    "verse_end": 4
+  },
+  {
+    "id": 1304,
+    "book_code": "COL",
+    "chapter": 1,
+    "verse_start": 23,
+    "verse_end": 23
+  },
+  {
+    "id": 1305,
+    "book_code": "COL",
+    "chapter": 2,
+    "verse_start": 1,
+    "verse_end": 2
+  },
+  {
+    "id": 1306,
+    "book_code": "COL",
+    "chapter": 3,
+    "verse_start": 2,
+    "verse_end": 2
+  },
+  {
+    "id": 1307,
+    "book_code": "1TH",
+    "chapter": 3,
+    "verse_start": 8,
+    "verse_end": 8
+  },
+  {
+    "id": 1308,
+    "book_code": "1TH",
+    "chapter": 5,
+    "verse_start": 5,
+    "verse_end": 5
+  },
+  {
+    "id": 1309,
+    "book_code": "2TH",
+    "chapter": 2,
+    "verse_start": 15,
+    "verse_end": 15
+  },
+  {
+    "id": 1310,
+    "book_code": "2TH",
+    "chapter": 3,
+    "verse_start": 16,
+    "verse_end": 16
+  },
+  {
+    "id": 1311,
+    "book_code": "1TI",
+    "chapter": 4,
+    "verse_start": 15,
+    "verse_end": 15
+  },
+  {
+    "id": 1312,
+    "book_code": "1TI",
+    "chapter": 6,
+    "verse_start": 20,
+    "verse_end": 20
+  },
+  {
+    "id": 1313,
+    "book_code": "2TI",
+    "chapter": 1,
+    "verse_start": 13,
+    "verse_end": 13
+  },
+  {
+    "id": 1314,
+    "book_code": "2TI",
+    "chapter": 2,
+    "verse_start": 19,
+    "verse_end": 19
+  },
+  {
+    "id": 1315,
+    "book_code": "2TI",
+    "chapter": 3,
+    "verse_start": 12,
+    "verse_end": 12
+  },
+  {
+    "id": 1316,
+    "book_code": "TIT",
+    "chapter": 1,
+    "verse_start": 9,
+    "verse_end": 9
+  },
+  {
+    "id": 1317,
+    "book_code": "TIT",
+    "chapter": 3,
+    "verse_start": 2,
+    "verse_end": 2
+  },
+  {
+    "id": 1318,
+    "book_code": "PHM",
+    "chapter": 1,
+    "verse_start": 4,
+    "verse_end": 5
+  },
+  {
+    "id": 1319,
+    "book_code": "HEB",
+    "chapter": 2,
+    "verse_start": 1,
+    "verse_end": 1
+  },
+  {
+    "id": 1320,
+    "book_code": "HEB",
+    "chapter": 4,
+    "verse_start": 1,
+    "verse_end": 1
+  },
+  {
+    "id": 1321,
+    "book_code": "HEB",
+    "chapter": 5,
+    "verse_start": 8,
+    "verse_end": 9
+  },
+  {
+    "id": 1322,
+    "book_code": "HEB",
+    "chapter": 6,
+    "verse_start": 11,
+    "verse_end": 11
+  },
+  {
+    "id": 1323,
+    "book_code": "HEB",
+    "chapter": 10,
+    "verse_start": 12,
+    "verse_end": 12
+  },
+  {
+    "id": 1324,
+    "book_code": "HEB",
+    "chapter": 10,
+    "verse_start": 25,
+    "verse_end": 25
+  },
+  {
+    "id": 1325,
+    "book_code": "HEB",
+    "chapter": 11,
+    "verse_start": 24,
+    "verse_end": 26
+  },
+  {
+    "id": 1326,
+    "book_code": "HEB",
+    "chapter": 13,
+    "verse_start": 1,
+    "verse_end": 1
+  },
+  {
+    "id": 1327,
+    "book_code": "JAS",
+    "chapter": 2,
+    "verse_start": 1,
+    "verse_end": 1
+  },
+  {
+    "id": 1328,
+    "book_code": "JAS",
+    "chapter": 3,
+    "verse_start": 5,
+    "verse_end": 5
+  },
+  {
+    "id": 1329,
+    "book_code": "JAS",
+    "chapter": 4,
+    "verse_start": 3,
+    "verse_end": 3
+  },
+  {
+    "id": 1330,
+    "book_code": "JAS",
+    "chapter": 5,
+    "verse_start": 8,
+    "verse_end": 8
+  },
+  {
+    "id": 1331,
+    "book_code": "1PE",
+    "chapter": 1,
+    "verse_start": 6,
+    "verse_end": 6
+  },
+  {
+    "id": 1332,
+    "book_code": "1PE",
+    "chapter": 2,
+    "verse_start": 25,
+    "verse_end": 25
+  },
+  {
+    "id": 1333,
+    "book_code": "1PE",
+    "chapter": 3,
+    "verse_start": 10,
+    "verse_end": 11
+  },
+  {
+    "id": 1334,
+    "book_code": "1PE",
+    "chapter": 5,
+    "verse_start": 9,
+    "verse_end": 9
+  },
+  {
+    "id": 1335,
+    "book_code": "2PE",
+    "chapter": 1,
+    "verse_start": 1,
+    "verse_end": 1
+  },
+  {
+    "id": 1336,
+    "book_code": "2PE",
+    "chapter": 1,
+    "verse_start": 12,
+    "verse_end": 13
+  },
+  {
+    "id": 1337,
+    "book_code": "1JN",
+    "chapter": 1,
+    "verse_start": 7,
+    "verse_end": 7
+  },
+  {
+    "id": 1338,
+    "book_code": "1JN",
+    "chapter": 2,
+    "verse_start": 20,
+    "verse_end": 20
+  },
+  {
+    "id": 1339,
+    "book_code": "1JN",
+    "chapter": 2,
+    "verse_start": 24,
+    "verse_end": 24
+  },
+  {
+    "id": 1340,
+    "book_code": "1JN",
+    "chapter": 4,
+    "verse_start": 2,
+    "verse_end": 2
+  },
+  {
+    "id": 1341,
+    "book_code": "1JN",
+    "chapter": 5,
+    "verse_start": 18,
+    "verse_end": 18
+  },
+  {
+    "id": 1342,
+    "book_code": "2JN",
+    "chapter": 1,
+    "verse_start": 8,
+    "verse_end": 8
+  },
+  {
+    "id": 1343,
+    "book_code": "3JN",
+    "chapter": 1,
+    "verse_start": 11,
+    "verse_end": 11
+  },
+  {
+    "id": 1344,
+    "book_code": "JUD",
+    "chapter": 1,
+    "verse_start": 21,
+    "verse_end": 21
+  },
+  {
+    "id": 1345,
+    "book_code": "JOS",
+    "chapter": 1,
+    "verse_start": 9,
+    "verse_end": 9
+  },
+  {
+    "id": 1346,
+    "book_code": "REV",
+    "chapter": 12,
+    "verse_start": 17,
+    "verse_end": 17
+  },
+  {
+    "id": 1347,
+    "book_code": "REV",
+    "chapter": 19,
+    "verse_start": 16,
+    "verse_end": 16
+  },
+  {
+    "id": 1348,
+    "book_code": "REV",
+    "chapter": 21,
+    "verse_start": 1,
+    "verse_end": 1
+  },
+  {
+    "id": 1349,
+    "book_code": "REV",
+    "chapter": 22,
+    "verse_start": 13,
+    "verse_end": 13
+  },
+  {
+    "id": 1350,
+    "book_code": "GEN",
+    "chapter": 2,
+    "verse_start": 18,
+    "verse_end": 18
+  },
+  {
+    "id": 1351,
+    "book_code": "GEN",
+    "chapter": 9,
+    "verse_start": 16,
+    "verse_end": 16
+  },
+  {
+    "id": 1352,
+    "book_code": "GEN",
+    "chapter": 15,
+    "verse_start": 15,
+    "verse_end": 15
+  },
+  {
+    "id": 1353,
+    "book_code": "GEN",
+    "chapter": 24,
+    "verse_start": 40,
+    "verse_end": 40
+  },
+  {
+    "id": 1354,
+    "book_code": "GEN",
+    "chapter": 28,
+    "verse_start": 20,
+    "verse_end": 22
+  },
+  {
+    "id": 1355,
+    "book_code": "GEN",
+    "chapter": 35,
+    "verse_start": 3,
+    "verse_end": 3
+  },
+  {
+    "id": 1356,
+    "book_code": "GEN",
+    "chapter": 49,
+    "verse_start": 18,
+    "verse_end": 18
+  },
+  {
+    "id": 1357,
+    "book_code": "EXO",
+    "chapter": 1,
+    "verse_start": 12,
+    "verse_end": 12
+  },
+  {
+    "id": 1358,
+    "book_code": "EXO",
+    "chapter": 19,
+    "verse_start": 5,
+    "verse_end": 5
+  },
+  {
+    "id": 1359,
+    "book_code": "EXO",
+    "chapter": 33,
+    "verse_start": 11,
+    "verse_end": 11
+  },
+  {
+    "id": 1360,
+    "book_code": "LEV",
+    "chapter": 26,
+    "verse_start": 11,
+    "verse_end": 11
+  },
+  {
+    "id": 1361,
+    "book_code": "NUM",
+    "chapter": 6,
+    "verse_start": 24,
+    "verse_end": 24
+  },
+  {
+    "id": 1362,
+    "book_code": "NUM",
+    "chapter": 14,
+    "verse_start": 9,
+    "verse_end": 9
+  },
+  {
+    "id": 1363,
+    "book_code": "DEU",
+    "chapter": 1,
+    "verse_start": 10,
+    "verse_end": 11
+  },
+  {
+    "id": 1364,
+    "book_code": "DEU",
+    "chapter": 6,
+    "verse_start": 10,
+    "verse_end": 12
+  },
+  {
+    "id": 1365,
+    "book_code": "DEU",
+    "chapter": 13,
+    "verse_start": 4,
+    "verse_end": 4
+  },
+  {
+    "id": 1366,
+    "book_code": "DEU",
+    "chapter": 28,
+    "verse_start": 2,
+    "verse_end": 2
+  },
+  {
+    "id": 1367,
+    "book_code": "JOS",
+    "chapter": 3,
+    "verse_start": 5,
+    "verse_end": 5
+  },
+  {
+    "id": 1368,
+    "book_code": "JOS",
+    "chapter": 23,
+    "verse_start": 10,
+    "verse_end": 10
+  },
+  {
+    "id": 1369,
+    "book_code": "JDG",
+    "chapter": 5,
+    "verse_start": 3,
+    "verse_end": 3
+  },
+  {
+    "id": 1370,
+    "book_code": "JDG",
+    "chapter": 8,
+    "verse_start": 23,
+    "verse_end": 23
+  },
+  {
+    "id": 1371,
+    "book_code": "RUT",
+    "chapter": 3,
+    "verse_start": 10,
+    "verse_end": 10
+  },
+  {
+    "id": 1372,
+    "book_code": "1SA",
+    "chapter": 2,
+    "verse_start": 9,
+    "verse_end": 9
+  },
+  {
+    "id": 1373,
+    "book_code": "1SA",
+    "chapter": 30,
+    "verse_start": 24,
+    "verse_end": 24
+  },
+  {
+    "id": 1374,
+    "book_code": "2SA",
+    "chapter": 22,
+    "verse_start": 26,
+    "verse_end": 27
+  },
+  {
+    "id": 1375,
+    "book_code": "1KI",
+    "chapter": 3,
+    "verse_start": 9,
+    "verse_end": 9
+  },
+  {
+    "id": 1376,
+    "book_code": "1KI",
+    "chapter": 8,
+    "verse_start": 28,
+    "verse_end": 28
+  },
+  {
+    "id": 1377,
+    "book_code": "2KI",
+    "chapter": 19,
+    "verse_start": 19,
+    "verse_end": 19
+  },
+  {
+    "id": 1378,
+    "book_code": "1CH",
+    "chapter": 29,
+    "verse_start": 17,
+    "verse_end": 17
+  },
+  {
+    "id": 1379,
+    "book_code": "2CH",
+    "chapter": 16,
+    "verse_start": 8,
+    "verse_end": 9
+  },
+  {
+    "id": 1380,
+    "book_code": "2CH",
+    "chapter": 32,
+    "verse_start": 7,
+    "verse_end": 8
+  },
+  {
+    "id": 1381,
+    "book_code": "EZR",
+    "chapter": 3,
+    "verse_start": 10,
+    "verse_end": 10
+  },
+  {
+    "id": 1382,
+    "book_code": "NEH",
+    "chapter": 8,
+    "verse_start": 6,
+    "verse_end": 6
+  },
+  {
+    "id": 1383,
+    "book_code": "NEH",
+    "chapter": 9,
+    "verse_start": 6,
+    "verse_end": 6
+  },
+  {
+    "id": 1384,
+    "book_code": "EST",
+    "chapter": 9,
+    "verse_start": 22,
+    "verse_end": 22
+  },
+  {
+    "id": 1385,
+    "book_code": "JOB",
+    "chapter": 11,
+    "verse_start": 7,
+    "verse_end": 7
+  },
+  {
+    "id": 1386,
+    "book_code": "JOB",
+    "chapter": 23,
+    "verse_start": 12,
+    "verse_end": 12
+  },
+  {
+    "id": 1387,
+    "book_code": "JOB",
+    "chapter": 38,
+    "verse_start": 4,
+    "verse_end": 4
+  },
+  {
+    "id": 1388,
+    "book_code": "PSA",
+    "chapter": 4,
+    "verse_start": 3,
+    "verse_end": 3
+  },
+  {
+    "id": 1389,
+    "book_code": "PSA",
+    "chapter": 8,
+    "verse_start": 1,
+    "verse_end": 1
+  },
+  {
+    "id": 1390,
+    "book_code": "PSA",
+    "chapter": 16,
+    "verse_start": 5,
+    "verse_end": 5
+  },
+  {
+    "id": 1391,
+    "book_code": "PSA",
+    "chapter": 19,
+    "verse_start": 2,
+    "verse_end": 2
+  },
+  {
+    "id": 1392,
+    "book_code": "PSA",
+    "chapter": 27,
+    "verse_start": 10,
+    "verse_end": 10
+  },
+  {
+    "id": 1393,
+    "book_code": "PSA",
+    "chapter": 32,
+    "verse_start": 6,
+    "verse_end": 6
+  },
+  {
+    "id": 1394,
+    "book_code": "PSA",
+    "chapter": 50,
+    "verse_start": 14,
+    "verse_end": 15
+  },
+  {
+    "id": 1395,
+    "book_code": "PSA",
+    "chapter": 65,
+    "verse_start": 2,
+    "verse_end": 2
+  },
+  {
+    "id": 1396,
+    "book_code": "PSA",
+    "chapter": 77,
+    "verse_start": 11,
+    "verse_end": 12
+  },
+  {
+    "id": 1397,
+    "book_code": "PSA",
+    "chapter": 92,
+    "verse_start": 12,
+    "verse_end": 14
+  },
+  {
+    "id": 1398,
+    "book_code": "PSA",
+    "chapter": 100,
+    "verse_start": 2,
+    "verse_end": 2
+  },
+  {
+    "id": 1399,
+    "book_code": "PSA",
+    "chapter": 113,
+    "verse_start": 3,
+    "verse_end": 3
+  },
+  {
+    "id": 1400,
+    "book_code": "PRO",
+    "chapter": 3,
+    "verse_start": 1,
+    "verse_end": 2
+  },
+  {
+    "id": 1401,
+    "book_code": "GEN",
+    "chapter": 21,
+    "verse_start": 1,
+    "verse_end": 1
+  },
+  {
+    "id": 1402,
+    "book_code": "GEN",
+    "chapter": 32,
+    "verse_start": 10,
+    "verse_end": 10
+  },
+  {
+    "id": 1403,
+    "book_code": "GEN",
+    "chapter": 50,
+    "verse_start": 24,
+    "verse_end": 24
+  },
+  {
+    "id": 1404,
+    "book_code": "EXO",
+    "chapter": 15,
+    "verse_start": 13,
+    "verse_end": 13
+  },
+  {
+    "id": 1405,
+    "book_code": "EXO",
+    "chapter": 29,
+    "verse_start": 45,
+    "verse_end": 45
+  },
+  {
+    "id": 1406,
+    "book_code": "EXO",
+    "chapter": 33,
+    "verse_start": 19,
+    "verse_end": 19
+  },
+  {
+    "id": 1407,
+    "book_code": "NUM",
+    "chapter": 6,
+    "verse_start": 26,
+    "verse_end": 26
+  },
+  {
+    "id": 1408,
+    "book_code": "NUM",
+    "chapter": 23,
+    "verse_start": 23,
+    "verse_end": 23
+  },
+  {
+    "id": 1409,
+    "book_code": "DEU",
+    "chapter": 4,
+    "verse_start": 35,
+    "verse_end": 35
+  },
+  {
+    "id": 1410,
+    "book_code": "DEU",
+    "chapter": 32,
+    "verse_start": 39,
+    "verse_end": 39
+  },
+  {
+    "id": 1411,
+    "book_code": "DEU",
+    "chapter": 33,
+    "verse_start": 12,
+    "verse_end": 12
+  },
+  {
+    "id": 1412,
+    "book_code": "JOS",
+    "chapter": 10,
+    "verse_start": 25,
+    "verse_end": 25
+  },
+  {
+    "id": 1413,
+    "book_code": "1SA",
+    "chapter": 2,
+    "verse_start": 8,
+    "verse_end": 8
+  },
+  {
+    "id": 1414,
+    "book_code": "1SA",
+    "chapter": 10,
+    "verse_start": 6,
+    "verse_end": 6
+  },
+  {
+    "id": 1415,
+    "book_code": "2SA",
+    "chapter": 22,
+    "verse_start": 47,
+    "verse_end": 47
+  },
+  {
+    "id": 1416,
+    "book_code": "1KI",
+    "chapter": 18,
+    "verse_start": 21,
+    "verse_end": 21
+  },
+  {
+    "id": 1417,
+    "book_code": "2KI",
+    "chapter": 17,
+    "verse_start": 36,
+    "verse_end": 36
+  },
+  {
+    "id": 1418,
+    "book_code": "1CH",
+    "chapter": 16,
+    "verse_start": 11,
+    "verse_end": 11
+  },
+  {
+    "id": 1419,
+    "book_code": "2CH",
+    "chapter": 14,
+    "verse_start": 11,
+    "verse_end": 11
+  },
+  {
+    "id": 1420,
+    "book_code": "EZR",
+    "chapter": 7,
+    "verse_start": 27,
+    "verse_end": 27
+  },
+  {
+    "id": 1421,
+    "book_code": "NEH",
+    "chapter": 9,
+    "verse_start": 31,
+    "verse_end": 31
+  },
+  {
+    "id": 1422,
+    "book_code": "JOB",
+    "chapter": 16,
+    "verse_start": 19,
+    "verse_end": 19
+  },
+  {
+    "id": 1423,
+    "book_code": "JOB",
+    "chapter": 42,
+    "verse_start": 5,
+    "verse_end": 5
+  },
+  {
+    "id": 1424,
+    "book_code": "PSA",
+    "chapter": 9,
+    "verse_start": 1,
+    "verse_end": 1
+  },
+  {
+    "id": 1425,
+    "book_code": "PSA",
+    "chapter": 16,
+    "verse_start": 11,
+    "verse_end": 11
+  },
+  {
+    "id": 1426,
+    "book_code": "PSA",
+    "chapter": 25,
+    "verse_start": 1,
+    "verse_end": 1
+  },
+  {
+    "id": 1427,
+    "book_code": "PSA",
+    "chapter": 27,
+    "verse_start": 5,
+    "verse_end": 5
+  },
+  {
+    "id": 1428,
+    "book_code": "PSA",
+    "chapter": 34,
+    "verse_start": 1,
+    "verse_end": 1
+  },
+  {
+    "id": 1429,
+    "book_code": "PSA",
+    "chapter": 37,
+    "verse_start": 4,
+    "verse_end": 4
+  },
+  {
+    "id": 1430,
+    "book_code": "PSA",
+    "chapter": 40,
+    "verse_start": 4,
+    "verse_end": 4
+  },
+  {
+    "id": 1431,
+    "book_code": "PSA",
+    "chapter": 86,
+    "verse_start": 9,
+    "verse_end": 9
+  },
+  {
+    "id": 1432,
+    "book_code": "PSA",
+    "chapter": 119,
+    "verse_start": 50,
+    "verse_end": 50
+  },
+  {
+    "id": 1433,
+    "book_code": "PSA",
+    "chapter": 119,
+    "verse_start": 165,
+    "verse_end": 165
+  },
+  {
+    "id": 1434,
+    "book_code": "PSA",
+    "chapter": 145,
+    "verse_start": 3,
+    "verse_end": 3
+  },
+  {
+    "id": 1435,
+    "book_code": "PRO",
+    "chapter": 3,
+    "verse_start": 11,
+    "verse_end": 12
+  },
+  {
+    "id": 1436,
+    "book_code": "PRO",
+    "chapter": 12,
+    "verse_start": 28,
+    "verse_end": 28
+  },
+  {
+    "id": 1437,
+    "book_code": "PRO",
+    "chapter": 23,
+    "verse_start": 18,
+    "verse_end": 18
+  },
+  {
+    "id": 1438,
+    "book_code": "PRO",
+    "chapter": 30,
+    "verse_start": 5,
+    "verse_end": 5
+  },
+  {
+    "id": 1439,
+    "book_code": "ECC",
+    "chapter": 7,
+    "verse_start": 8,
+    "verse_end": 8
+  },
+  {
+    "id": 1440,
+    "book_code": "ISA",
+    "chapter": 35,
+    "verse_start": 10,
+    "verse_end": 10
+  },
+  {
+    "id": 1441,
+    "book_code": "ISA",
+    "chapter": 43,
+    "verse_start": 10,
+    "verse_end": 10
+  },
+  {
+    "id": 1442,
+    "book_code": "ISA",
+    "chapter": 49,
+    "verse_start": 13,
+    "verse_end": 13
+  },
+  {
+    "id": 1443,
+    "book_code": "ISA",
+    "chapter": 54,
+    "verse_start": 17,
+    "verse_end": 17
+  },
+  {
+    "id": 1444,
+    "book_code": "ISA",
+    "chapter": 60,
+    "verse_start": 1,
+    "verse_end": 1
+  },
+  {
+    "id": 1445,
+    "book_code": "JER",
+    "chapter": 15,
+    "verse_start": 20,
+    "verse_end": 20
+  },
+  {
+    "id": 1446,
+    "book_code": "JER",
+    "chapter": 31,
+    "verse_start": 25,
+    "verse_end": 25
+  },
+  {
+    "id": 1447,
+    "book_code": "EZK",
+    "chapter": 11,
+    "verse_start": 20,
+    "verse_end": 20
+  },
+  {
+    "id": 1448,
+    "book_code": "DAN",
+    "chapter": 12,
+    "verse_start": 3,
+    "verse_end": 3
+  },
+  {
+    "id": 1449,
+    "book_code": "HOS",
+    "chapter": 6,
+    "verse_start": 3,
+    "verse_end": 3
+  },
+  {
+    "id": 1450,
+    "book_code": "AMO",
+    "chapter": 5,
+    "verse_start": 14,
+    "verse_end": 14
+  },
+  {
+    "id": 1451,
+    "book_code": "MIC",
+    "chapter": 4,
+    "verse_start": 5,
+    "verse_end": 5
+  },
+  {
+    "id": 1452,
+    "book_code": "ZEC",
+    "chapter": 1,
+    "verse_start": 3,
+    "verse_end": 3
+  },
+  {
+    "id": 1453,
+    "book_code": "MAL",
+    "chapter": 4,
+    "verse_start": 5,
+    "verse_end": 6
+  },
+  {
+    "id": 1454,
+    "book_code": "MAT",
+    "chapter": 6,
+    "verse_start": 26,
+    "verse_end": 26
+  },
+  {
+    "id": 1455,
+    "book_code": "MRK",
+    "chapter": 11,
+    "verse_start": 25,
+    "verse_end": 25
+  },
+  {
+    "id": 1456,
+    "book_code": "LUK",
+    "chapter": 2,
+    "verse_start": 52,
+    "verse_end": 52
+  },
+  {
+    "id": 1457,
+    "book_code": "LUK",
+    "chapter": 22,
+    "verse_start": 19,
+    "verse_end": 19
+  },
+  {
+    "id": 1458,
+    "book_code": "JHN",
+    "chapter": 10,
+    "verse_start": 28,
+    "verse_end": 28
+  },
+  {
+    "id": 1459,
+    "book_code": "ACT",
+    "chapter": 17,
+    "verse_start": 28,
+    "verse_end": 28
+  },
+  {
+    "id": 1460,
+    "book_code": "MAT",
+    "chapter": 11,
+    "verse_start": 28,
+    "verse_end": 28
+  }
+]

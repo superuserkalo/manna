@@ -6,25 +6,26 @@ def load_rows(path: str):
     rows = []
     with open(path, newline='', encoding='utf-8') as f:
         reader = csv.reader(f)
-        header_seen = False
+        #header_seen = False
 
         for row in reader:
             # Skip blank lines
             if not row or all(c.strip() == "" for c in row):
                 continue
 
-            # Skip repeated headers
-            if row[0].strip() == "id" and row[1].strip() == "reference":
+            # Skip header
+            if row[0].strip() == "id" and row[1].strip().lower() == "book":
                 continue
 
-            if len(row) < 3:
+            if len(row) < 4:
                 print("Skipping malformed row:", row)
                 continue
 
             rows.append({
                 "id": row[0].strip(),
-                "reference": row[1].strip(),
-                "theme": row[2].strip()
+                "book": row[1].strip(),
+                "chapter": row[2].strip(),
+                "verse": row[3].strip()
             })
 
     return rows
@@ -38,7 +39,7 @@ def check_duplicates(rows):
 
     for entry in rows:
         vid = entry["id"]
-        ref = entry["reference"]
+        ref = f'{entry["book"]} {entry["chapter"]}:{entry["verse"]}'
 
         # Check ID duplicates
         if vid in id_map:
@@ -55,7 +56,7 @@ def check_duplicates(rows):
 
 
 def main():
-    rows = load_rows("votd.csv")
+    rows = load_rows("../votd/votd.csv")
     print(f"Loaded {len(rows)} verse entries.")
 
     id_dupes, ref_dupes = check_duplicates(rows)
@@ -79,4 +80,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-
