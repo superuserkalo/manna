@@ -3,7 +3,6 @@ package main
 import (
 	"fmt"
 	"os"
-	//"strings"
 
 	"github.com/charmbracelet/bubbles/key"
 	"github.com/charmbracelet/bubbles/help"
@@ -78,6 +77,7 @@ type model struct {
 	selected   map[int]struct{}
 	quitting   bool
 	width      int
+	votdText   string
 }
 
 func (m model) Init() tea.Cmd {
@@ -110,11 +110,20 @@ func (m model) Update(msg tea.Msg) (tea.Model, tea.Cmd) {
 		case key.Matches(msg, m.keys.Help):
 			m.help.ShowAll = !m.help.ShowAll
 		case key.Matches(msg, m.keys.Select):
-			_, ok := m.selected[m.cursor]
-			if ok {
-				delete(m.selected, m.cursor)
-			} else {
-				m.selected[m.cursor] = struct{}{}
+			// Handle menu selection based on current cursor.
+			switch m.cursor {
+			case 0: // "Verse Of The Day"
+				m.votdText = PicknReturnVotd()
+				m.quitting = true
+				return m, tea.Quit
+			default:
+				// For now, keep simple toggle behavior for other menu items.
+				_, ok := m.selected[m.cursor]
+				if ok {
+					delete(m.selected, m.cursor)
+				} else {
+					m.selected[m.cursor] = struct{}{}
+				}
 			}
 		case key.Matches(msg, m.keys.Quit):
 			m.quitting = true
@@ -204,14 +213,24 @@ func initialModel() model {
 		// of the `choices` slice, above.
 		selected: make(map[int]struct{}),
 		quitting: false,
+		votdText: "",
 	}
 }
 
 func main() {
 	p := tea.NewProgram(initialModel())
-	_, err := p.Run()
+	m, err := p.Run()
 	if err != nil {
 		fmt.Printf("Alas, there's been an error: %v", err)
 		os.Exit(1)
+	}
+
+	// After the TUI exits, print any verse-of-the-day text the
+	// user requested to standard output.
+	if final, ok := m.(model); ok {
+		if final.votdText != "" {
+			fmt.Println()
+			fmt.Println(final.votdText)
+		}
 	}
 }

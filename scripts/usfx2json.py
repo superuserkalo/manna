@@ -17,6 +17,35 @@ BIBLE_INFO = {
     },
 }
 
+# Book IDs we want to exclude from the generated JSON.
+# - FRT / GLO are preface and glossary (mostly empty/useless here).
+# - The rest are Apocrypha / deuterocanonical books present in the source USFX.
+EXCLUDED_BOOK_IDS = {
+    # Front/back matter
+    "FRT",  # Preface
+    "GLO",  # Glossary
+    # KJV Apocrypha
+    "TOB",
+    "JDT",
+    "ESG",
+    "WIS",
+    "SIR",
+    "BAR",
+    "S3Y",
+    "SUS",
+    "BEL",
+    "1MA",
+    "2MA",
+    "1ES",
+    "MAN",
+    "2ES",
+    # WEBU-only Apocrypha additions
+    "DAG",  # Daniel (Greek)
+    "PS2",  # Psalm 151
+    "3MA",
+    "4MA",
+}
+
 sources = [
     ("../bibles/eng-kjv/bible_kjv_usfx.xml", "bible_kjv.json"),
     ("../bibles/eng-webu/bible_webu_usfx.xml", "bible_web.json"),
@@ -59,6 +88,11 @@ for source, file in sources:
     for book in root.findall("book"):
         # Example: GEN
         book_id = book.get("id")
+        if not book_id:
+            continue
+        if book_id in EXCLUDED_BOOK_IDS:
+            # Skip Apocrypha, preface, glossary, etc.
+            continue
 
         # Book display name from <h>
         header_node = book.find("h")
@@ -266,4 +300,3 @@ for source, file in sources:
 # for the future going to update this script
 if __name__ == "__main__":
     pass
-
